@@ -1,182 +1,124 @@
 		/////////////////////////////////////////////////////////////////////////////////////////////////
-
         //                                                                                             //
-
         //      Need Help? The Trader Mod has its own Channel on the DayZ Modders Discord Server!      //
-
         //                                                                                             //
-
         //      Only Singleline Comments work. Don't use Multiline Comments!                           //
-
         //      /* THIS COMMENT WILL CRASH THE SERVER! */                                              //
-
         //      // THIS COMMENT WORKS!                                                                 //
-
-        //                                                                                             //
-
+        //      Use http://trader.matthewlang.tech/ to easily edit this file                           //
         /////////////////////////////////////////////////////////////////////////////////////////////////
 
-
-
 <CurrencyName> #tm_ruble							// Currency Name (Only used for the Text in the upper right Corner of the Trader Menu)
-
 	<Currency> MoneyRuble1, 	1					// Currency Classname, Currency Money Value
-
 	<Currency> MoneyRuble5, 	5
-
 	<Currency> MoneyRuble10, 	10
-
 	<Currency> MoneyRuble25, 	25
-
 	<Currency> MoneyRuble50, 	50
-
 	<Currency> MoneyRuble100, 	100
 
-
-
 // Item Classname, Quantity, Buyvalue, Sellvalue
-
 // Quantity * means max value; Quantity V means Vehicle; Quantity VNK means Vehicle without Key; Quantity M means Magazine; Quantity W means Weapon; Quantity S means Steack Meat; Quantity K means Key Duplication
-
 // Buyvalue -1 means it can not be bought
-
 // Sellvalue -1 means it can not be sold
 
-
-
 <Trader>  Consumables
-	<Category>  Vegetables
-		CaninaBerry,	*,	5,	1
-		SambucusBerry,	*,	5,	1
-		AgaricusMushroom,	*,	-1,	50
-		AmanitaMushroom,	*,	-1,	50
-		LactariusMushroom,	*,	-1,	50
+	<Category>  Produce
+		CaninaBerry,			*,	-1,	1
+		SambucusBerry,			*,	-1,	1
+		AgaricusMushroom,		*,	-1,	10
+		AmanitaMushroom,		*,	-1,	10
+		LactariusMushroom,		*,	-1,	25
 		MacrolepiotaMushroom,	*,	-1,	75
-		PsilocybeMushroom,	*,	-1,	75
+		PsilocybeMushroom,		*,	-1,	75
 		AuriculariaMushroom,	*,	-1,	75
-		BoletusMushroom,	*,	-1,	100
-		PleurotusMushroom,	*,	-1,	150
-		Plum,	*,	100,	3
-		Kiwi,	*,	100,	3
-		Apple,	*,	100,	3
-		Pear,	*,	100,	3
-		Orange,	*,	100,	3
-		Banana,	*,	100,	3
-		Tomato,	*,	120,	12
-		Potato,	*,	150,	15
-		GreenBellPepper,	*,	200,	20
-		Zucchini,	*,	300,	30
-		Pumpkin,	*,	400,	40
-	<Category>  Packaged Food
-		PowderedMilk,	*,	200,	100
-		BoxCerealCrunchin,	*,	250,	100
-		Rice,	*,	200,	100
-		Marmalade,	*,	250,	100
-		PeachesCan,	*,	300,	100
-		SardinesCan,	*,	300,	100
-		TunaCan,	*,	300,	100
-		SpaghettiCan,	*,	600,	200
-		BakedBeansCan,	*,	600,	200
-		TacticalBaconCan,	*,	700,	250
+		BoletusMushroom,		*,	-1,	100
+		PleurotusMushroom,		*,	-1,	150
+		Plum,					*,	10,		1
+		Kiwi,					*,	-1,		25
+		Apple,					*,	-1,		25
+		Pear,					*,	-1,		25
+		Orange,					*,	-1,		50
+		Banana,					*,	-1,		50
+		Tomato,					*,	-1,		25
+		Potato,					*,	-1,		100
+		GreenBellPepper,		*,	-1,		50
+		Zucchini,				*,	-1,		75
+		Pumpkin,				*,	-1,		150
+	<Category>  Groceries
+		SardinesCan,		*,	300,	50
+		PeachesCan,			*,	-1,	100
+		TunaCan,			*,	-1, 200
+		SpaghettiCan,		*,	-1,	200
+		BakedBeansCan,		*,	-1,	250
+		Marmalade,			*,	-1,	500
+		PowderedMilk,		*,	-1,	500
+		BoxCerealCrunchin,	*,	-1,	600
+		TacticalBaconCan,	*,	-1,	750
+		Rice,				*,	-1,	1000
+		vinegar_mung,		*,	-1,	500
+		ketchup_mung,		*,	-1,	500
+	<Category>  Military Rations
+		MassMRE4,				*,	-1,	2000
+		MassMRE9,				*,	-1,	2000
+		MassMRE10,				*,	-1,	2000
+		MassMREPoppySeedCakeW,	*,	-1,	200
+		MassMREPoppySeedCakeUW,	*,	-1,	200
+		MassMRETortillaUW,		*,	-1,	200
+		MassMRETortillaW,		*,	-1,	200
+		MassMRERationHeater,	*,	-1,	200
+		MassMRECrackersW,		*,	-1,	200
+		MassMRECrackersUW,		*,	-1,	200
+		MassMREBreadW,			*,	-1,	200
+		MassMREBreadUW,			*,	-1,	200
+		MassMREPB,				*,	-1,	200
+		MassMREJelly,			*,	-1,	200
+		MassMREGrapeJelly,		*,	-1,	200
+		MassMRETobasco,			*,	-1,	200
+		MassMREHotCheeseSpread,	*,	-1,	200
+		MassMREOatmealCookieW,	*,	-1,	200
+		MassMREOatmealCookieUW,	*,	-1,	200
+		MassMREGum,				*,	-1,	200
+		MassMREDBBCobblerW,		*,	-1,	200
+		MassMREMCBeefStewW,		*,	-1,	200
+		MassMREMCChilliMacW,	*,	-1,	200
+		MassMREMCSpaghettiW,	*,	-1,	200
+		MassMREMCSpaghetti,		*,	-1,	200
+		MassMREMCChilliMac,		*,	-1,	200
+		MassMREMCBeefStew,		*,	-1,	200
+		MassMREDBBCobbler,		*,	-1,	200
 	<Category>  Drinks
-		SodaCan_Cola,	*,	1000,	500
-		SodaCan_Kvass,	*,	1000,	500
-		SodaCan_Pipsi,	*,	1000,	500
-		SodaCan_Spite,	*,	1000,	500
-		WaterBottle,	*,	200,	100
-		Canteen,	*,	1000,	300
-		Vodka,	*,	-1,	1000
-	<Category>  Medical Supplies
-		Rag,	*,	5,	2
-		Heatpack,	*,	10,	5
-		Thermometer,	*,	15,	15
-		DisinfectantSpray,	*,	25,	25
-		BloodTestKit,	*,	500,	25
+		WaterBottle,	*,	250,	25
+		SodaCan_Cola,	*,	500,	50
+		SodaCan_Pipsi,	*,	500,	50
+		SodaCan_Spite,	*,	500,	50
+		SodaCan_Kvass,	*,	-1,		100
+		Vodka,			*,	-1,		500
+	<Category>  First Aid Supplies
 		BandageDressing,	*,	200,	25
-		StartKitIV,	*,	300,	25
-		SalineBag,	*,	150,	25
-		BloodBagEmpty,	*,	500,	100
-		FirstAidKit,	*,	300,	100
-		//Defibrillator,	*,	35,	20
-		//InjectionVial,	*,	5,	2
-		//Syringe,	*,	8,	5
-	<Category>  Medications
-		DisinfectantAlcohol,	*,	15,	15
-		PurificationTablets,	*,	20,	5
-		VitaminBottle,	*,	25,	25
-		CharcoalTablets,	*,	40,	30
-		TetracyclineAntibiotics,	*,	200,	100
-		PainkillerTablets,	*,	40,	30
-		Epinephrine,	*,	55,	25
-		Morphine,	*,	65,	35
-	<Category>  Money Exchange
-		MoneyRuble1,	1,	1,	-1
-		MoneyRuble5,	1,	5,	-1
-		MoneyRuble10,	1,	10,	-1
-		MoneyRuble25,	1,	25,	-1
-		MoneyRuble50,	1,	50,	-1
-		MoneyRuble100,	1,	100,	-1
-	<Category>  Cures
-		KuruInjectorCure,	*,	1000,	500
-		SalmonellaInjectorCure,	*,	1000,	500
-		InfluenzaInjectorCure,	*,	1000,	500
-		CholeraInjectorCure,	*,	1000,	500
-	<Category>  Munghards Itempack
-		guitar_mung,	*,	200,	100
-		teddyhead_mung,	*,	200,	100
-		bowieknife_mung,	*,	2000,	1000
-		hardigg_Mung,	*,	300,	150
-		stielhandgranate_mung,	*,	800,	400
-		oxygentankrig_mung,	*,	5000,	2500
-		RollingPapers_Jest,	*,	100,	50
-		hannibal_mask_mung,	*,	100,	50
-		joint_mung,	*,	100,	50
-		cigarette_mung,	*,	100,	50
-		cigar_mung,	*,	100,	50
-		vinegar_mung,	*,	100,	50
-		ketchup_mung,	*,	100,	50
-		Vesuri_mung,	*,	100,	50
-		brain_Mung,	*,	100,	50
-		sherlockpipe_mung,	*,	100,	50
-		Clawhammer_mung,	*,	200,	100
-		pickles_closed,	*,	100,	50
-		Zippo_new,	*,	1000,	500
-		katana_Mung,	*,	-1,	5000
-		maglite_mung,	*,	600,	300
-		Airam_mung,	*,	400,	200
-		oillamp_mung,	*,	200,	100
-		SAK_Mung,	*,	300,	150
-		sandwich_mung,	*,	100,	50
-		Scythe_Mung,	*,	200,	100
-	<Category>  Mass
-		MassMRE4,	*,	1000,	500
-		MassMRE9,	*,	1000,	500
-		MassMRE10,	*,	1000,	500
-		MassMREPoppySeedCakeW,	*,	150,	50
-		MassMREPoppySeedCakeUW,	*,	150,	50
-		MassMRETortillaUW,	*,	150,	50
-		MassMRETortillaW,	*,	150,	50
-		MassMRERationHeater,	*,	1000,	50
-		MassMRECrackersW,	*,	1000,	50
-		MassMRECrackersUW,	*,	1000,	50
-		MassMREBreadW,	*,	1000,	50
-		MassMREBreadUW,	*,	1000,	50
-		MassMREPB,	*,	1000,	50
-		MassMREJelly,	*,	1000,	50
-		MassMREGrapeJelly,	*,	1000,	50
-		MassMRETobasco,	*,	1000,	50
-		MassMREHotCheeseSpread,	*,	100,	50
-		MassMREOatmealCookieW,	*,	100,	50
-		MassMREOatmealCookieUW,	*,	100,	50
-		MassMREGum,	*,	1000,	50
-		MassMREDBBCobblerW,	*,	100,	50
-		MassMREMCBeefStewW,	*,	100,	50
-		MassMREMCChilliMacW,	*,	100,	50
-		MassMREMCSpaghettiW,	*,	100,	50
-		MassMREMCSpaghetti,	*,	100,	50
-		MassMREMCChilliMac,	*,	100,	50
-		MassMREMCBeefStew,	*,	100,	50
-		MassMREDBBCobbler,	*,	100,	50
+		BloodTestKit,		*,	250,	25
+		StartKitIV,			*,	500,	50
+		SalineBag,			*,	500,	100
+		BloodBagEmpty,		*,	400,	40	
+		BloodBagFull,		*,	-1,		1000			
+		Heatpack,			*,	-1,		25
+		Thermometer,		*,	-1,		100
+		DisinfectantAlcohol,	*,	-1,	30
+		DisinfectantSpray,	*,	-1,	25
+		FirstAidKit,		*,	-1,	200
+		InjectionVial,		*,	-1,	1
+		Syringe,			*,	-1,	5
+		Defibrillator,		*,	-1,	1000
+	<Category>  Medicine
+		VitaminBottle,			*,	1000,	100
+		CharcoalTablets,		*,	1000,	100
+		TetracyclineAntibiotics,	*,	2000,	200
+		PainkillerTablets,		*,	-1,		200
+		Epinephrine,			*,	-1,		900
+		Morphine,				*,	-1,		400
+		InfluenzaInjectorCure,	*,	2000,	200
+		SalmonellaInjectorCure,	*,	3000,	300
+		CholeraInjectorCure,	*,	3000,	300
+		KuruInjectorCure,		*,	10000,	500
 <Trader>  Tools 
 	<Category>  Small Tools
 		Matchbox,	*,	600,	3
