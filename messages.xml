@@ -14,7 +14,7 @@
 <delay>10</delay>
 <repeat>30</repeat>
 <onConnect>1</onConnect>
-<text>Please read and follow our server rules!</text>
+<text>Please read and follow rules.  Hit Pause/Break button to view help.</text>
 </message>
 
 <!-- Repeating message #2 -->
@@ -30,7 +30,7 @@
 <delay>20</delay>
 <repeat>60</repeat>
 <onConnect>1</onConnect>
-<text>Be sure to join our discord!</text>
+<text>Be sure to join our discord! Invite: cW6Uj95xPY</text>
 </message>
 
 </messages>
