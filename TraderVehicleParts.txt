@@ -891,6 +891,80 @@ VehicleParts> rag_hummer_Armored
              HeadlightH7
              HeadlightH7
 
+<VehicleParts>"LANEvoque2016_Blue
+	LANEvoque2016_Driver_Blue
+	LANEvoque2016_CoDriver_Blue
+	LANEvoque2016_Hood_Blue
+	LANEvoque2016_Trunk_Blue
+	LANEvoque2016_Wheel_1
+	LANEvoque2016_Wheel_1
+	LANEvoque2016_Wheel_1
+	LANEvoque2016_Wheel_1
+	SparkPlug						
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	
+<VehicleParts>"LANEvoque2016_ChromePurple
+	LANEvoque2016_Driver_ChromePurple
+	LANEvoque2016_CoDriver_ChromePurple
+	LANEvoque2016_Hood_ChromePurple
+	LANEvoque2016_Trunk_ChromePurple
+	LANEvoque2016_Wheel_1
+	LANEvoque2016_Wheel_1
+	LANEvoque2016_Wheel_1
+	LANEvoque2016_Wheel_1
+	SparkPlug						
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	
+<VehicleParts>"LANEvoque2016_Gold
+	LANEvoque2016_Driver_Gold
+	LANEvoque2016_CoDriver_Gold
+	LANEvoque2016_Hood_Gold
+	LANEvoque2016_Trunk_Gold
+	LANEvoque2016_Wheel_1
+	LANEvoque2016_Wheel_1
+	LANEvoque2016_Wheel_1
+	LANEvoque2016_Wheel_1
+	SparkPlug						
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	
+<VehicleParts>"LANEvoque2016_Red
+	LANEvoque2016_Driver_Red
+	LANEvoque2016_CoDriver_Red
+	LANEvoque2016_Hood_Red
+	LANEvoque2016_Trunk_Red
+	LANEvoque2016_Wheel_1
+	LANEvoque2016_Wheel_1
+	LANEvoque2016_Wheel_1
+	LANEvoque2016_Wheel_1
+	SparkPlug						
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	
+<VehicleParts>"LANEvoque2016_White
+	LANEvoque2016_Driver_White
+	LANEvoque2016_CoDriver_White
+	LANEvoque2016_Hood_White
+	LANEvoque2016_Trunk_White
+	LANEvoque2016_Wheel_1
+	LANEvoque2016_Wheel_1
+	LANEvoque2016_Wheel_1
+	LANEvoque2016_Wheel_1
+	SparkPlug						
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
 
 	
 //<OpenFile> FileName.txt			// Links to another File; Must be right above <FileEnd>!
