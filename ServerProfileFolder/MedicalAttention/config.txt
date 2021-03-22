@@ -1,0 +1,74 @@
+Tiredness					= 0
+	TireTime (minutes)				= 210
+	EyeClosingPoint  (percent)		= 20
+	TextReports						= 0
+	EnergizingDrinkGain (percent)	= 20
+	EnergizingDrinkClass			= SodaCan_Cola
+	EnergizingDrinkClass			= SodaCan_Pipsi
+	EnergizingDrinkClass			= SodaCan_Spite
+	SleepingBagClass 				= MediumTent
+	SleepingDOF						= 1
+
+ZombieBleedChance (percent)			= 15
+ZombieSalmonellaChance (percent)	= 15
+WoundInfectionChance (percent)		= 20
+ZombieArmFractureChance (percent)	= 10
+FeverActive							= 1
+BrainDisease						= 1
+AntibioticsStrength					= 10
+SalineBloodRegen					= 0
+TestBloodSelf						= 1
+TestBloodTarget						= 1
+TestBloodToxin						= 1
+
+AlcoholicDrinkClass					= SodaCan_Kvass
+AlcoholicDrinkClass					= DisinfectantAlcohol = 3.5
+AlcoholicLiquid				= Beer
+AlcoholicLiquid				= Vodka = 2
+
+ZoneType = Biohazard
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 1800.00 0 13830.22
+ZoneRadiusMin = 220
+ZoneRadiusMax = 290
+ZoneMsgIn = CAUTION: Hazardous vapors in Tisy irritate your eyes, nose and throat, leaving a metalic aftertaste.   
+ZoneMsgOut = RELAX: The air is normal again. 
+
+ZoneType = Biohazard
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 1377.49 0 13790.41
+ZoneRadiusMin = 30
+ZoneRadiusMax = 50
+ZoneMsgIn = CAUTION: An acidic bouquet of odors is carried on the breeze from the woods.       
+ZoneMsgOut = RELAX: The air is normal again. 
+
+ToxinAccumulationTimeMin = 5
+ToxinAccumulationTimeMax = 80
+OldBiohazardDamage = 0
+
+ProtectionSuit = NBCBootsGray = 5
+ProtectionSuit = MassNBCbootsYellow = 5
+ProtectionSuit = NBCGlovesGray = 5
+ProtectionSuit = MassNBCglovesBlue = 5
+ProtectionSuit = NBCHoodGray = 10
+ProtectionSuit = MassNBChoodYellow = 10
+ProtectionSuit = NBCJacketGray = 10
+ProtectionSuit = nbc_longcoat_mung = 10
+ProtectionSuit = MassNBCJacketYellow = 10
+ProtectionSuit = NBCPantsGray = 10
+ProtectionSuit = MassNBCpantsYellow = 10
+ProtectionSuit = GP5GasMask = 50 = 1
+ProtectionSuit = GasMask = 60 = 1
+ProtectionSuit = mag3_gasmask_mung = 40 = 1
+ProtectionSuit = stalker_gasmask_white_mung = 40 = 1
+ProtectionSuit = stalker_gasmask_black_mung = 40 = 1
+ProtectionSuit = MVS_S10Respirator_Black = 40 = 1
+ProtectionSuit = MVS_M50Respirator_Black = 40 = 1
+ProtectionSuit = MVS_PMK2Respirator_Black = 40 = 1
+ProtectionSuit = MVS_S10Respirator_Tan = 40 = 1
+ProtectionSuit = MVS_M50Respirator_Tan = 40 = 1
+ProtectionSuit = MVS_PMK2Respirator_Tan = 40 = 1
+ProtectionSuit = MVS_S10Respirator_OD = 40 = 1
+ProtectionSuit = MVS_M50Respirator_OD = 40 = 1
+ProtectionSuit = MVS_PMK2Respirator_OD = 40 = 1
+ProtectionSuit = MVS_S10Respirator_FS = 40 = 1
