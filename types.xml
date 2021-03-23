@@ -100,7 +100,7 @@
         <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2161,7 +2161,7 @@
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min></min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -22724,7 +22724,7 @@
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="BBP_Carpet">
-        <nominal></nominal>
+        <nominal>0</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -25928,10 +25928,10 @@
     <usage name="Industrial"/>
 </type>
 <type name="DingoTrunk">
-    <nominal>5</nominal>
+    <nominal>8</nominal>
     <lifetime>2700</lifetime>
     <restock>2</restock>
-    <min>8</min>
+    <min>6</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
