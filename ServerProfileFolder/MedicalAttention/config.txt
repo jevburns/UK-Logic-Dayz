@@ -15,7 +15,7 @@ WoundInfectionChance (percent)		= 20
 ZombieArmFractureChance (percent)	= 10
 FeverActive							= 1
 BrainDisease						= 1
-AntibioticsStrength					= 10
+AntibioticsStrength					= 5
 SalineBloodRegen					= 0
 TestBloodSelf						= 1
 TestBloodTarget						= 1
@@ -26,21 +26,14 @@ AlcoholicDrinkClass					= DisinfectantAlcohol = 3.5
 AlcoholicLiquid				= Beer
 AlcoholicLiquid				= Vodka = 2
 
-ZoneType = Biohazard
-ZoneChance (percent) = 100
-ZoneCenter (X Y Z) = 1800.00 0 13830.22
-ZoneRadiusMin = 220
-ZoneRadiusMax = 290
-ZoneMsgIn = CAUTION: Hazardous vapors in Tisy irritate your eyes, nose and throat, leaving a metalic aftertaste.   
-ZoneMsgOut = RELAX: The air is normal again. 
-
-ZoneType = Biohazard
-ZoneChance (percent) = 100
-ZoneCenter (X Y Z) = 1377.49 0 13790.41
-ZoneRadiusMin = 30
-ZoneRadiusMax = 50
-ZoneMsgIn = CAUTION: An acidic bouquet of odors is carried on the breeze from the woods.       
-ZoneMsgOut = RELAX: The air is normal again. 
+DeclareZone = 4 = 1800.00 = 13830.22 = 290 = CAUTION: Hazardous vapors in Tisy irritate your eyes, nose and throat, leaving a metalic aftertaste. = RELAX: The air is normal again.
+DeclareRandomZone = 4 = 50 = 1377.49 = 13790.41 = 30 = 50 = CAUTION: An acidic bouquet of odors is carried on the breeze from the woods = RELAX: The air is normal again
+DeclareRandomZone = 4 = 30 = 1448.46 = 13685.41 = 30 = 40 = CAUTION: Entering a toxic area = RELAX: The air is normal again
+DeclareRandomZone = 4 = 30 = 1503.39 = 13622.70 = 25 = 25 = CAUTION: Entering a toxic area = RELAX: The air is normal again
+DeclareRandomZone = 4 = 50 = 1550.05 = 13556.11 = 30 = 50 = CAUTION: Entering a toxic area = RELAX: The air is normal again
+DeclareRandomZone = 4 = 30 = 1589.91 = 13986.80 = 225 = 250 = CAUTION: Entering a toxic area = RELAX: The air is normal again
+DeclareRandomZone = 4 = 50 = 1687.13 = 14332.91 = 80 = 95 = CAUTION: Entering a toxic area = RELAX: The air is normal again
+DeclareRandomZone = 4 = 20 = 1442.14 = 14436.94 = 80 = 90 = CAUTION: Entering a toxic area = RELAX: The air is normal again
 
 ToxinAccumulationTimeMin = 5
 ToxinAccumulationTimeMax = 80
@@ -72,3 +65,4 @@ ProtectionSuit = MVS_S10Respirator_OD = 40 = 1
 ProtectionSuit = MVS_M50Respirator_OD = 40 = 1
 ProtectionSuit = MVS_PMK2Respirator_OD = 40 = 1
 ProtectionSuit = MVS_S10Respirator_FS = 40 = 1
+ProtectionSuit = Massblackgp5 = 40 = 1
