@@ -35,7 +35,7 @@
 		PleurotusMushroom,		*,	-1,	150
 		Plum,					*,	10,		1
 		Kiwi,					*,	-1,		25
-		Apple,					*,	20,		25
+		Apple,					*,	-1,		25
 		Pear,					*,	-1,		25
 		Orange,					*,	-1,		50
 		Banana,					*,	-1,		50
@@ -46,8 +46,8 @@
 		Pumpkin,				*,	-1,		150
 	<Category>  Groceries
 		SardinesCan,		*,	300,	50
-		PeachesCan,			*,	400,	100
-		TunaCan,			*,	500, 200
+		PeachesCan,			*,	-1,	100
+		TunaCan,			*,	-1, 200
 		SpaghettiCan,		*,	-1,	200
 		BakedBeansCan,		*,	-1,	250
 		Marmalade,			*,	-1,	500
@@ -202,7 +202,6 @@
 		Spotlight,	*,	400,	100
 	<Category>  BaseBuildingPlus
 		BBP_Land_Claim_FlagKit,	*,	35000,	2500
-		BBP_Land_Claim_Flag,	*,	1000,	250
 		BBP_Blueprint,	*,	10000,	1250
 		BBP_Workbench,	*,	5000,	1250
 		BBP_Cement,	*,	1000,	30
@@ -1884,6 +1883,19 @@
 		MassArmbandDouble_Orel,	*,	1000,	500
 		MassArmbandDouble_BWS,	*,	1000,	500
 		MassArmbandDouble_BT,	*,	1000,	500
+
+         <Category> Biohazard
+                MassNBC_Bag,	*,	1000,	500
+		MassNBCJacketYellow,	*,	1000,	500
+		MassNBCbootsYellow,	*,	1000,	500
+		MassNBCglovesBlue,	*,	1000,	500
+		MassNBCpantsYellow,	*,	1000,	500
+		MassNBChoodYellow,	*,	1000,	500
+                NBCJacketGray,	*,	2500,	800
+                NBCBootsGray,	*,	1500,	500
+                NBCPantsGray,	*,	2000,	650
+                NBCHoodGray,	*,	1000,	300
+ 
 <Trader>  Vehicles Trader
 	<Category>  Vehicles
 		OffroadHatchback,	VNK,	140000,	15000
