@@ -24301,10 +24301,10 @@
         <usage name="Village"/>
     </type>
     <type name="RollingPapers_Jest">
-        <nominal>24</nominal>
+        <nominal>15</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24343,10 +24343,10 @@
         <usage name="Village"/>
     </type>
     <type name="cigarette_mung">
-        <nominal>12</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24357,10 +24357,10 @@
         <usage name="Village"/>
     </type>
     <type name="cigar_mung">
-        <nominal>12</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -38526,27 +38526,24 @@
         <value name="Tier3"/>           
     </type>
     <type name="CP_Plant_CannabisSkunk">
-        <lifetime>3888000</lifetime>
+        <lifetime>1209600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_CannabisSkunk">
-        <nominal>45</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <tag name="shelves"/>
         <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
     </type>
     <type name="CP_CannabisSeedsSkunk">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -38556,21 +38553,24 @@
         <category name="food"/>
     </type>
     <type name="CP_CannabisSeedsPackSkunk">
-        <nominal>30</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>40</nominal>
+        <lifetime>604800</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <usage name="Farm"/>
-        <usage name="Hunting"/>
+        <value name="Tier1"/>       
+        <value name="Tier2"/>
+        <value name="Tier3"/>       
+        <value name="Tier4"/> 		
     </type>
     <type name="CP_CannabisBagSkunk">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -38581,7 +38581,7 @@
     </type>
     <type name="CP_CannabisBrickSkunk">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>86400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -38591,54 +38591,45 @@
         <category name="food"/>
     </type>
     <type name="CP_CigarettePack_CannabisSkunk">
-        <nominal>10</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>0</min>
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier4"/>
+        <category name="food"/>
     </type>
     <type name="CP_JointSkunk">
-        <nominal>45</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
+        <category name="food"/>
     </type>
     <type name="CP_Plant_CannabisBlue">
-        <lifetime>3888000</lifetime>
+        <lifetime>1209600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_CannabisBlue">
-        <nominal>15</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
     </type>
     <type name="CP_CannabisSeedsBlue">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -38648,21 +38639,24 @@
         <category name="food"/>
     </type>
     <type name="CP_CannabisSeedsPackBlue">
-        <nominal>10</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>35</nominal>
+        <lifetime>604800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>9</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <usage name="Farm"/>
-        <usage name="Hunting"/>
+        <value name="Tier1"/>       
+        <value name="Tier2"/>
+        <value name="Tier3"/>       
+        <value name="Tier4"/> 	
     </type>
     <type name="CP_CannabisBagBlue">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -38673,7 +38667,7 @@
     </type>
     <type name="CP_CannabisBrickBlue">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -38683,54 +38677,45 @@
         <category name="food"/>
     </type>
     <type name="CP_CigarettePack_CannabisBlue">
-        <nominal>5</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier4"/>
+        <category name="food"/>
     </type>
     <type name="CP_JointBlue">
-        <nominal>15</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
+        <category name="food"/>
     </type>
     <type name="CP_Plant_CannabisKush">
-        <lifetime>3888000</lifetime>
+        <lifetime>1209600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_CannabisKush">
-        <nominal>9</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>7</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
     </type>
     <type name="CP_CannabisSeedsKush">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -38740,21 +38725,23 @@
         <category name="food"/>
     </type>
     <type name="CP_CannabisSeedsPackKush">
-        <nominal>6</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>30</nominal>
+        <lifetime>604800</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <usage name="Farm"/>
-        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>       
+        <value name="Tier4"/> 	
     </type>
     <type name="CP_CannabisBagKush">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -38765,7 +38752,7 @@
     </type>
     <type name="CP_CannabisBrickKush">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>6048000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -38775,54 +38762,45 @@
         <category name="food"/>
     </type>
     <type name="CP_CigarettePack_CannabisKush">
-        <nominal>3</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier4"/>
+        <category name="food"/>
     </type>
     <type name="CP_JointKush">
-        <nominal>9</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>7</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
+        <category name="food"/>
     </type>
     <type name="CP_Plant_CannabisStardawg">
-        <lifetime>3888000</lifetime>
+        <lifetime>1209600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_CannabisStardawg">
-        <nominal>6</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
     </type>
     <type name="CP_CannabisSeedsStardawg">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -38832,21 +38810,23 @@
         <category name="food"/>
     </type>
     <type name="CP_CannabisSeedsPackStardawg">
-        <nominal>4</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>25</nominal>
+        <lifetime>604800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <usage name="Farm"/>
-        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>       
+        <value name="Tier4"/> 	
     </type>
     <type name="CP_CannabisBagStardawg">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -38857,7 +38837,7 @@
     </type>
     <type name="CP_CannabisBrickStardawg">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -38867,56 +38847,47 @@
         <category name="food"/>
     </type>
     <type name="CP_CigarettePack_CannabisStardawg">
-        <nominal>2</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier4"/>
+        <category name="food"/>
     </type>
     <type name="CP_JointStardawg">
-        <nominal>6</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
+        <category name="food"/>
     </type>
     <type name="CP_Plant_Tobacco">
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_Tobacco">
-        <nominal>50</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>35</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
     </type>
     <type name="CP_TobaccoSeeds">
-        <nominal>50</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -38924,126 +38895,104 @@
         <category name="food"/>
     </type>
     <type name="CP_TobaccoSeedsPack">
-        <nominal>33</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>25</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <usage name="Farm"/>
-        <usage name="Hunting"/>
     </type>
     <type name="CP_CigarettePack_Empty">
-        <nominal>20</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
+        <category name="food"/>
     </type>
     <type name="CigarettePack_Chernamorka">
-        <nominal>10</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <category name="food"/>
     </type>
     <type name="CigarettePack_Merkur">
-        <nominal>10</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <category name="food"/>
     </type>
     <type name="CigarettePack_Partyzanka">
-        <nominal>10</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <category name="food"/>
     </type>
     <type name="CP_Cigarette">
-        <nominal>50</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>35</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
+        <category name="food"/>
     </type>
     <type name="CP_RollingPapers">
-        <nominal>40</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>30</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>4</min>
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
 
 <!-- V2.1 - 13 Oct 2020 -->
     <type name="CP_Plant_CannabisFuture">
-        <lifetime>3888000</lifetime>
+        <lifetime>1209600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_CannabisFuture">
-        <nominal>6</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
     </type>
     <type name="CP_CannabisSeedsFuture">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -39053,21 +39002,22 @@
         <category name="food"/>
     </type>
     <type name="CP_CannabisSeedsPackFuture">
-        <nominal>4</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>20</nominal>
+        <lifetime>604800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <usage name="Farm"/>
-        <usage name="Hunting"/>
+        <value name="Tier3"/>       
+        <value name="Tier4"/> 
     </type>
     <type name="CP_CannabisBagFuture">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -39078,7 +39028,7 @@
     </type>
     <type name="CP_CannabisBrickFuture">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -39088,54 +39038,45 @@
         <category name="food"/>
     </type>
     <type name="CP_CigarettePack_CannabisFuture">
-        <nominal>2</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier4"/>
+        <category name="food"/>
     </type>
     <type name="CP_JointFuture">
-        <nominal>6</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
+        <category name="food"/>
     </type>
     <type name="CP_Plant_CannabisS1">
-        <lifetime>3888000</lifetime>
+        <lifetime>1209600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_CannabisS1">
-        <nominal>6</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
     </type>
     <type name="CP_CannabisSeedsS1">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -39145,21 +39086,22 @@
         <category name="food"/>
     </type>
     <type name="CP_CannabisSeedsPackS1">
-        <nominal>4</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>15</nominal>
+        <lifetime>604800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <usage name="Farm"/>
-        <usage name="Hunting"/>
+        <value name="Tier3"/>       
+        <value name="Tier4"/> 
     </type>
     <type name="CP_CannabisBagS1">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -39170,7 +39112,7 @@
     </type>
     <type name="CP_CannabisBrickS1">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -39180,54 +39122,45 @@
         <category name="food"/>
     </type>
     <type name="CP_CigarettePack_CannabisS1">
-        <nominal>2</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier4"/>
+        <category name="food"/>
     </type>
     <type name="CP_JointS1">
-        <nominal>6</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
+        <category name="food"/>
     </type>
-        <type name="CP_Plant_CannabisNomad">
-        <lifetime>3888000</lifetime>
+	<type name="CP_Plant_CannabisNomad">
+        <lifetime>1209600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_CannabisNomad">
-        <nominal>6</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
     </type>
     <type name="CP_CannabisSeedsNomad">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -39237,21 +39170,21 @@
         <category name="food"/>
     </type>
     <type name="CP_CannabisSeedsPackNomad">
-        <nominal>4</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>10</nominal>
+        <lifetime>604800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <usage name="Farm"/>
-        <usage name="Hunting"/>
+        <value name="Tier4"/> 
     </type>
     <type name="CP_CannabisBagNomad">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -39262,7 +39195,7 @@
     </type>
     <type name="CP_CannabisBrickNomad">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -39272,56 +39205,47 @@
         <category name="food"/>
     </type>
     <type name="CP_CigarettePack_CannabisNomad">
-        <nominal>2</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier4"/>
+        <category name="food"/>
     </type>
     <type name="CP_JointNomad">
-        <nominal>6</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
+        <category name="food"/>
     </type>
     <type name="CP_Plant_CannabisBlackFrost">
-        <lifetime>3888000</lifetime>
+        <lifetime>1209600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="CP_CannabisBlackFrost">
-        <nominal>6</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
     </type>
     <type name="CP_CannabisSeedsBlackFrost">
-        <nominal>20</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -39329,21 +39253,21 @@
         <category name="food"/>
     </type>
     <type name="CP_CannabisSeedsPackBlackFrost">
-        <nominal>4</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>5</nominal>
+        <lifetime>604800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <usage name="Farm"/>
-        <usage name="Hunting"/>
+        <value name="Tier4"/> 
     </type>
     <type name="CP_CannabisBagBlackFrost">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -39354,7 +39278,7 @@
     </type>
     <type name="CP_CannabisBrickBlackFrost">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -39364,37 +39288,32 @@
         <category name="food"/>
     </type>
     <type name="CP_CigarettePack_CannabisBlackFrost">
-        <nominal>2</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>1</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier4"/>
+        <category name="food"/>
     </type>
     <type name="CP_JointBlackFrost">
-        <nominal>6</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <usage name="Medic"/>
-        <tag name="shelves"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
+        <category name="food"/>
     </type>
     <type name="CP_Relief_Balm">
-        <nominal>20</nominal>
-        <lifetime>3888000</lifetime>
+        <nominal>5</nominal>
+        <lifetime>604800</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

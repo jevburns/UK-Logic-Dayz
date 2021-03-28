@@ -2313,7 +2313,6 @@
 		LANEvoque2016_Wheel_4,			*,	2500,	1000
 		LANEvoque2016_Wheel_5,			*,	2500,	1000
 		LANEvoque2016_Wheel_6,			*,	2500,	1000
-
 	<Category>  Keys
 		MCK_CarKey_Base,	*,	5000,	-1
 		MCK_CarKey_Blue,	*,	5000,	-1
@@ -2549,70 +2548,51 @@
 		A2M107_Magazine,	*,	1000,	250
 		Mag_lebedev_PL15_16Rnd,	*,	500,	100
 	<Category>  Drinks
-		SodaCan_Cola,	*,	1000,	500
-		SodaCan_Kvass,	*,	1000,	500
-		SodaCan_Pipsi,	*,	1000,	500
-		SodaCan_Spite,	*,	1000,	500
-		WaterBottle,	*,	200,	100
-		Canteen,	*,	1000,	300
-		Vodka,	*,	-1,	10000
+		WaterBottle,	*,	200,	-1
+		SodaCan_Kvass,	*,	1000,	-1
+		Vodka,			*,	-1,		10000
 	<Category>  Medical Supplies
-		Rag,	1,	5,	2
-		Heatpack,	*,	10,	5
-		Thermometer,	*,	15,	15
-		DisinfectantSpray,	*,	25,	25
-		BloodTestKit,	*,	500,	25
-		BandageDressing,	1,	200,	25
-		StartKitIV,	*,	300,	25
-		SalineBag,	*,	150,	25
-		BloodBagEmpty,	*,	500,	100
-		FirstAidKit,	*,	300,	100
-		//Defibrillator,	*,	35,	20
-		//InjectionVial,	*,	5,	2
-		//Syringe,	*,	8,	5
-		MassMeth,	*,	-1,	10000
-	<Category>  Cures
-		KuruInjectorCure,	*,	1000,	500
-		SalmonellaInjectorCure,	*,	1000,	500
-		InfluenzaInjectorCure,	*,	1000,	500
-		CholeraInjectorCure,	*,	1000,	500
-	<Category>  Cannabis
-		CP_Relief_Balm,	*,	200,	175
-		CP_RollingPapers,	*,	200,	175
-		CigarettePack_Chernamorka,	*,	-1,	600
-		CigarettePack_Merkur,	*,	-1,	600
-		CigarettePack_Partyzanka,	*,	-1,	600
-		//		CP_TobaccoSeedsPack,	*,	-1,	-1
-		CP_CigarettePack_CannabisSkunk,	*,	-1,	800
-		CP_CannabisBagSkunk,	1,	-1,	310
-		CP_CannabisBrickSkunk,	*,	-1,	5000
-		//		CP_CannabisSeedsPackSkunk,	*,	-1,	-1
-		CP_CigarettePack_CannabisBlue,	*,	-1,	1600
-		CP_CannabisBagBlue,	1,	-1,	630
-		CP_CannabisBrickBlue,	*,	-1,	10000
-		//		CP_CannabisSeedsPackBlue,	*,	-1,	-1
-		CP_CigarettePack_CannabisKush,	*,	-1,	2350
-		CP_CannabisBagKush,	1,	-1,	940
-		CP_CannabisBrickKush,	*,	-1,	15000
-		//		CP_CannabisSeedsPackKush,	*,	-1,	-1
-		CP_CigarettePack_CannabisStardawg,	*,	-1,	3150
-		CP_CannabisBagStardawg,	1,	-1,	1250
-		CP_CannabisBrickStardawg,	*,	-1,	20000
-		//		CP_CannabisSeedsPackStardawg,	*,	-1,	-1
-		CP_CigarettePack_CannabisFuture,	*,	-1,	3150
-		CP_CannabisBagFuture,	1,	-1,	1250
-		CP_CannabisBrickFuture,	*,	-1,	20000
-		//		CP_CannabisSeedsPackFuture,	*,	-1,	-1
-		CP_CigarettePack_CannabisS1,	*,	-1,	3150
-		CP_CannabisBagS1,	1,	-1,	1250
-		CP_CannabisBrickS1,	*,	-1,	20000
-		//		CP_CannabisSeedsPackS1,	*,	-1,	-1
-		CP_CigarettePack_CannabisNomad,	*,	-1,	3150
-		CP_CannabisBagNomad,	1,	-1,	1250
-		CP_CannabisBrickNomad,	*,	-1,	20000
-		//		CP_CannabisSeedsPackNomad,	*,	-1,	-1
-		CP_CigarettePack_CannabisBlackFrost,	*,	-1,	3150
-		CP_CannabisBagBlackFrost,	1,	-1,	1250
-		CP_CannabisBrickBlackFrost,	*,	-1,	20000
-		//		CP_CannabisSeedsPackBlackFrost,	*,	-1,	-1
+		BandageDressing,		1,	500,	-1
+		FirstAidKit,			*,	2000,	-1
+		CP_Relief_Balm,			*,	1000,	500
+		InfluenzaInjectorCure,	*,	1000,	-1
+		SalmonellaInjectorCure,	*,	2000,	-1
+		CholeraInjectorCure,	*,	2000,	-1
+		KuruInjectorCure,		*,	5000,	-1
+		Defibrillator,			*,	20000,	5000
+	<Category>  Recreational Use
+		CigarettePack_Chernamorka,				*,	10,	5
+		CigarettePack_Merkur,					*,	10,	5
+		CigarettePack_Partyzanka,				*,	10,	5
+		CP_CigarettePack_CannabisSkunk,			*,	200,	100
+		CP_CigarettePack_CannabisBlue,			*,	240,	120
+		CP_CigarettePack_CannabisKush,			*,	300,	150
+		CP_CigarettePack_CannabisStardawg,		*,	385,	190
+		CP_CigarettePack_CannabisFuture,		*,	500,	250
+		CP_CigarettePack_CannabisS1,			*,	720,	360
+		CP_CigarettePack_CannabisNomad,			*,	1150,	575
+		CP_CigarettePack_CannabisBlackFrost,	*,	2400,	1200
+<Trader> Fish Monger								
+	<Category> Fish									
+		Sardines,			*,		50,		-1		
+		Mackerel,			*,		150,	-1
+		Carp,				*,		200,	-1		
+	<Category> Narcotics
+		MassMeth,					*,	-1,	10000
+		CP_CannabisBagSkunk,		*,	-1,	410
+		CP_CannabisBagBlue,			*,	-1,	500
+		CP_CannabisBagKush,			*,	-1,	700
+		CP_CannabisBagStardawg,		*,	-1,	900
+		CP_CannabisBagFuture,		*,	-1,	1200
+		CP_CannabisBagS1,			*,	-1,	1700
+		CP_CannabisBagNomad,		*,	-1,	2700
+		CP_CannabisBagBlackFrost,	*,	-1,	5680
+		CP_CannabisBrickSkunk,		*,	-1,	8125
+		CP_CannabisBrickBlue,		*,	-1,	10000
+		CP_CannabisBrickKush,		*,	-1,	12500
+		CP_CannabisBrickStardawg,	*,	-1,	16000
+		CP_CannabisBrickFuture,		*,	-1,	21250
+		CP_CannabisBrickS1,			*,	-1,	30000
+		CP_CannabisBrickNomad,		*,	-1,	47500
+		CP_CannabisBrickBlackFrost,	*,	-1,	100000
 <FileEnd>

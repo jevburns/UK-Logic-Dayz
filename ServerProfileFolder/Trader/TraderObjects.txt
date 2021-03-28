@@ -68,7 +68,11 @@
 <TraderMarkerPosition>  8210.97,   2.83811,    2176.59
 <TraderMarkerSafezone>  0
 
+// Korwiins Fish Monger
 
+<TraderMarker> 			8
+<TraderMarkerPosition>	6560.562012,    1.622550,    2223.595215
+<TraderMarkerSafezone>	0
 
 
 // ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
@@ -492,7 +496,51 @@
 <ObjectAttachment>	MilitaryBoots_Black
 <ObjectAttachment>	AliceBag_Camo
 
+// Korwiins Fish Monger
 
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	6560.562012,    1.622550,    2223.595215
+<ObjectOrientation>	0, 0,			0
+<ObjectAttachment>	ChestHolster
+<ObjectAttachment>	Engraved1911
+<ObjectAttachment>	BaseballCap_Camo
+<ObjectAttachment>	SportGlasses_Green
+<ObjectAttachment>	HikingBoots_Brown
+<ObjectAttachment>	HunterPants_Brown
+<ObjectAttachment>	Shirt_PlaneBlack
+<ObjectAttachment>	MilitaryBelt
+
+<Object>			vbldr_ship_big_lifeboat
+<ObjectPosition>	6560.089844,	0.481610,	2220.840088
+<ObjectOrientation>	3.624080,			4.800080,			1.378950
+
+<Object>			vbldr_misc_woodencrate_3x
+<ObjectPosition>	6561.899902,	2.200730,	2220.669922
+<ObjectOrientation>	0.024611,			5.938135,			0.229855
+
+<Object>			vbldr_misc_woodencrate_5x
+<ObjectPosition>	6558.100098,	2.172430,	2220.850098
+<ObjectOrientation>	0.024611,			5.938135,			0.2298550
+
+<Object>			vbldr_metalcrate
+<ObjectPosition>	6559.500000,	1.622550,	2223.689941
+<ObjectOrientation>	-89.1112981,			0.108409,			0.001681
+
+<Object>			vbldr_carp_live
+<ObjectPosition>	6559.259766,	1.903530,	2223.889893
+<ObjectOrientation>	84.295555,			4.798812,			1.379671
+
+<Object>			vbldr_carp_live
+<ObjectPosition>	6559.479980,	1.754530,	2223.820068
+<ObjectOrientation>	-81.754593,			90.000000,			1.379994
+
+<Object>			vbldr_carp_live
+<ObjectPosition>	6559.470215,	1.819530,	2223.669922
+<ObjectOrientation>	0.115002,			0.000000,			-90.000000
+
+<Object>			vbldr_carp_live
+<ObjectPosition>	6559.640137,	1.789510,	2223.580078
+<ObjectOrientation>	89.999992,			90.000000,			-0.000005
 
 //<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
 <FileEnd>												// This has to be on the End of this File and is very importand!
