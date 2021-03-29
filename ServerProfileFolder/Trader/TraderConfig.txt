@@ -167,7 +167,7 @@
 		Chemlight_White,	*,	20,	5
 		Chemlight_Yellow,	*,	20,	5
 		Roadflare,	*,	35,	8
-		Flashlight,	*,	60,	-1
+		Flashlight,	*,	60,	10
 		PortableGasLamp,	*,	70,	18
 		Headtorch_Black,	*,	120,	30
 		Headtorch_Grey,	*,	120,	30
@@ -378,10 +378,11 @@
 		A2mk17_s,	W,	6000,	1100
 		A2AKSGOLD,	W,	-1,	10000
 	<Category>  Rifles
-		Izh18,	W,	300,	75
+		Repeater,	W,	500,	200
+		Izh18,		W,	300,	150
 		B95,	W,	500,	125
 		A2LeeEnfield,	W,	6000,	150
-		Mosin9130,	W,	800,	200
+		Mosin9130,	W,	800,	400
 		CZ527,	W,	10000,	250
 		Winchester70,	W,	2500,	625
 		Gewehr43_mung,	W,	1200,	600
