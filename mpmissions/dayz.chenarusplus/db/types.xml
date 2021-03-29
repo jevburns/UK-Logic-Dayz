@@ -14255,10 +14255,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TLRLight">
-        <nominal>80</nominal>
+        <nominal>60</nominal>
         <lifetime>14400</lifetime>
         <restock>60</restock>
-        <min>80</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -23049,10 +23049,10 @@
     </type>
     
         <type name="KuruInjector">
-        <nominal>16</nominal>
-        <lifetime>10800</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -23062,10 +23062,10 @@
         <usage name="Medic"/>
     </type>
     <type name="SalmonellaInjector">
-        <nominal>16</nominal>
-        <lifetime>10800</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -23075,10 +23075,10 @@
         <usage name="Medic"/>
     </type>
     <type name="InfluenzaInjector">
-        <nominal>16</nominal>
-        <lifetime>10800</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -23088,10 +23088,10 @@
         <usage name="Medic"/>
     </type>
     <type name="CholeraInjector">
-        <nominal>16</nominal>
-        <lifetime>10800</lifetime>
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24431,10 +24431,10 @@
         <usage name="Village"/>
     </type>
     <type name="Clawhammer_mung">
-        <nominal>56</nominal>
+        <nominal>40</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>32</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -39514,31 +39514,31 @@
       <type name="HeliSIB_UH1D">
       <nominal>0</nominal>
       <lifetime>3888000</lifetime>
-      <restock>1800</restock>
+      <restock>0</restock>
       <min>0</min>
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
     </type>
       <type name="Heliblack_hawk_SIB">
       <nominal>0</nominal>
       <lifetime>3888000</lifetime>
-      <restock>1800</restock>
+      <restock>0</restock>
       <min>0</min>
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
     </type>
       <type name="Heliblack_hawk_SIB_camo">
       <nominal>0</nominal>
       <lifetime>3888000</lifetime>
-      <restock>1800</restock>
+      <restock>0</restock>
       <min>0</min>
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>
-      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 </types>

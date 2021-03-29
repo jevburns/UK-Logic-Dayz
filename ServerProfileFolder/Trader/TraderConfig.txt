@@ -128,13 +128,15 @@
 		CanOpener,	*,	350,	8
 		Lockpick,	*,	-1,	12
 		Hammer,	*,	1500,	18
+		Clawhammer_mung, *, -1, 20
 		Hatchet,	*,	1700,	35
 		HandSaw,	*,	1000,	18
 		Hacksaw,	*,	1000,	20
-		KitchenKnife,	*,	200,	7
-		SteakKnife,	*,	250,	10
-		HuntingKnife,	*,	350,	13
-		CombatKnife,	*,	400,	15
+		SteakKnife,		*,	250,	10
+		KitchenKnife,	*,	400,	50
+		bowieknife_mung	*,	-1,		200
+		HuntingKnife,	*,	-1,		200
+		CombatKnife,	*,	-1,		300
 		Machete,	*,	600,	220
 		Compass,	*,	250,	100
 		OrienteeringCompass,	*,	250,	10
@@ -182,6 +184,7 @@
 		DuctTape,	*,	500,	250
 		Whetstone,	*,	1800,	12
 		EpoxyPutty,	*,	900,	24
+		Fabric, 	1,	-1,	100
 	<Category>  Fluffy Pets 
 		Bear_Beige,	*,	5,	1
 		Bear_Dark,	*,	5,	1
@@ -193,6 +196,15 @@
 		AntiPestsSpray,	*,	8,	8
 		HandcuffKeys,	*,	-1,	120
 		Handcuffs,	*,	-1,	200
+		sleepingbag_yellow_mung, *, 1000, 100
+		sleepingbag_red_mung, *, 1000, 100
+		sleepingbag_blue_mung, *, 1000, 100
+		Msp_SleepingBag_Green, *, -1, 100
+		Msp_SleepingBag_Blue, *, -1, 100
+		Msp_SleepingBag_LimeGreen, *, -1, 100
+		Msp_SleepingBag_Orange, *, -1, 100
+		Msp_SleepingBag_Purple, *, -1, 100
+		Msp_SleepingBag_Red, *, -1, 100
 	<Category>  Building Supplies
 		WoodenPlank,	10,	-1,	90
 		NailBox,	*,	1000,	55
@@ -702,6 +714,7 @@
 		SKS_Bayonet,	*,	100,	50
 	<Category>  Flashlights
 		Universallight,	*,	100,	50
+		TLRLight,	*,	100,	20
 <Trader>  Clothing Trader
 	<Category>  Glasses
 		SportGlasses_Orange,	*,	17,	8
@@ -2355,15 +2368,7 @@
 		DeerSteakMeat,	S,	-1,	200
 		WolfSteakMeat,	S,	-1,	225
 		BearSteakMeat,	S,	-1,	500
-		Sardines,	S,	-1,	150
-		Carp,	S,	-1,	175
-		Mackerel,	S,	-1,	200
-	<Category>  Animal Parts
-		Bone,	*,	-1,	15
-		Lard,	*,	-1,	25
-		SmallGuts,	*,	-1,	45
-		Guts,	*,	-1,	60
-		TannedLeather,	*,	-1,	1000
+		HumanSteakMeat, S,	-1, 1000
 	<Category>  Cooking 
 		Pot,	M,	45,	11
 		MSP_WitchCauldron,	M,	45,	11
@@ -2376,6 +2381,7 @@
 		LargeGasCanister,	*,	120,	30
 		PortableGasStove,	*,	100,	20
 	<Category>  Animal Parts
+		TannedLeather,	*,	-1,	500
 		RabbitPelt,	*,	-1,	350
 		GoatPelt,	*,	-1,	400
 		SheepPelt,	*,	-1,	600
@@ -2384,6 +2390,7 @@
 		DeerPelt,	*,	-1,	2000
 		WolfPelt,	*,	-1,	5000
 		BearPelt,	*,	-1,	10000
+		bearhead_mung, *, -1, 15000
 		Bone,	*,	-1,	15
 		Lard,	*,	-1,	25
 		SmallGuts,	*,	45,	45
