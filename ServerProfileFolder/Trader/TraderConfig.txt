@@ -45,9 +45,9 @@
 		Zucchini,				*,	-1,		75
 		Pumpkin,				*,	-1,		150
 	<Category>  Groceries
-		SardinesCan,		*,	300,	50
+		TunaCan,			*,	300, 200
+		SardinesCan,		*,	-1,	50
 		PeachesCan,			*,	-1,	100
-		TunaCan,			*,	-1, 200
 		SpaghettiCan,		*,	-1,	200
 		BakedBeansCan,		*,	-1,	250
 		Marmalade,			*,	-1,	500
@@ -88,6 +88,7 @@
 		MassMREDBBCobbler,		*,	-1,	200
 	<Category>  Drinks
 		WaterBottle,	*,	250,	25
+		thermos_mung,	*,	-1,		100
 		SodaCan_Cola,	*,	500,	50
 		SodaCan_Pipsi,	*,	500,	50
 		SodaCan_Spite,	*,	500,	50
@@ -105,6 +106,8 @@
 		DisinfectantAlcohol,	*,	-1,	30
 		DisinfectantSpray,	*,	-1,	25
 		FirstAidKit,		*,	-1,	200
+		MassMedical_Bag_Blue,  *, -1, 500
+		MassMedical_Bag_Green, *, -1, 500 
 		InjectionVial,		*,	-1,	1
 		Syringe,			*,	-1,	5
 		Defibrillator,		*,	-1,	1000
@@ -147,7 +150,7 @@
 		Crowbar,	W,	500,	500
 		Shovel,	W,	1000,	500
 		Pickaxe,	W,	1000,	500
-		PipeWrench,	W,	20,	5
+		PipeWrench,	W,	-1,	15
 		SledgeHammer,	W,	1000,	15
 		WoodAxe,	W,	1200,	30
 		FirefighterAxe,	W,	1800,	45
@@ -162,7 +165,7 @@
 		PowerGenerator,	*,	10000,	1000
 		NVGoggles,	*,	5000,	500
 		Megaphone,	*,	3500,	875
-	<Category>  Fire 
+	<Category>  Lighting 
 		Chemlight_Blue,	*,	20,	5
 		Chemlight_Green,	*,	20,	5
 		Chemlight_Red,	*,	20,	5
@@ -171,6 +174,7 @@
 		Roadflare,	*,	35,	8
 		Flashlight,	*,	60,	10
 		PortableGasLamp,	*,	70,	18
+		oillamp_mung,	*, 70, 18
 		Headtorch_Black,	*,	120,	30
 		Headtorch_Grey,	*,	120,	30
 	<Category>  Crafting Supplies
@@ -196,6 +200,8 @@
 		AntiPestsSpray,	*,	8,	8
 		HandcuffKeys,	*,	-1,	120
 		Handcuffs,	*,	-1,	200
+		sherlockpipe_mung, *, -1, 1
+		
 		sleepingbag_yellow_mung, *, 1000, 100
 		sleepingbag_red_mung, *, 1000, 100
 		sleepingbag_blue_mung, *, 1000, 100
@@ -403,7 +409,6 @@
 		SKS,	W,	1700,	425
 		VSS,	W,	2100,	525
 		A2M4SPR,	W,	5250,	1100
-		A2WM110_desert,	W,	12000,	5000
 		A2M14_DMR,	W,	12000,	3000
 	<Category>  KOD RIFLES
 		KOD_AEK971,	W,	-1,	2000
@@ -413,7 +418,6 @@
 		KOD_AK15,	W,	-1,	1900
 		KOD_AKALPHA,	W,	-1,	7500
 		KOD_Beowulf,	W,	-1,	10000
-		KOD_ASH12,	W,	-1,	7500
 		KOD_AWM,	W,	-1,	5000
 		KOD_AX50,	W,	-1,	15000
 		KOD_DVL10,	W,	-1,	10000
@@ -426,7 +430,6 @@
 		KOD_M82A2_Grey,	W,	-1,	13000
 		KOD_M82A2_Black,	W,	-1,	15000
 		KOD_M82A2_Tan,	W,	-1,	12000
-		KOD_PKM,	W,	-1,	10000
 		KOD_R700,	W,	-1,	2700
 		KOD_RSASS_Tan,	W,	-1,	4000
 		KOD_Ruger,	W,	-1,	1500
@@ -466,7 +469,6 @@
 		MassAR15,	W,	10000,	5700
 		MassAR15DMR,	W,	10000,	5700
 		MassAR15DMR_Desert,	W,	10000,	5700
-		MassM110,	W,	15000,	2200
 		MassSVT40,	W,	8000,	1900
 		MassSVT40_Black,	W,	10000,	2000
 		MassSVT40_Green,	W,	10000,	2000
@@ -539,16 +541,16 @@
 		//Ammo_12GaBB,	*,	1000,	5
 		//AmmoBox_12gaBB,	*,	1000,	500
 		MassAmmoBox_556x45_10Rnd,	*,	1000,	500
-		Ammo_338,	*,	1000,	500
-		AmmoBox_338,	*,	1000,	500
-		Ammo_408Chey,	*,	1000,	500
-		AmmoBox_408Chey,	*,	1000,	5
+		Ammo_338,	1,	1000,	500
+		AmmoBox_338,	*,	-1,	125
+		Ammo_408Chey,	1,	-1,	50
+		AmmoBox_408Chey,	*,	-1,	200
 	<Category>  KOD AMMO
 		KOD_Ammo_338,	*,	200,	150
-		KOD_Ammo_50BMG,	*,	500,	250
+		KOD_Ammo_50BMG,	1,	-1,	25
 		KOD_Ammo_40lw,	*,	500,	250
 		KOD_Ammo_792x57,	*,	250,	90
-		Ammo_50CalBW,	*,	500,	250
+		Ammo_50CalBW,	1,	-1,	25
 	<Category>  Magazines
 		Mag_IJ70_8Rnd,	M,	10,	8
 		Mag_CZ75_15Rnd,	M,	20,	15
@@ -558,6 +560,7 @@
 		A2M9_Magazine,	M,	20,	15
 		Mag_1911_7Rnd,	M,	80,	20
 		A2Colt1911_Magazine,	M,	80,	20
+		Mag_lebedev_PL15_16Rnd,	M,	500,	100
 		Mag_MKII_10Rnd,	M,	50,	10
 		Mag_Deagle_9rnd,	M,	500,	200
 		Mag_CZ61_20Rnd,	M,	40,	10
@@ -567,7 +570,6 @@
 		bizon_magazine,	M,	70,	17
 		Mag_UMP_25Rnd,	M,	250,	65
 		A2HKM5_SD_Magazine,	M,	40,	10
-		A2WM110_mag,	M,	2000,	400
 		Mag_Saiga_5Rnd,	M,	60,	15
 		Mag_Saiga_8Rnd,	M,	90,	22
 		Mag_Saiga_Drum20Rnd,	M,	220,	55
@@ -586,11 +588,15 @@
 		Mag_FAL_20Rnd,	M,	240,	60
 		A2FNFAL_Magazine,	M,	240,	60
 		A2mk17_mag,	M,	500,	250
+		Mag_cs5_10Rnd_mung,	M,	-1,	50
+		Mag_gewehr43_10Rnd_mung, M, -1, 50
+		mag_KOD_M110_10rnd, M, -1, 50
+		mag_KOD_AK47_20rnd, M, -1, 50
 		Mag_CZ527_5rnd,	M,	60,	3
-		Mag_VSS_10Rnd,	M,	55,	11
-		A2M14_DMRMAG,	M,	440,	110
-		Mag_308WinSnaploader_2Rnd,	M,	45,	10
-		Mag_SVD_10Rnd,	M,	160,	35
+		Mag_VSS_10Rnd,	M,	1000,	50
+		A2M14_DMRMAG,	M,	1000,	50
+		Mag_308WinSnaploader_2Rnd,	M,	50,	10
+		Mag_SVD_10Rnd,	M,	1000,	10
 		A2M40A3_Magazine,	M,	120,	25
 	<Category>  Mass
 		MassG18Mag,	M,	100,	50
@@ -2409,91 +2415,98 @@
 		kv5_mung,	*,	1000,	250
 		Ap_vip_coin,	*,	-1,	10000
 <Trader>  Black Market
-	<Category>  Machine Guns
-		A2M249,	W,	7000,	1750
-		A2PKM,	W,	8000,	2000
-		A2MK48,	W,	8500,	2125
-		A2M60E4,	W,	9700,	2425
-		A2M240,	W,	10000,	5000
-	<Category>  Snipers
+	<Category>  Arma2 MGs
+		A2AA12,	W,	6000,	1500
+		A2AA12_Magazine,	M,	300,	75
+		A2M249,				W,	7000,	1750
+		A2M249_Magazine,	M,	1600,	400
+		A2MK48,				W,	8500,	2125
+		A2MK48_Magazine,	M,	2000,	500
+		A2M240,				W,	10000,	5000
+		A2M240_Magazine,	M,	4000,	1000
+		A2M60E4,			W,	9700,	2425
+		A2M60E4_Magazine,	M,	4000,	1000		
+		A2PKM,				W,	8000,	2000
+		A2PKM_Magazine,		M,	2000,	500
+	<Category>  KOD MGs
+		KOD_ASH12,			W,	15000,	750
+		Mag_KOD_ASH12_20Rnd,	M,	400,	200
+		KOD_PKM,			W,	20000,	10000
+		Mag_KOD_PKM_100Rnd,	M,	1000,	500
+	<Category>  Arma2 Sniper
 		A2LRRAWM,	W,	6500,	1625
-		Massm300,	W,	9000,	2250
-		Massm300_camo,	W,	9000,	2250
+		A2LRRAWM_Magazine,	M,	4000,	1000
 		A2M24_Desert,	W,	19000,	7000
 		A2M24_Green,	W,	19000,	7000
-	<Category>  Others
-		A2AA12,	W,	6000,	1500
-		A2AK74S,	W,	6000,	3000
-		A2M107,	W,	100000,	50000
 		A2WM110_desert,	W,	10000,	5000
 		A2WM110_black,	W,	10000,	5000
-	<Category>  KOD RIFLES
+		A2WM110_mag,	M,	2000,	400
+		A2M107,			W,	100000,	50000
+		A2M107_Magazine,	M,	1000,	250
+		Ammo_50CalBW,	10,	500,	250
+	<Category>  Mass Sniper
+		MassM110,	W,	15000,	2200
+		Mass308STANAG,	10,	500,	250
+		Massm300,	W,	9000,	2250
+		Massm300_camo,	W,	9000,	2250
+		Massm300mag,	10,	500,	250
+	<Category>  KOD Sniper
+		KOD_R700,			W,	25000,	10000
+		Mag_KOD_R700_7Rnd,	M,	1000,	500
+		KOD_RSASS_Tan,		W,	15000,	4000
+		KOD_RSASS_Black,	W,	15000,	4000
+		Mag_KOD_RSASS_20Rnd,	M,	200,	20
+		KOD_AWM,			W,	20000,	10000
+		Mag_KOD_AWM_5Rnd,	M,	2000,	1000
+		KOD_Ammo_338,	10,	50,	20
+		KOD_M110_Tan,		W,	30000,	10000
+		KOD_M110_Black,		W,	32000,	11000
+		Mag_KOD_M110_10Rnd,	M,	1500,	750
+		Mag_KOD_M110_20Rnd,	M,	3000,	1500
+		KOD_M82A2_Grey,		W,	29000,	13000
+		KOD_M82A2_Black,	W,	30000,	15000
+		KOD_M82A2_Tan,		W,	29000,	12000
+		Mag_KOD_M82A2_10Rnd,	M,	2000,	1000
+		KOD_AX50,			W,	30000,	15000
+		Mag_KOD_AX50_5Rnd,	M,	2000,	1000
+		KOD_Ammo_50BMG,	10,	500,	250
+		KOD Specific Ammo, 	*,	-1, -1
+		KOD_Ammo_40lw,	10,	200,	20
+		KOD_Ammo_792x57,	10,	200,	20
+	<Category>  Others
+		A2AK74S,	W,	6000,	3000
 		KOD_AEK971,	W,	10000,	5000
 		KOD_MP5SD,	W,	10000,	5000
 		KOD_RPK16,	W,	12000,	6000
+		Mag_KOD_RPK16_96Rnd,	M,	1500,	750
 		KOD_AK47,	W,	12000,	6000
+		Mag_KOD_AK47_20Rnd,	M,	500,	250
 		KOD_AK12,	W,	12000,	6000
 		KOD_AK15,	W,	9000,	4500
 		KOD_AKALPHA,	W,	13000,	7500
+		Mag_KOD_AKALPHA_30Rnd,	M,	900,	450
 		KOD_Beowulf,	W,	20000,	10000
-		KOD_ASH12,	W,	15000,	7500
-		KOD_AWM,	W,	20000,	10000
-		KOD_AX50,	W,	30000,	15000
+		Mag_KOD_Beowulf_10Rnd,	M,	900,	450
 		KOD_DVL10,	W,	20000,	10000
+		Mag_KOD_DVL10_5Rnd,	M,	300,	150
 		KOD_DVL10M1,	W,	21000,	10000
+		Mag_KOD_DVL10M1_5Rnd,	M,	400,	200
 		KOD_HK417,	W,	15000,	7000
+		Mag_KOD_HK417_20Rnd,	M,	400,	200
 		KOD_K98,	W,	6000,	3000
-		KOD_M110_Tan,	W,	30000,	10000
-		KOD_M110_Black,	W,	32000,	11000
 		KOD_M16A4,	W,	15000,	6500
-		KOD_M82A2_Grey,	W,	29000,	13000
-		KOD_M82A2_Black,	W,	30000,	15000
-		KOD_M82A2_Tan,	W,	29000,	12000
-		KOD_PKM,	W,	20000,	10000
-		KOD_R700,	W,	25000,	10000
-		KOD_RSASS_Tan,	W,	15000,	4000
-		KOD_RSASS_Black,	W,	15000,	4000
 		KOD_Ruger,	W,	10000,	5000
+		Mag_KOD_Ruger_5Rnd,	M,	100,	10
 		KOD_SCARH,	W,	15000,	6000
-		KOD_VR80,	W,	12000,	5000
-		KOD_FAMAS,	W,	10000,	4000
-		KOD_Ammo_338,	10,	50,	20
-		KOD_Ammo_50BMG,	10,	200,	20
-		KOD_Ammo_40lw,	10,	200,	20
-		KOD_Ammo_792x57,	10,	200,	20
-		Ammo_50CalBW,	10,	200,	20
-		Mag_KOD_VR80_10Rnd,	M,	500,	50
-		Mag_KOD_VR80_30Rnd,	M,	500,	50
 		Mag_KOD_SCARH_20Rnd,	M,	300,	50
 		Mag_KOD_SCARH_30Rnd,	M,	400,	60
-		Mag_KOD_Ruger_5Rnd,	M,	100,	10
-		Mag_KOD_RSASS_20Rnd,	M,	200,	20
-		Mag_KOD_R700_7Rnd,	M,	1000,	500
-		Mag_KOD_PKM_100Rnd,	M,	1000,	500
-		Mag_KOD_M82A2_10Rnd,	M,	2000,	1000
-		Mag_KOD_M110_10Rnd,	M,	1500,	750
-		Mag_KOD_M110_20Rnd,	M,	3000,	1500
-		Mag_KOD_HK417_20Rnd,	M,	400,	200
-		Mag_KOD_DVL10M1_5Rnd,	M,	400,	200
-		Mag_KOD_DVL10_5Rnd,	M,	300,	150
-		Mag_KOD_AX50_5Rnd,	M,	2000,	1000
-		Mag_KOD_AWM_5Rnd,	M,	2000,	1000
-		Mag_KOD_ASH12_20Rnd,	M,	400,	200
-		Mag_KOD_Beowulf_10Rnd,	M,	900,	450
-		Mag_KOD_AKALPHA_30Rnd,	M,	900,	450
-		Mag_KOD_AK47_20Rnd,	M,	500,	250
-		Mag_KOD_RPK16_96Rnd,	M,	1500,	750
+		KOD_VR80,	W,	12000,	5000
+		Mag_KOD_VR80_10Rnd,	M,	500,	50
+		Mag_KOD_VR80_30Rnd,	M,	500,	50		
+		KOD_FAMAS,	W,	10000,	4000
 		Mag_KOD_Drum308_50Rnd,	M,	1500,	750
 	<Category>  Scopes
-		ACOGOptic,	*,	100,	100
-		M68Optic,	*,	100,	100
-		M4_T3NRDSOptic,	*,	100,	100
-		KobraOptic,	*,	100,	100
 		KashtanOptic,	*,	100,	100
-		PUScopeOptic,	*,	100,	100
-		HuntingOptic,	*,	450,	450
-		PSO1Optic,	*,	450,	450
-		PSO11Optic,	*,	450,	450
 		KazuarOptic,	*,	450,	450
 		A2M4SPRScope,	*,	450,	450
 		LRRScope,	*,	1000,	1000
@@ -2535,26 +2548,11 @@
 		AD_RMR_TM,	*,	900,	350
 		AD_RMR_TM_MosinMount,	*,	900,	350
 		AD_RMR_TM_B13,	*,	900,	350
-	<Category>  Mags and Ammo
-		AmmoBox_762x54_20Rnd,	*,	400,	100
-		AmmoBox_408Chey,	*,	2000,	375
-		Ammo_338,	*,	30,	15
-		Mag_Deagle_9rnd,	M,	500,	200
-		A2AA12_Magazine,	*,	300,	75
-		A2M249_Magazine,	*,	1600,	400
-		A2PKM_Magazine,	*,	2000,	500
-		A2MK48_Magazine,	*,	2000,	500
-		A2M60E4_Magazine,	*,	4000,	1000
-		A2M240_Magazine,	*,	4000,	1000
-		A2LRRAWM_Magazine,	*,	4000,	1000
-		KOD_Ammo_338,	10,	500,	100
-		KOD_Ammo_50BMG,	10,	500,	100
-		KOD_Ammo_40lw,	10,	500,	100
-		KOD_Ammo_792x57,	10,	500,	100
-		Mass308STANAG,	10,	500,	250
-		Massm300mag,	10,	500,	250
-		A2M107_Magazine,	*,	1000,	250
-		Mag_lebedev_PL15_16Rnd,	*,	500,	100
+	<Category>  Misc Ammo
+		AmmoBox_308Win_20Rnd, 	*,	500,	60
+		AmmoBox_762x54_20Rnd,	*,	400,	120
+		AmmoBox_338,			*,	500,	125
+		AmmoBox_408Chey,		*,	2000,	375
 	<Category>  Drinks
 		WaterBottle,	*,	200,	-1
 		SodaCan_Kvass,	*,	1000,	-1
