@@ -35511,7 +35511,7 @@
     </type>
 <type name="DingoWheel_DON_DARKGREEN_RuinedWheel_Ruined">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -35607,7 +35607,7 @@
     </type>
 <type name="DingoWheel_DON_WTR_RuinedWheel_Ruined">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -35703,7 +35703,7 @@
     </type>
 <type name="DingoWheel_DON_CDF_RuinedWheel_Ruined">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -35799,7 +35799,7 @@
     </type>
 <type name="DingoWheel_DON_CP_RuinedWheel_Ruined">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -35895,7 +35895,7 @@
     </type>
 <type name="DingoWheel_DON_UN_RuinedWheel_Ruined">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -35991,7 +35991,7 @@
     </type>
 <type name="DingoWheel_DON_CZ_Woodland_RuinedWheel_Ruined">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -36087,7 +36087,7 @@
     </type>
 <type name="DingoWheel_DON_CZ_DESERT_RuinedWheel_Ruined">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -36183,7 +36183,7 @@
     </type>
 <type name="DingoWheel_DON_GER_DESERT_RuinedWheel_Ruined">
         <nominal>0</nominal>
-        <lifetime>10800</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
