@@ -353,35 +353,34 @@
 		Msp_BlunderBat,	W,	1000,	20
 		Msp_BassAxe,	W,	1000,	20
 	<Category>  Sidearms
+		MKII,	W,	3500,	1000
 		MakarovIJ70,	W,	1000,	500
+		Nagant1895_mung,	*,	1000,	400
 		CZ75,	W,	1350,	900
-		FNX45,	W,	1750,	900
+		A2M9,	W,	3000,	1500
 		Glock19,	W,	5000,	2000
 		A2Glock17,	W,	300,	150
-		Glock41,	W,	300,	150
-		A2M9,	W,	3000,	1500
-		Colt1911,	W,	3000,	1500
+		FNX45,	W,	1750,	900
 		A2Colt1911,	W,	3000,	1500
+		Colt1911,	W,	3000,	1500
 		Engraved1911,	W,	3400,	2000
-		MKII,	W,	3500,	1000
 		Magnum,	W,	3500,	1000
 		Deagle,	W,	3500,	2500
 		Deagle_Gold,	W,	-1,	1000
-		Nagant1895_mung,	*,	1000,	400
 	<Category>  Submachine Guns
 		CZ61,	W,	1000,	400
 		A2MicroUzi,	W,	2500,	450
 		A2MicroUziSD,	W,	2700,	500
 		MP5K,	W,	2600,	550
 		A2bizon,	W,	2000,	500
-		UMP45,	W,	3400,	550
 		A2HKM5_SD,	W,	4500,	650
+		UMP45,	W,	3400,	550
 		AKS74U,	W,	3500,	650
 	<Category>  Shotguns
+		izh54_sawnoff_mung,	W,	3000,	1500
 		Izh43Shotgun,	W,	1400,	200
 		Mp133Shotgun,	W,	1750,	250
 		Saiga,	W,	3400,	500
-		izh54_sawnoff_mung,	W,	3000,	1500
 	<Category>  Assault Rifles
 		AK74,	W,	6000,	1100
 		AK101,	W,	6500,	1100
@@ -2387,7 +2386,7 @@
 		LargeGasCanister,	*,	120,	30
 		PortableGasStove,	*,	100,	20
 	<Category>  Animal Parts
-		TannedLeather,	*,	-1,	500
+		TannedLeather,	1,	-1,	500
 		RabbitPelt,	*,	-1,	350
 		GoatPelt,	*,	-1,	400
 		SheepPelt,	*,	-1,	600
