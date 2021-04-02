@@ -124,7 +124,7 @@
 		KuruInjectorCure,		*,	10000,	500
 <Trader>  Tools 
 	<Category>  Small Tools
-		Matchbox,	*,	600,	3
+		Matchbox,	100,	600,	20
 		Wrench,	*,	1000,	4
 		Screwdriver,	*,	15,	4
 		Pliers,	*,	2000,	5
