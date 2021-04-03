@@ -87,6 +87,7 @@
 		MassMREMCBeefStew,		*,	-1,	200
 		MassMREDBBCobbler,		*,	-1,	200
 	<Category>  Drinks
+		PurificationTablets, 10, 100, 10
 		WaterBottle,	*,	250,	25
 		thermos_mung,	*,	-1,		100
 		SodaCan_Cola,	*,	500,	50
@@ -201,7 +202,6 @@
 		HandcuffKeys,	*,	-1,	120
 		Handcuffs,	*,	-1,	200
 		sherlockpipe_mung, *, -1, 1
-		
 		sleepingbag_yellow_mung, *, 1000, 100
 		sleepingbag_red_mung, *, 1000, 100
 		sleepingbag_blue_mung, *, 1000, 100
@@ -544,12 +544,13 @@
 		AmmoBox_338,	*,	-1,	125
 		Ammo_408Chey,	1,	-1,	50
 		AmmoBox_408Chey,	*,	-1,	200
-	<Category>  KOD AMMO
-		KOD_Ammo_338,	*,	200,	150
+	<Category>  KOD Mags and Ammo
+		KOD_Ammo_338,	1,	200,	150
 		KOD_Ammo_50BMG,	1,	-1,	25
-		KOD_Ammo_40lw,	*,	500,	250
-		KOD_Ammo_792x57,	*,	250,	90
+		KOD_Ammo_40lw,	1,	500,	250
+		KOD_Ammo_792x57,	1,	250,	90
 		Ammo_50CalBW,	1,	-1,	25
+		Mag_KOD_Drum308_50Rnd,	M,	-1,	500
 	<Category>  Magazines
 		Mag_IJ70_8Rnd,	M,	10,	8
 		Mag_CZ75_15Rnd,	M,	20,	15
@@ -569,6 +570,7 @@
 		bizon_magazine,	M,	70,	17
 		Mag_UMP_25Rnd,	M,	250,	65
 		A2HKM5_SD_Magazine,	M,	40,	10
+		A2WM110_mag, 	M, -1,	100
 		Mag_Saiga_5Rnd,	M,	60,	15
 		Mag_Saiga_8Rnd,	M,	90,	22
 		Mag_Saiga_Drum20Rnd,	M,	220,	55
@@ -587,6 +589,7 @@
 		Mag_FAL_20Rnd,	M,	240,	60
 		A2FNFAL_Magazine,	M,	240,	60
 		A2mk17_mag,	M,	500,	250
+		A2M4SPR_Magazine,	M,	-1,	50
 		Mag_cs5_10Rnd_mung,	M,	-1,	50
 		Mag_gewehr43_10Rnd_mung, M, -1, 50
 		mag_KOD_M110_10rnd, M, -1, 50
@@ -696,6 +699,7 @@
 		AD_RMR_TM,	*,	1900,	350
 		AD_RMR_TM_MosinMount,	*,	1900,	350
 		AD_RMR_TM_B13,	*,	1900,	350
+		Leupold_mung, *, -1, 500
 	<Category>  Supressors
 		PistolSuppressor,	*,	150,	75
 		AK_Suppressor,	*,	400,	100
@@ -777,7 +781,7 @@
 		TacticalGloves_Green,	*,	35,	10
 		OMNOGloves_Gray,	*,	40,	12
 		OMNOGloves_Brown,	*,	40,	12
-		NBCGlovesGray,	*,	65,	20
+
 	<Category>  Hats 
 		MedicalScrubsHat_Blue,	*,	2,	1
 		MedicalScrubsHat_White,	*,	2,	1
@@ -848,7 +852,6 @@
 		Ushanka_Blue,	*,	50,	15
 		Ushanka_Black,	*,	50,	15
 		Ushanka_Green,	*,	55,	18
-		NBCHoodGray,	*,	100,	30
 	<Category>  Helmets
 		ConstructionHelmet_Yellow,	*,	30,	7
 		ConstructionHelmet_Orange,	*,	30,	7
@@ -1069,7 +1072,6 @@
 		GorkaEJacket_Summer,	*,	140,	45
 		USMCJacket_Desert,	*,	140,	45
 		USMCJacket_Woodland,	*,	155,	55
-		NBCJacketGray,	*,	250,	80
 	<Category>  Skirts 
 		Skirt_Yellow,	*,	30,	10
 		Skirt_Red,	*,	30,	10
@@ -1164,7 +1166,6 @@
 		GorkaPants_PautRev,	*,	130,	40
 		GorkaPants_Autumn,	*,	130,	40
 		GorkaPants_Summer,	*,	130,	40
-		NBCPantsGray,	*,	200,	65
 	<Category>  Shoes 
 		AthleticShoes_Blue,	*,	17,	4
 		AthleticShoes_Grey,	*,	20,	5
@@ -1217,7 +1218,6 @@
 		MilitaryBoots_Beige,	*,	110,	35
 		MilitaryBoots_Brown,	*,	110,	35
 		MilitaryBoots_Black,	*,	110,	35
-		NBCBootsGray,	*,	150,	50
 	<Category>  Ghillie
 		// Keep in Mind that Players can also
 		// craft Ghillie Clothing and sell them!
@@ -1266,8 +1266,17 @@
 		AssaultBag_Black,	*,	110,	30
 		AssaultBag_Green,	*,	110,	30
 		AssaultBag_Ttsko,	*,	130,	30
+		jaakari_simple_brown_mung, *, -1, 100
+		jaakari_simple_camo_mung, *, -1, 100
+		jaakari_simple_black_mung, *, -1, 100
+		jaakari_simple_tan_mung, *, -1, 100
+		jaakari_brown_mung, *, -1, 100
+		jaakari_camo_mung, *, -1, 100
+		jaakari_black_mung, *, -1, 100
+		jaakari_tan_mung, *, -1, 100
 		HuntingBag,	*,	130,	30
 		TortillaBag,	*,	180,	60
+		MassWinterTortilla, *, 180, 60
 		CoyoteBag_Brown,	*,	180,	60
 		CoyoteBag_Green,	*,	180,	60
 		MountainBag_Orange,	*,	300,	80
@@ -1395,7 +1404,7 @@
 		MVS_Canteen_Black,	*,	100,	25
 		MVS_Utility_Pouch_Black,	*,	30,	7
 		MVS_Medical_Pouch_Black,	*,	80,	20
-		MVS_Molle_Pouch_Black,	*,	80,	20
+		MVS_Molle_Panel_Black,	*,	80,	20
 		MVS_Admin_Pouch_Black,	*,	120,	30
 		MVS_Magazine_Pouch_Black,	*,	240,	60
 		MVS_Taco_Pouch_Black,	*,	275,	68
@@ -1804,12 +1813,6 @@
 		MVS_PMK2Respirator_OD,	*,	10000,	1000
 		MVS_S10Respirator_FS,	*,	10000,	1000
 	<Category>  Mass
-		MassNBC_Bag,	*,	1000,	500
-		MassNBCJacketYellow,	*,	1000,	500
-		MassNBCbootsYellow,	*,	1000,	500
-		MassNBCglovesBlue,	*,	1000,	500
-		MassNBCpantsYellow,	*,	1000,	500
-		MassNBChoodYellow,	*,	1000,	500
 		MassGorkaInvertWinterTop,	*,	1000,	500
 		MassWinterHunterTop,	*,	1000,	500
 		MassWinterCUUJacket,	*,	1000,	500
@@ -1903,18 +1906,19 @@
 		MassArmbandDouble_BWS,	*,	1000,	500
 		MassArmbandDouble_BT,	*,	1000,	500
 
-         <Category> Biohazard
-                MassNBC_Bag,	*,	1000,	500
-		MassNBCJacketYellow,	*,	1000,	500
-		MassNBCbootsYellow,	*,	1000,	500
-		MassNBCglovesBlue,	*,	1000,	500
-		MassNBCpantsYellow,	*,	1000,	500
-		MassNBChoodYellow,	*,	1000,	500
-                NBCJacketGray,	*,	2500,	800
-                NBCBootsGray,	*,	1500,	500
-                NBCPantsGray,	*,	2000,	650
-                NBCHoodGray,	*,	1000,	300
- 
+    <Category> Biohazard
+        MassNBC_Bag,			*,	1000,	500
+		MassNBCJacketYellow,	*,	2500,	1250
+		MassNBCpantsYellow,		*,	2500,	1250
+		MassNBCbootsYellow,		*,	1000,	500
+		MassNBCglovesBlue,		*,	1000,	500
+		MassNBChoodYellow,		*,	1500,	750
+		nbc_longcoat_mung, 		*,	2500,	1250
+		NBCJacketGray,			*,	2500,	1250
+		NBCPantsGray,			*,	2500,	1250
+		NBCBootsGray,			*,	1000,	500
+		NBCHoodGray,			*,	1500,	750
+		NBCGlovesGray,			*,	1000,	500
 <Trader>  Vehicles Trader
 	<Category>  Vehicles
 		OffroadHatchback,	VNK,	140000,	15000
@@ -2547,6 +2551,7 @@
 		AD_RMR_TM,	*,	900,	350
 		AD_RMR_TM_MosinMount,	*,	900,	350
 		AD_RMR_TM_B13,	*,	900,	350
+		Leupold_mung, *, 2500, 800
 	<Category>  Misc Ammo
 		AmmoBox_308Win_20Rnd, 	*,	500,	60
 		AmmoBox_762x54_20Rnd,	*,	400,	120
