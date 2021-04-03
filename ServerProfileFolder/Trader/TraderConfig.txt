@@ -644,6 +644,7 @@
 		BUISOptic,	*,	1100,	500
 		FNP45_MRDSOptic,	*,	1100,	500
 		PistolOptic,	*,	1100,	500
+		ReflexOptic, *,	1100, 250
 		ACOGOptic,	*,	1100,	500
 		M68Optic,	*,	1100,	500
 		M4_T3NRDSOptic,	*,	1100,	500
