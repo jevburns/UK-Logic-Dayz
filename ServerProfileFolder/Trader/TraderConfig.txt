@@ -584,6 +584,7 @@
 		Mag_cs5_10Rnd_mung,	M,	-1,	50
 		Mag_gewehr43_10Rnd_mung, M, -1, 50
 		mag_KOD_M110_10rnd, M, -1, 50
+		Mag_KOD_M110_20Rnd,	M,	-1,	100
 		mag_KOD_AK47_20rnd, M, -1, 50
 		Mag_CZ527_5rnd,	M,	60,	3
 		Mag_VSS_10Rnd,	M,	1000,	50
@@ -1925,6 +1926,15 @@
 		LANEvoque2016_ChromePurple,	VNK,	1000000,	200000
 	<Category>  German Imports
 		Dingo,						VNK,	750000,	200000
+		Dingo_DON_GER_DESERT,		VNK,	750000,	200000
+		Dingo_DON_CZ_DESERT,	VNK,	750000,	200000
+		Dingo_DON_CZ_Woodland,	VNK,	750000,	200000
+		Dingo_DON_UN,	VNK,	750000,	200000
+		Dingo_DON_CP,	VNK,	750000,	200000
+		Dingo_DON_CDF,	VNK,	750000,	200000
+		Dingo_DON_WTR,	VNK,	750000,	200000
+		Dingo_DON_DARKGREEN,	VNK,	750000,	200000
+		Dingo_DON_CHDKZ,	VNK,	750000,	200000
 	<Category>  Exotic Vehicles
 		vg7_baja,					VNK,	450000,	100000
 		vg7_baja_white,				VNK,	450000,	100000
@@ -2235,14 +2245,6 @@
 		DingoTrunk,						*,	2500,	1000
 		DingoWheel,						*,	2500,	1000
 	<Category>  Exotic Parts
-		vg7_baja,	V,	280000,	140000
-		vg7_baja_white,	V,	300000,	150000
-		vg7_baja_blue,	V,	300000,	150000
-		vg7_baja_red,	V,	350000,	150000
-		vg7_baja_pink,	V,	350000,	150000
-		vg7_baja_purple,	V,	350000,	150000
-		vg7_baja_yellow,	V,	350000,	150000
-		vg7_baja_black,	V,	400000,	150000
 		vg7_baja_L_Door,	*,	2500,	1000
 		vg7_baja_R_Door,	*,	2500,	1000
 		vg7_baja_Hood_Plate,	*,	2500,	1000

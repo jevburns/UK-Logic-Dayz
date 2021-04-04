@@ -259,8 +259,152 @@
 	CarBattery
 	CarRadiator
 	SparkPlug
+	
+<VehicleParts> Dingo_DON_CHDKZ
+	DingoDoors_Driver_DON_CHDKZ
+	DingoDoors_CoDriver_DON_CHDKZ
+	DingoDoors_Cargo1_DON_CHDKZ
+	DingoDoors_Cargo2_DON_CHDKZ
+	DingoTrunk_DON_CHDKZ
+	DingoHood_DON_CHDKZ
+	DingoWheel_DON_CHDKZ
+	DingoWheel_DON_CHDKZ
+	DingoWheel_DON_CHDKZ
+	DingoWheel_DON_CHDKZ
+	DingoWheel_DON_CHDKZ
+	CarBattery
+	CarRadiator
+	SparkPlug
 
-	<VehicleParts> vg7_baja	
+<VehicleParts> Dingo_DON_DARKGREEN
+	DingoWheel_DON_DARKGREEN
+	DingoDoors_Driver_DON_DARKGREEN
+	DingoDoors_CoDriver_DON_DARKGREEN
+	DingoDoors_Cargo1_DON_DARKGREEN
+	DingoDoors_Cargo2_DON_DARKGREEN
+	DingoTrunk_DON_DARKGREEN
+	DingoHood_DON_DARKGREEN
+	DingoWheel_DON_DARKGREEN
+	DingoWheel_DON_DARKGREEN
+	DingoWheel_DON_DARKGREEN
+	DingoWheel_DON_DARKGREEN
+	CarBattery
+	CarRadiator
+	SparkPlug
+
+<VehicleParts> Dingo_DON_WTR
+	DingoWheel_DON_WTR
+	DingoDoors_Driver_DON_WTR
+	DingoDoors_CoDriver_DON_WTR
+	DingoDoors_Cargo1_DON_WTR
+	DingoDoors_Cargo2_DON_WTR
+	DingoTrunk_DON_WTR
+	DingoHood_DON_WTR
+	DingoWheel_DON_WTR
+	DingoWheel_DON_WTR
+	DingoWheel_DON_WTR
+	DingoWheel_DON_WTR
+	CarBattery
+	CarRadiator
+	SparkPlug
+	
+<VehicleParts> Dingo_DON_CDF
+	DingoWheel_DON_CDF
+	DingoDoors_Driver_DON_CDF
+	DingoDoors_CoDriver_DON_CDF
+	DingoDoors_Cargo1_DON_CDF
+	DingoDoors_Cargo2_DON_CDF
+	DingoTrunk_DON_CDF
+	DingoHood_DON_CDF
+	DingoWheel_DON_CDF
+	DingoWheel_DON_CDF
+	DingoWheel_DON_CDF
+	DingoWheel_DON_CDF
+	CarBattery
+	CarRadiator
+	SparkPlug
+	
+<VehicleParts> Dingo_DON_CP
+	class DingoWheel_DON_CP
+	class DingoDoors_Driver_DON_CP
+	class DingoDoors_CoDriver_DON_CP
+	class DingoDoors_Cargo1_DON_CP
+	class DingoDoors_Cargo2_DON_CP
+	class DingoTrunk_DON_CP
+	class DingoHood_DON_CP
+	DingoWheel_DON_CP
+	DingoWheel_DON_CP
+	DingoWheel_DON_CP
+	DingoWheel_DON_CP
+	CarBattery
+	CarRadiator
+	SparkPlug
+	
+<VehicleParts> Dingo_DON_UN
+	DingoWheel_DON_UN
+	DingoDoors_Driver_DON_UN
+	DingoDoors_CoDriver_DON_UN
+	DingoDoors_Cargo1_DON_UN
+	DingoDoors_Cargo2_DON_UN
+	DingoTrunk_DON_UN
+	DingoHood_DON_UN
+	DingoWheel_DON_UN
+	DingoWheel_DON_UN
+	DingoWheel_DON_UN
+	DingoWheel_DON_UN
+	CarBattery
+	CarRadiator
+	SparkPlug
+	
+<VehicleParts> Dingo_DON_CZ_Woodland
+	DingoWheel_DON_CZ_Woodland
+	DingoDoors_Driver_DON_CZ_Woodland
+	DingoDoors_CoDriver_DON_CZ_Woodland
+	DingoDoors_Cargo1_DON_CZ_Woodland
+	DingoDoors_Cargo2_DON_CZ_Woodland
+	DingoTrunk_DON_CZ_Woodland
+	DingoHood_DON_CZ_Woodland
+	DingoWheel_DON_CZ_Woodland
+	DingoWheel_DON_CZ_Woodland
+	DingoWheel_DON_CZ_Woodland
+	DingoWheel_DON_CZ_Woodland
+	CarBattery
+	CarRadiator
+	SparkPlug
+	
+<VehicleParts> Dingo_DON_CZ_DESERT
+	DingoWheel_DON_CZ_DESERT
+	DingoDoors_Driver_DON_CZ_DESERT
+	DingoDoors_CoDriver_DON_CZ_DESERT
+	DingoDoors_Cargo1_DON_CZ_DESERT
+	DingoDoors_Cargo2_DON_CZ_DESERT
+	DingoTrunk_DON_CZ_DESERT
+	DingoHood_DON_CZ_DESERT
+	DingoWheel_DON_CZ_DESERT
+	DingoWheel_DON_CZ_DESERT
+	DingoWheel_DON_CZ_DESERT
+	DingoWheel_DON_CZ_DESERT
+	CarBattery
+	CarRadiator
+	SparkPlug
+	
+<VehicleParts> Dingo_DON_GER_DESERT
+	DingoWheel_DON_GER_DESERT
+	DingoDoors_Driver_DON_GER_DESERT
+	DingoDoors_CoDriver_DON_GER_DESERT
+	DingoDoors_Cargo1_DON_GER_DESERT
+	DingoDoors_Cargo2_DON_GER_DESERT
+	DingoTrunk_DON_GER_DESERT
+	DingoHood_DON_GER_DESERT
+	DingoWheel_DON_GER_DESERT
+	DingoWheel_DON_GER_DESERT
+	DingoWheel_DON_GER_DESERT
+	DingoWheel_DON_GER_DESERT
+	CarBattery
+	CarRadiator
+	SparkPlug
+	
+<VehicleParts> vg7_baja	
 	vg7_baja_L_Door
 	vg7_baja_R_Door
 	vg7_baja_Hood_Plate
@@ -794,14 +938,6 @@ VehicleParts> rag_hummer_Armored
               SIBPolice_Door_1_2_swat
               SIBPolice_Door_2_1_swat
               SIBPolice_Door_2_2_swat
-
-
-
-
-    <VehicleParts> Spares
-              CarBattery
-              CarRadiator
-
 
         <VehicleParts>HeliSIB_UH1D
              HatchbackWheel
