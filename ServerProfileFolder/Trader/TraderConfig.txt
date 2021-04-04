@@ -898,7 +898,6 @@
 		Balaclava3Holes_Black,	*,	55,	13
 		Balaclava3Holes_Green,	*,	60,	15
 		WeldingMask,	*,	70,	20
-		GP5GasMask,	*,	120,	40
 	<Category>  Shirts
 		TShirt_OrangeWhiteStripes,	*,	8,	2
 		TShirt_RedBlackStripes,	*,	8,	2
@@ -1773,17 +1772,6 @@
 		MVS_CountryFlag_Yugoslavia,	*,	50,	25
 		MVS_CountryFlag_Zambia,	*,	50,	25
 		MVS_CountryFlag_Zimbabwe,	*,	50,	25
-	<Category>  Military Gear | Gas Masks
-		MVS_S10Respirator_Black,	*,	10000,	1000
-		MVS_M50Respirator_Black,	*,	10000,	1000
-		MVS_PMK2Respirator_Black,	*,	10000,	1000
-		MVS_S10Respirator_Tan,	*,	10000,	1000
-		MVS_M50Respirator_Tan,	*,	10000,	1000
-		MVS_PMK2Respirator_Tan,	*,	10000,	1000
-		MVS_S10Respirator_OD,	*,	10000,	1000
-		MVS_M50Respirator_OD,	*,	10000,	1000
-		MVS_PMK2Respirator_OD,	*,	10000,	1000
-		MVS_S10Respirator_FS,	*,	10000,	1000
 	<Category>  Mass
 		MassGorkaInvertWinterTop,	*,	1000,	500
 		MassWinterHunterTop,	*,	1000,	500
@@ -1830,7 +1818,6 @@
 		Massurbancamohat,	*,	1000,	500
 		MasscamoBooniehat,	*,	1000,	500
 		MassBeigeUshanka,	*,	1000,	500
-		Massblackgp5,	*,	1000,	500
 		Massmichblack,	*,	1000,	500
 		MassHuntingCowboyhat,	*,	1000,	500
 		MassSSww2Camotop,	*,	1000,	500
@@ -1890,6 +1877,20 @@
 		NBCBootsGray,			*,	1000,	500
 		NBCHoodGray,			*,	1500,	750
 		NBCGlovesGray,			*,	1000,	500
+		stalker_gasmask_white_mung, *,	-1,	200
+		stalker_gasmask_black_mung, *,	-1, 200
+		GP5GasMask,					*,	10000,	1000
+		Massblackgp5,				*,	10000,	1000
+		MVS_S10Respirator_Black,	*,	10000,	1000
+		MVS_M50Respirator_Black,	*,	10000,	1000
+		MVS_PMK2Respirator_Black,	*,	10000,	1000
+		MVS_S10Respirator_Tan,		*,	10000,	1000
+		MVS_M50Respirator_Tan,		*,	10000,	1000
+		MVS_PMK2Respirator_Tan,		*,	10000,	1000
+		MVS_S10Respirator_OD,		*,	10000,	1000
+		MVS_M50Respirator_OD,		*,	10000,	1000
+		MVS_PMK2Respirator_OD,		*,	10000,	1000
+		MVS_S10Respirator_FS,		*,	10000,	1000
 <Trader>  Vehicles Trader
 	<Category>  Domestic Vehicles
 		Hatchback_02,	        	VNK,	60000,	15000
