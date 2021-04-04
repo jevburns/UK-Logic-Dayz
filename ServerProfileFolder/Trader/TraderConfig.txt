@@ -202,15 +202,6 @@
 		HandcuffKeys,	*,	-1,	120
 		Handcuffs,	*,	-1,	200
 		sherlockpipe_mung, *, -1, 1
-		sleepingbag_yellow_mung, *, 1000, 100
-		sleepingbag_red_mung, *, 1000, 100
-		sleepingbag_blue_mung, *, 1000, 100
-		Msp_SleepingBag_Green, *, -1, 100
-		Msp_SleepingBag_Blue, *, -1, 100
-		Msp_SleepingBag_LimeGreen, *, -1, 100
-		Msp_SleepingBag_Orange, *, -1, 100
-		Msp_SleepingBag_Purple, *, -1, 100
-		Msp_SleepingBag_Red, *, -1, 100
 	<Category>  Building Supplies
 		WoodenPlank,	10,	-1,	90
 		NailBox,	*,	1000,	55
@@ -2353,9 +2344,19 @@
 		MCK_CarKeyTag_White,		*,	500,	-1
 		MCK_CarKeyTag_Yellow,		*,	500,	-1
 <Trader>  Hunters Trader
-	<Category>  Tents
+	<Category>  Camping
+		BearTrap,	*,	-1,	300
 		MediumTent,	*,	4000,	750
 		LargeTent,	*,	5000,	1000
+		sleepingbag_yellow_mung, *, 1000, 100
+		sleepingbag_red_mung, *, 1000, 100
+		sleepingbag_blue_mung, *, 1000, 100
+		Msp_SleepingBag_Green, *, -1, 100
+		Msp_SleepingBag_Blue, *, -1, 100
+		Msp_SleepingBag_LimeGreen, *, -1, 100
+		Msp_SleepingBag_Orange, *, -1, 100
+		Msp_SleepingBag_Purple, *, -1, 100
+		Msp_SleepingBag_Red, *, -1, 100
 	<Category>  Meat
 		ChickenBreastMeat,	S,	-1,	85
 		GoatSteakMeat,	S,	-1,	100
@@ -2369,43 +2370,32 @@
 		HumanSteakMeat, S,	-1, 1000
 	<Category>  Cooking 
 		Pot,	M,	45,	11
+		kv5_mung,	*,	1000,	250
 		MSP_WitchCauldron,	M,	45,	11
 		SteakKnife,	*,	25,	10
 		HuntingKnife,	*,	35,	13
 		Tripod,	*,	90,	25
-		BearTrap,	*,	-1,	300
 		SmallGasCanister,	*,	60,	15
 		MediumGasCanister,	*,	90,	22
 		LargeGasCanister,	*,	120,	30
 		PortableGasStove,	*,	100,	20
+		Ap_vip_coin,	*,	-1,	10000
 	<Category>  Animal Parts
-		TannedLeather,	1,	-1,	500
-		RabbitPelt,	*,	-1,	350
-		GoatPelt,	*,	-1,	400
+		TannedLeather,	1,	-1,	400
+		RabbitPelt,	*,	-1,	250
+		GoatPelt,	*,	-1,	400 
 		SheepPelt,	*,	-1,	600
-		PigPelt,	*,	-1,	750
-		CowPelt,	*,	-1,	900
+		PigPelt,	*,	-1,	750	
+		CowPelt,	*,	-1,	900	
 		DeerPelt,	*,	-1,	2000
 		WolfPelt,	*,	-1,	5000
 		BearPelt,	*,	-1,	10000
-		bearhead_mung, *, -1, 15000
-		Bone,	*,	-1,	15
-		Lard,	*,	-1,	25
-		SmallGuts,	*,	45,	45
-		Guts,	*,	60,	60
+		bearhead_mung,	*,	-1, 15000
+		Bone,			*,	-1,	15
+		Lard,			*,	-1,	25
+		SmallGuts,		*,	-1,	45
+		Guts,			*,	-1,	60
 		WildboarPelt,	*,	-1,	5000
-	<Category>  Cooking 
-		Pot,	M,	45,	11
-		MSP_WitchCauldron,	M,	45,	11
-		SteakKnife,	*,	25,	10
-		HuntingKnife,	*,	35,	13
-		Tripod,	*,	90,	25
-		SmallGasCanister,	*,	60,	15
-		MediumGasCanister,	*,	90,	22
-		LargeGasCanister,	*,	120,	30
-		PortableGasStove,	*,	100,	25
-		kv5_mung,	*,	1000,	250
-		Ap_vip_coin,	*,	-1,	10000
 <Trader>  Black Market
 	<Category>  Arma2 MGs
 		A2AA12,	W,	6000,	1500
