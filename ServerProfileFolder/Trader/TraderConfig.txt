@@ -584,7 +584,6 @@
 		Mag_cs5_10Rnd_mung,	M,	-1,	50
 		Mag_gewehr43_10Rnd_mung, M, -1, 50
 		mag_KOD_M110_10rnd, M, -1, 50
-		Mag_KOD_M110_20Rnd,	M,	-1,	100
 		mag_KOD_AK47_20rnd, M, -1, 50
 		Mag_CZ527_5rnd,	M,	60,	3
 		Mag_VSS_10Rnd,	M,	1000,	50
@@ -898,6 +897,7 @@
 		Balaclava3Holes_Black,	*,	55,	13
 		Balaclava3Holes_Green,	*,	60,	15
 		WeldingMask,	*,	70,	20
+		GP5GasMask,	*,	120,	40
 	<Category>  Shirts
 		TShirt_OrangeWhiteStripes,	*,	8,	2
 		TShirt_RedBlackStripes,	*,	8,	2
@@ -1772,6 +1772,17 @@
 		MVS_CountryFlag_Yugoslavia,	*,	50,	25
 		MVS_CountryFlag_Zambia,	*,	50,	25
 		MVS_CountryFlag_Zimbabwe,	*,	50,	25
+	<Category>  Military Gear | Gas Masks
+		MVS_S10Respirator_Black,	*,	10000,	1000
+		MVS_M50Respirator_Black,	*,	10000,	1000
+		MVS_PMK2Respirator_Black,	*,	10000,	1000
+		MVS_S10Respirator_Tan,	*,	10000,	1000
+		MVS_M50Respirator_Tan,	*,	10000,	1000
+		MVS_PMK2Respirator_Tan,	*,	10000,	1000
+		MVS_S10Respirator_OD,	*,	10000,	1000
+		MVS_M50Respirator_OD,	*,	10000,	1000
+		MVS_PMK2Respirator_OD,	*,	10000,	1000
+		MVS_S10Respirator_FS,	*,	10000,	1000
 	<Category>  Mass
 		MassGorkaInvertWinterTop,	*,	1000,	500
 		MassWinterHunterTop,	*,	1000,	500
@@ -1818,6 +1829,7 @@
 		Massurbancamohat,	*,	1000,	500
 		MasscamoBooniehat,	*,	1000,	500
 		MassBeigeUshanka,	*,	1000,	500
+		Massblackgp5,	*,	1000,	500
 		Massmichblack,	*,	1000,	500
 		MassHuntingCowboyhat,	*,	1000,	500
 		MassSSww2Camotop,	*,	1000,	500
@@ -1877,20 +1889,6 @@
 		NBCBootsGray,			*,	1000,	500
 		NBCHoodGray,			*,	1500,	750
 		NBCGlovesGray,			*,	1000,	500
-		stalker_gasmask_white_mung, *,	-1,	200
-		stalker_gasmask_black_mung, *,	-1, 200
-		GP5GasMask,					*,	10000,	1000
-		Massblackgp5,				*,	10000,	1000
-		MVS_S10Respirator_Black,	*,	10000,	1000
-		MVS_M50Respirator_Black,	*,	10000,	1000
-		MVS_PMK2Respirator_Black,	*,	10000,	1000
-		MVS_S10Respirator_Tan,		*,	10000,	1000
-		MVS_M50Respirator_Tan,		*,	10000,	1000
-		MVS_PMK2Respirator_Tan,		*,	10000,	1000
-		MVS_S10Respirator_OD,		*,	10000,	1000
-		MVS_M50Respirator_OD,		*,	10000,	1000
-		MVS_PMK2Respirator_OD,		*,	10000,	1000
-		MVS_S10Respirator_FS,		*,	10000,	1000
 <Trader>  Vehicles Trader
 	<Category>  Domestic Vehicles
 		Hatchback_02,	        	VNK,	60000,	15000
@@ -1927,15 +1925,6 @@
 		LANEvoque2016_ChromePurple,	VNK,	1000000,	200000
 	<Category>  German Imports
 		Dingo,						VNK,	750000,	200000
-		Dingo_DON_GER_DESERT,		VNK,	750000,	200000
-		Dingo_DON_CZ_DESERT,	VNK,	750000,	200000
-		Dingo_DON_CZ_Woodland,	VNK,	750000,	200000
-		Dingo_DON_UN,	VNK,	750000,	200000
-		Dingo_DON_CP,	VNK,	750000,	200000
-		Dingo_DON_CDF,	VNK,	750000,	200000
-		Dingo_DON_WTR,	VNK,	750000,	200000
-		Dingo_DON_DARKGREEN,	VNK,	750000,	200000
-		Dingo_DON_CHDKZ,	VNK,	750000,	200000
 	<Category>  Exotic Vehicles
 		vg7_baja,					VNK,	450000,	100000
 		vg7_baja_white,				VNK,	450000,	100000
@@ -2246,6 +2235,14 @@
 		DingoTrunk,						*,	2500,	1000
 		DingoWheel,						*,	2500,	1000
 	<Category>  Exotic Parts
+		vg7_baja,	V,	280000,	140000
+		vg7_baja_white,	V,	300000,	150000
+		vg7_baja_blue,	V,	300000,	150000
+		vg7_baja_red,	V,	350000,	150000
+		vg7_baja_pink,	V,	350000,	150000
+		vg7_baja_purple,	V,	350000,	150000
+		vg7_baja_yellow,	V,	350000,	150000
+		vg7_baja_black,	V,	400000,	150000
 		vg7_baja_L_Door,	*,	2500,	1000
 		vg7_baja_R_Door,	*,	2500,	1000
 		vg7_baja_Hood_Plate,	*,	2500,	1000
@@ -2587,4 +2584,129 @@
 		CP_CannabisBrickS1,			*,	-1,	30000
 		CP_CannabisBrickNomad,		*,	-1,	47500
 		CP_CannabisBrickBlackFrost,	*,	-1,	100000
+<Trader>  Heli Trader
+	<Category>  Helicopters
+		Helipolice_SIB4,		VNK,	1000000,	500000
+		Helipolice_swat_SIB5,	VNK,	1000000,	500000
+		HeliSIB_UH1D,		VNK,	1100000,	800000
+		HeliSIB_UH1D_airforce,	VNK,	1100000,	800000
+		HeliSIB_UH1D_iron,	VNK,	1100000,	800000
+		HeliSIB_UH1D_navy,	VNK,	1100000,	800000
+		Heliblack_hawk_SIB,	VNK,	1500000,	900000
+	<Category>  Helipolice
+		<VehicleParts> Helipolice_SIB4,	undefined,	undefined,	undefined
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		SIBPolice_Door_1_1,	*,	1500,	250
+		SIBPolice_Door_1_2,	*,	1500,	250
+		SIBPolice_Door_2_1,	*,	1500,	250
+		SIBPolice_Door_2_2,	*,	1500,	250
+	<Category>  Helipolice
+		<VehicleParts> Helipolice_swat_SIB5,	undefined,	undefined,	undefined
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		SIBPolice_Door_1_1_swat,	*,	1500,	250
+		SIBPolice_Door_1_2_swat,	*,	1500,	250
+		SIBPolice_Door_2_1_swat,	*,	1500,	250
+		SIBPolice_Door_2_2_swat,	*,	1500,	250
+	<Category>  Spares
+		CarBattery,	*,	500,	250
+		CarRadiator,	*,	500,	250
+	<Category>  HeliSIB
+		<VehicleParts>HeliSIB_UH1D,	undefined,	undefined,	undefined
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		SIBUH1D_Door_1_1,	*,	1500,	250
+		SIBUH1D_Door_1_2,	*,	1500,	250
+		SIBUH1D_Door_2_1,	*,	1500,	250
+		SIBUH1D_Door_2_2,	*,	1500,	250
+		CarBattery,	*,	500,	250
+	<Category>  HeliSIB
+		<VehicleParts>HeliSIB_UH1D_airforce,	undefined,	undefined,	undefined
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		SIBUH1D_Door_1_1_airforce,	*,	1500,	250
+		SIBUH1D_Door_1_2_airforce,	*,	1500,	250
+		SIBUH1D_Door_2_1_airforce,	*,	1500,	250
+		SIBUH1D_Door_2_2_airforce,	*,	1500,	250
+		CarBattery,	*,	500,	250
+	<Category>  HeliSIB
+		<VehicleParts>HeliSIB_UH1D_iron,	undefined,	undefined,	undefined
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		SIBUH1D_Door_1_1_iron,	*,	1500,	250
+		SIBUH1D_Door_1_2_iron,	*,	1500,	250
+		SIBUH1D_Door_2_1_iron,	*,	1500,	250
+		SIBUH1D_Door_2_2_iron,	*,	1500,	250
+		CarBattery,	*,	500,	250
+	<Category>  HeliSIB
+		<VehicleParts>HeliSIB_UH1D_navy,	undefined,	undefined,	undefined
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		SIBUH1D_Door_1_1_navy,	*,	1500,	250
+		SIBUH1D_Door_1_2_navy,	*,	1500,	250
+		SIBUH1D_Door_2_1_navy,	*,	1500,	250
+		SIBUH1D_Door_2_2_navy,	*,	1500,	250
+		CarBattery,	*,	1500,	250
+	<Category> Heliblack
+		<VehicleParts>Heliblack_hawk_SIB,	undefined,	undefined,	undefined
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		SIBblack_hawk_Door_1_1,	*,	1500,	250
+		SIBblack_hawk_Door_1_2,	*,	1500,	250
+		SIBblack_hawk_Door_2_1,	*,	1500,	250
+		SIBblack_hawk_Door_2_2,	*,	1500,	250
+		SIBblack_hawk_blade1,	*,	1500,	250
+		SIBblack_hawk_blade2,	*,	1500,	250
+		SIBblack_hawk_blade3,	*,	1500,	250
+		SIBblack_hawk_blade4,	*,	1500,	250
+		SIBblack_hawk_bladem1,	*,	1500,	250
+		SIBblack_hawk_bladem2,	*,	1500,	250
+		SIBblack_hawk_bladem3,	*,	1500,	250
+		SIBblack_hawk_bladem4,	*,	1500,	250
+		CarBattery,	*,	500,	250
+		HeadlightH7,	*,	500,	250
+		HeadlightH7,	*,	500,	250
+	<Category>  Heliblack
+		<VehicleParts>Heliblack_hawk_SIB_camo,	undefined,	undefined,	undefined
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		HatchbackWheel,	*,	500,	250
+		SIBblack_hawk_Door_1_1_camo,	*,	1500,	250
+		SIBblack_hawk_Door_1_2_camo,	*,	1500,	250
+		SIBblack_hawk_Door_2_1_camo,	*,	1500,	250
+		SIBblack_hawk_Door_2_2_camo,	*,	1500,	250
+		SIBblack_hawk_blade1,	*,	1500,	250
+		SIBblack_hawk_blade2,	*,	1500,	250
+		SIBblack_hawk_blade3,	*,	1500,	250
+		SIBblack_hawk_blade4,	*,	1500,	250
+		SIBblack_hawk_bladem1,	*,	1500,	250
+		SIBblack_hawk_bladem2,	*,	1500,	250
+		SIBblack_hawk_bladem3,	*,	1500,	250
+		SIBblack_hawk_bladem4,	*,	1500,	250
+		CarBattery,	*,	500,	250
+		HeadlightH7,	*,	500,	250
+		HeadlightH7,	*,	500,	250
+	<Category>  Keys
+		MCK_CarKey_Base,	*,	5000,	-1
+		MCK_CarKey_Blue,	*,	5000,	-1
+		MCK_CarKey_Green,	*,	5000,	-1
+		MCK_CarKey_White,	*,	5000,	-1
+		MCK_CarKey_Yellow,	*,	5000,	-1
+		MCK_CarKey_Red,	*,	5000,	-1
 <FileEnd>
