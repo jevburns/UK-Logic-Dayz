@@ -37,7 +37,7 @@
 <TraderMarkerSafezone>	80
 
 <TraderMarker> 			1
-<TraderMarkerPosition>	11840,140.56,12463
+<TraderMarkerPosition>	11840,140.565,12463.4
 <TraderMarkerSafezone>	80
 
 <TraderMarker> 			2
@@ -53,9 +53,9 @@
 <TraderMarkerSafezone>	30
 
 <TraderMarker> 			5
-<TraderMarkerPosition>	11862.0, 140.14, 12423.1
+<TraderMarkerPosition>	11868.1, 140.0, 12450.7
 <TraderMarkerSafezone>	80
-<VehicleSpawn>		11868.1, 140.09, 14233.0
+<VehicleSpawn>		11871.1, 140.0, 12458.2
 <VehicleSpawnOri>		18,		0,			0
 
 
@@ -233,7 +233,7 @@
 
 <Object> 			SurvivorM_Niki
 <ObjectPosition>	11857.0, 140.56, 12461.1
-<ObjectOrientation>	-169.334961,0,			0
+<ObjectOrientation>	285,0,			0
 <ObjectAttachment>	WaterBottle
 <ObjectAttachment>	SurgicalGloves_Green
 <ObjectAttachment>	MedicalScrubsHat_White
@@ -243,7 +243,7 @@
 <ObjectAttachment>	NBCBootsGray
 
 <Object> 			SurvivorF_Maria
-<ObjectPosition>	11840,140.56,12463
+<ObjectPosition>	11840,140.565,12463.4
 <ObjectOrientation>	0,0,			0
 <ObjectAttachment>	Screwdriver
 <ObjectAttachment>	Shovel
@@ -255,7 +255,7 @@
 
 <Object> 			SurvivorM_Hassan
 <ObjectPosition>	 11844,140.56,12455
-<ObjectOrientation>	-89.158005,	0,			0
+<ObjectOrientation>	15,	0,			0
 <ObjectAttachment>	FirefighterAxe
 <ObjectAttachment>	AKM
 <ObjectAttachment>	AK_WoodHndgrd
@@ -275,7 +275,7 @@
 
 <Object> 			SurvivorM_Elias
 <ObjectPosition>	11841,140.56,12456
-<ObjectOrientation>	-22.091135,	0,			0
+<ObjectOrientation>	15,	0,			0
 <ObjectAttachment>	AmmoBox_9x19_25rnd
 <ObjectAttachment>	NailedBaseballBat
 <ObjectAttachment>	MP5K
@@ -295,7 +295,7 @@
 
 <Object> 			SurvivorM_Taiki
 <ObjectPosition>	   11855,140.56,12450
-<ObjectOrientation>	0,	0,			0
+<ObjectOrientation>	20,	0,			0
 <ObjectAttachment>	AviatorGlasses
 <ObjectAttachment>	ZmijovkaCap_Blue
 <ObjectAttachment>	JumpsuitJacket_Blue
@@ -303,7 +303,7 @@
 <ObjectAttachment>	Sneakers_White
 
 <Object> 			SurvivorM_Jose
-<ObjectPosition>	11862.0, 140.14, 12423.1
+<ObjectPosition>	11868.1, 140.0, 12450.7
 <ObjectOrientation>	18,	0,			0
 <ObjectAttachment>	LugWrench
 <ObjectAttachment>	WorkingGloves_Black
@@ -404,7 +404,7 @@
 
 <Object> 			SurvivorM_Peter
 <ObjectPosition>	 11866,140.56,12467
-<ObjectOrientation>	0, 0,			0
+<ObjectOrientation>	255, 0,			0
 <ObjectAttachment>	ChestHolster
 <ObjectAttachment>	Engraved1911
 <ObjectAttachment>	BaseballCap_Camo

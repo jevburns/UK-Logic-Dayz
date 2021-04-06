@@ -470,6 +470,8 @@
 		SVD,	W,	4500,	1125
 		A2M24_Green,	W,	7000,	2000
 		A2M40A3,	W,	7000,	2000
+		A2M24_Desert,	W,	7000,	2000
+
 	<Category>  Grenades
 		RGD5Grenade,	W,	-1,	200
 		M67Grenade,	W,	-1,	200
@@ -2593,116 +2595,9 @@
 		HeliSIB_UH1D_iron,	VNK,	1100000,	800000
 		HeliSIB_UH1D_navy,	VNK,	1100000,	800000
 		Heliblack_hawk_SIB,	VNK,	1500000,	900000
-	<Category>  Helipolice
-		<VehicleParts> Helipolice_SIB4,	undefined,	undefined,	undefined
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		SIBPolice_Door_1_1,	*,	1500,	250
-		SIBPolice_Door_1_2,	*,	1500,	250
-		SIBPolice_Door_2_1,	*,	1500,	250
-		SIBPolice_Door_2_2,	*,	1500,	250
-	<Category>  Helipolice
-		<VehicleParts> Helipolice_swat_SIB5,	undefined,	undefined,	undefined
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		SIBPolice_Door_1_1_swat,	*,	1500,	250
-		SIBPolice_Door_1_2_swat,	*,	1500,	250
-		SIBPolice_Door_2_1_swat,	*,	1500,	250
-		SIBPolice_Door_2_2_swat,	*,	1500,	250
 	<Category>  Spares
 		CarBattery,	*,	500,	250
-		CarRadiator,	*,	500,	250
-	<Category>  HeliSIB
-		<VehicleParts>HeliSIB_UH1D,	undefined,	undefined,	undefined
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		SIBUH1D_Door_1_1,	*,	1500,	250
-		SIBUH1D_Door_1_2,	*,	1500,	250
-		SIBUH1D_Door_2_1,	*,	1500,	250
-		SIBUH1D_Door_2_2,	*,	1500,	250
-		CarBattery,	*,	500,	250
-	<Category>  HeliSIB
-		<VehicleParts>HeliSIB_UH1D_airforce,	undefined,	undefined,	undefined
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		SIBUH1D_Door_1_1_airforce,	*,	1500,	250
-		SIBUH1D_Door_1_2_airforce,	*,	1500,	250
-		SIBUH1D_Door_2_1_airforce,	*,	1500,	250
-		SIBUH1D_Door_2_2_airforce,	*,	1500,	250
-		CarBattery,	*,	500,	250
-	<Category>  HeliSIB
-		<VehicleParts>HeliSIB_UH1D_iron,	undefined,	undefined,	undefined
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		SIBUH1D_Door_1_1_iron,	*,	1500,	250
-		SIBUH1D_Door_1_2_iron,	*,	1500,	250
-		SIBUH1D_Door_2_1_iron,	*,	1500,	250
-		SIBUH1D_Door_2_2_iron,	*,	1500,	250
-		CarBattery,	*,	500,	250
-	<Category>  HeliSIB
-		<VehicleParts>HeliSIB_UH1D_navy,	undefined,	undefined,	undefined
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		SIBUH1D_Door_1_1_navy,	*,	1500,	250
-		SIBUH1D_Door_1_2_navy,	*,	1500,	250
-		SIBUH1D_Door_2_1_navy,	*,	1500,	250
-		SIBUH1D_Door_2_2_navy,	*,	1500,	250
-		CarBattery,	*,	1500,	250
-	<Category> Heliblack
-		<VehicleParts>Heliblack_hawk_SIB,	undefined,	undefined,	undefined
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		SIBblack_hawk_Door_1_1,	*,	1500,	250
-		SIBblack_hawk_Door_1_2,	*,	1500,	250
-		SIBblack_hawk_Door_2_1,	*,	1500,	250
-		SIBblack_hawk_Door_2_2,	*,	1500,	250
-		SIBblack_hawk_blade1,	*,	1500,	250
-		SIBblack_hawk_blade2,	*,	1500,	250
-		SIBblack_hawk_blade3,	*,	1500,	250
-		SIBblack_hawk_blade4,	*,	1500,	250
-		SIBblack_hawk_bladem1,	*,	1500,	250
-		SIBblack_hawk_bladem2,	*,	1500,	250
-		SIBblack_hawk_bladem3,	*,	1500,	250
-		SIBblack_hawk_bladem4,	*,	1500,	250
-		CarBattery,	*,	500,	250
-		HeadlightH7,	*,	500,	250
-		HeadlightH7,	*,	500,	250
-	<Category>  Heliblack
-		<VehicleParts>Heliblack_hawk_SIB_camo,	undefined,	undefined,	undefined
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		HatchbackWheel,	*,	500,	250
-		SIBblack_hawk_Door_1_1_camo,	*,	1500,	250
-		SIBblack_hawk_Door_1_2_camo,	*,	1500,	250
-		SIBblack_hawk_Door_2_1_camo,	*,	1500,	250
-		SIBblack_hawk_Door_2_2_camo,	*,	1500,	250
-		SIBblack_hawk_blade1,	*,	1500,	250
-		SIBblack_hawk_blade2,	*,	1500,	250
-		SIBblack_hawk_blade3,	*,	1500,	250
-		SIBblack_hawk_blade4,	*,	1500,	250
-		SIBblack_hawk_bladem1,	*,	1500,	250
-		SIBblack_hawk_bladem2,	*,	1500,	250
-		SIBblack_hawk_bladem3,	*,	1500,	250
-		SIBblack_hawk_bladem4,	*,	1500,	250
-		CarBattery,	*,	500,	250
-		HeadlightH7,	*,	500,	250
-		HeadlightH7,	*,	500,	250
-	<Category>  Keys
+ 	<Category>  Keys
 		MCK_CarKey_Base,	*,	5000,	-1
 		MCK_CarKey_Blue,	*,	5000,	-1
 		MCK_CarKey_Green,	*,	5000,	-1
