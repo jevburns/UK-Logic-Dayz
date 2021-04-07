@@ -1927,6 +1927,15 @@
 		LANEvoque2016_ChromePurple,	VNK,	1000000,	200000
 	<Category>  German Imports
 		Dingo,						VNK,	750000,	200000
+		Dingo_DON_GER_DESERT,		VNK,	750000,	200000
+		Dingo_DON_CZ_DESERT,	VNK,	750000,	200000
+		Dingo_DON_CZ_Woodland,	VNK,	750000,	200000
+		Dingo_DON_UN,	VNK,	750000,	200000
+		Dingo_DON_CP,	VNK,	750000,	200000
+		Dingo_DON_CDF,	VNK,	750000,	200000
+		Dingo_DON_WTR,	VNK,	750000,	200000
+		Dingo_DON_DARKGREEN,	VNK,	750000,	200000
+		Dingo_DON_CHDKZ,	VNK,	750000,	200000
 	<Category>  Exotic Vehicles
 		vg7_baja,					VNK,	450000,	100000
 		vg7_baja_white,				VNK,	450000,	100000
