@@ -504,4 +504,11 @@
 				<item name="TaloonBag_Violet" chance="0.2" />
 				<item name="FurCourierBag" chance="0.1" />
 		</attachments>
+		
+		<!--   UK Logic Custom GEAR   -->
+		<cargo chance="0.5" name="uklPriest">
+				<item name="AP_VIP_Coin" chance="0.10" />
+				<item name="AP_Copper_Coin" chance="0.70" />
+				<item name="AP_Gold_Coin" chance="0.20" />
+		</cargo>
 </randompresets>

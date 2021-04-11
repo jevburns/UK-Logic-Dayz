@@ -37959,9 +37959,9 @@
     </type>
     <type name="Ap_vip_coin">
       <nominal>30</nominal>
-      <lifetime>3888000</lifetime>
+      <lifetime>7200</lifetime>
       <restock>1800</restock>
-      <min>20</min>
+      <min>10</min>
       <quantmin>-1</quantmin>
       <quantmax>-1</quantmax>
       <cost>100</cost>

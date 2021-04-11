@@ -1508,7 +1508,7 @@
 	</type>
 	<!-- Religious -->
 	<type name="ZmbM_priestPopSkinny">
-		<cargo preset="foodHermit" />
+		<cargo preset="uklPriest" />
 	</type>
 	<!-- Solitude -->
 	<type name="ZmbF_HikerSkinny_Blue">
