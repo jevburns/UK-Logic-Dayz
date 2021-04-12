@@ -55,8 +55,6 @@
 		BoxCerealCrunchin,	*,	-1,	600
 		TacticalBaconCan,	*,	-1,	750
 		Rice,				*,	-1,	1000
-		vinegar_mung,		*,	-1,	500
-		ketchup_mung,		*,	-1,	500
 	<Category>  Military Rations
 		MassMRE4,				*,	-1,	2000
 		MassMRE9,				*,	-1,	2000
@@ -89,7 +87,6 @@
 	<Category>  Drinks
 		PurificationTablets, 10, 100, 10
 		WaterBottle,	*,	250,	25
-		thermos_mung,	*,	-1,		100
 		SodaCan_Cola,	*,	500,	50
 		SodaCan_Pipsi,	*,	500,	50
 		SodaCan_Spite,	*,	500,	50
@@ -132,13 +129,11 @@
 		CanOpener,	*,	350,	8
 		Lockpick,	*,	-1,	12
 		Hammer,	*,	1500,	18
-		Clawhammer_mung, *, -1, 20
 		Hatchet,	*,	1700,	35
 		HandSaw,	*,	1000,	18
 		Hacksaw,	*,	1000,	20
 		SteakKnife,		*,	250,	10
 		KitchenKnife,	*,	400,	50
-		bowieknife_mung,	*,	-1,		200
 		HuntingKnife,	*,	-1,		200
 		CombatKnife,	*,	-1,		300
 		Machete,	*,	600,	220
@@ -175,7 +170,6 @@
 		Roadflare,	*,	35,	8
 		Flashlight,	*,	60,	10
 		PortableGasLamp,	*,	70,	18
-		oillamp_mung,	*, 70, 18
 		Headtorch_Black,	*,	120,	30
 		Headtorch_Grey,	*,	120,	30
 	<Category>  Crafting Supplies
@@ -201,7 +195,6 @@
 		AntiPestsSpray,	*,	8,	8
 		HandcuffKeys,	*,	-1,	120
 		Handcuffs,	*,	-1,	200
-		sherlockpipe_mung, *, -1, 1
 	<Category>  Building Supplies
 		WoodenPlank,	10,	-1,	90
 		NailBox,	*,	1000,	55
@@ -279,11 +272,6 @@
 		Msp_RifleSafe_Tan_Kit,	*,	-1,	2000
 		Msp_GunCabinet_Kit,	*,	-1,	5950
 		Msp_Gunwall_Kit,	*,	12380,	5950
-		hardigg_Mung,	*,	50000,	2500
-		hardigg2_Mung,	*,	50000,	2500
-		hardigg2_Mung_camo,	*,	50000,	2500
-		hardigg3_mung,	*,	50000,	2500
-		carrierrig_mung,	*,	50000,	2500
 	<Category>  Storage Barrels (Items)
 		BarrelHoles_Green,	*,	-1,	2000
 		BarrelHoles_Red,	*,	-1,	2000
@@ -315,7 +303,6 @@
 		Msp_DeskClock,	*,	25,	5
 		Msp_MedievalGibbet_Kit,	*,	15000,	1870
 		Msp_MedievalGibbetWithMount_Kit,	*,	75000,	1870
-		ballgrill_mung,	*,	20000,	1500
 	<Category>  Gardening
 		TomatoSeedsPack,	*,	-1,	15
 		PepperSeedsPack,	*,	-1,	20
@@ -346,7 +333,6 @@
 	<Category>  Sidearms
 		MKII,	W,	3500,	1000
 		MakarovIJ70,	W,	1000,	500
-		Nagant1895_mung,	*,	1000,	400
 		CZ75,	W,	1350,	900
 		A2M9,	W,	3000,	1500
 		Glock19,	W,	5000,	2000
@@ -368,7 +354,6 @@
 		UMP45,	W,	3400,	550
 		AKS74U,	W,	3500,	650
 	<Category>  Shotguns
-		izh54_sawnoff_mung,	W,	3000,	1500
 		Izh43Shotgun,	W,	1400,	200
 		Mp133Shotgun,	W,	1750,	250
 		Saiga,	W,	3400,	500
@@ -393,8 +378,6 @@
 		Mosin9130,	W,	800,	400
 		CZ527,	W,	10000,	250
 		Winchester70,	W,	2500,	625
-		Gewehr43_mung,	W,	1200,	600
-		csmcmillan_mung,	W,	5000,	1250
 	<Category>  DMR Rifles
 		SKS,	W,	1700,	425
 		VSS,	W,	2100,	525
@@ -449,7 +432,6 @@
 		MassPPSH41_Black,	W,	6000,	1000
 		MassPPSH41_Green,	W,	6000,	1000
 		MassPPSH41_Camo,	W,	6000,	1000
-		lebedev_PL15_mung,	W,	2000,	1000
 		MassScout556,	W,	10000,	1900
 		MassType81,	W,	10000,	1750
 		MassM16,	W,	10000,	2000
@@ -483,7 +465,6 @@
 		M18SmokeGrenade_White,	W,	300,	100
 		RDG2SmokeGrenade_Black,	W,	300,	100
 		RDG2SmokeGrenade_White,	W,	300,	100
-		stielhandgranate_mung,	W,	-1,	400
 <Trader>  Weapon Supplies
 	<Category>  Ammunition
 		Ammo_380,	1,	1,	1
@@ -499,7 +480,7 @@
 		Ammo_556x45,	1,	8,	3
 		Ammo_762x39,	1,	9,	3
 		Ammo_762x54,	1,	10,	6
-		Ammo_308Win,	1,	20,	3
+		Ammo_308Win,	20,	20,	3
 		Ammo_545x39Tracer,	1,	9,	5
 		Ammo_556x45Tracer,	1,	12,	6
 		Ammo_762x39Tracer,	1,	14,	7
@@ -533,7 +514,7 @@
 		//Ammo_12GaBB,	*,	1000,	5
 		//AmmoBox_12gaBB,	*,	1000,	500
 		MassAmmoBox_556x45_10Rnd,	*,	1000,	500
-		Ammo_338,	1,	1000,	500
+		Ammo_338,	80,	1000,	500
 		AmmoBox_338,	*,	-1,	125
 		Ammo_408Chey,	1,	-1,	50
 		AmmoBox_408Chey,	*,	-1,	200
@@ -541,7 +522,7 @@
 		KOD_Ammo_338,	1,	200,	150
 		KOD_Ammo_50BMG,	1,	-1,	25
 		KOD_Ammo_40lw,	1,	500,	250
-		KOD_Ammo_792x57,	1,	250,	90
+		KOD_Ammo_792x57,	20,	250,	90
 		Ammo_50CalBW,	1,	-1,	25
 		Mag_KOD_Drum308_50Rnd,	M,	-1,	500
 	<Category>  Magazines
@@ -583,8 +564,6 @@
 		A2FNFAL_Magazine,	M,	240,	60
 		A2mk17_mag,	M,	500,	250
 		A2M4SPR_Magazine,	M,	-1,	50
-		Mag_cs5_10Rnd_mung,	M,	-1,	50
-		Mag_gewehr43_10Rnd_mung, M, -1, 50
 		mag_KOD_M110_10rnd, M, -1, 50
 		mag_KOD_AK47_20rnd, M, -1, 50
 		Mag_CZ527_5rnd,	M,	60,	3
@@ -693,7 +672,6 @@
 		AD_RMR_TM,	*,	1900,	350
 		AD_RMR_TM_MosinMount,	*,	1900,	350
 		AD_RMR_TM_B13,	*,	1900,	350
-		Leupold_mung, *, -1, 500
 	<Category>  Supressors
 		PistolSuppressor,	*,	150,	75
 		AK_Suppressor,	*,	400,	100
@@ -730,21 +708,15 @@
 		AviatorGlasses,	*,	40,	20
 		TacticalGoggles,	*,	60,	30
 		NVGHeadstrap,	*,	200,	120
-		Lennon_glasses_pink_mung,	*,	200,	100
-		Lennon_glasses_galaxy_mung,	*,	200,	100
-		Lennon_glasses_black_mung,	*,	200,	100
-		Lennon_glasses_blue_mung,	*,	200,	100
-		Lennon_glasses_yellow_mung,	*,	200,	100
-		Lennon_glasses_white_mung,	*,	200,	100
 	<Category>  Armbands
-		Armband_Pink,	*,	1500,	500
-		Armband_Yellow,	*,	1500,	500
-		Armband_Orange,	*,	1500,	500
-		Armband_Red,	*,	1500,	500
-		Armband_Blue,	*,	1500,	500
-		Armband_White,	*,	1500,	500
-		Armband_Black,	*,	1500,	500
-		Armband_Green,	*,	1500,	500
+		Armband_Pink,	*,	1500,	50
+		Armband_Yellow,	*,	1500,	50
+		Armband_Orange,	*,	1500,	50
+		Armband_Red,	*,	1500,	50
+		Armband_Blue,	*,	1500,	50
+		Armband_White,	*,	1500,	50
+		Armband_Black,	*,	1500,	50
+		Armband_Green,	*,	1500,	50
 	<Category>  Gloves
 		SurgicalGloves_LightBlue,	*,	5,	1
 		SurgicalGloves_Blue,	*,	5,	1
@@ -881,10 +853,6 @@
 		BallisticHelmet_UN,	*,	250,	80
 		BallisticHelmet_Black,	*,	300,	100
 		BallisticHelmet_Green,	*,	350,	110
-		clownmask_mung,	*,	500,	300
-		strawhat_mung,	*,	200,	100
-		jesterhat_mung,	*,	1000,	50
-		bandana_mung,	*,	100,	50
 	<Category>  Masks
 		SurgicalMask,	*,	15,	3
 		BandanaMask_PolkaPattern,	*,	25,	6
@@ -1214,7 +1182,6 @@
 		ChestHolster,	*,	60,	20
 		PlateCarrierHolster,	*,	60,	20
 		PlateCarrierPouches,	*,	100,	20
-		rifleholster_black_mung,	*,	300,	150
 	<Category>  Belt
 		CivilianBelt,	*,	100,	30
 		MilitaryBelt,	*,	100,	30
@@ -1239,14 +1206,6 @@
 		AssaultBag_Black,	*,	110,	30
 		AssaultBag_Green,	*,	110,	30
 		AssaultBag_Ttsko,	*,	130,	30
-		jaakari_simple_brown_mung, *, -1, 100
-		jaakari_simple_camo_mung, *, -1, 100
-		jaakari_simple_black_mung, *, -1, 100
-		jaakari_simple_tan_mung, *, -1, 100
-		jaakari_brown_mung, *, -1, 100
-		jaakari_camo_mung, *, -1, 100
-		jaakari_black_mung, *, -1, 100
-		jaakari_tan_mung, *, -1, 100
 		HuntingBag,	*,	130,	30
 		TortillaBag,	*,	180,	60
 		MassWinterTortilla, *, 180, 60
@@ -1259,25 +1218,7 @@
 		AliceBag_Black,	*,	400,	150
 		AliceBag_Green,	*,	400,	150
 		AliceBag_Camo,	*,	500,	220
-		Hikingbagmung_white,	*,	500,	250
 		MVS_Radio,	*,	500,	250
-		Hikingbagmung_yellow,	*,	500,	250
-		Hikingbagmung_red,	*,	500,	250
-		Hikingbagmung_blue,	*,	500,	250
-		Hikingbagmung_green,	*,	500,	250
-		Hikingbagmung_black,	*,	600,	300
-		Hikingbagmung_camo,	*,	600,	300
-		Hikingbagmung_meow,	*,	600,	300
-		Hikingbagmung_pink,	*,	1000,	500
-		Hikingbagmung_snow,	*,	1000,	500
-		bag_6B38_black_mung,	*,	1000,	500
-		bag_6B38_camo_mung,	*,	1000,	500
-		bag_6B38_LETO_mung,	*,	1000,	500
-		bag_6B38_Snow_mung,	*,	1000,	500
-		fannypack_pink_mung,	*,	200,	100
-		fannypack_black_mung,	*,	200,	100
-		fannypack_camo_mung,	*,	300,	100
-		fannypack_multi_mung,	*,	300,	100
 	<Category>  Military Gear | OD
 		MVS_Balaclava_OD,	*,	100,	25
 		MVS_Facemask_OD,	*,	100,	25
@@ -1885,7 +1826,6 @@
 		MassNBCbootsYellow,		*,	1000,	500
 		MassNBCglovesBlue,		*,	1000,	500
 		MassNBChoodYellow,		*,	1500,	750
-		nbc_longcoat_mung, 		*,	2500,	1250
 		NBCJacketGray,			*,	2500,	1250
 		NBCPantsGray,			*,	2500,	1250
 		NBCBootsGray,			*,	1000,	500
@@ -2359,9 +2299,6 @@
 		BearTrap,	*,	-1,	300
 		MediumTent,	*,	4000,	750
 		LargeTent,	*,	5000,	1000
-		sleepingbag_yellow_mung, *, 1000, 100
-		sleepingbag_red_mung, *, 1000, 100
-		sleepingbag_blue_mung, *, 1000, 100
 		Msp_SleepingBag_Green, *, -1, 100
 		Msp_SleepingBag_Blue, *, -1, 100
 		Msp_SleepingBag_LimeGreen, *, -1, 100
@@ -2381,7 +2318,6 @@
 		HumanSteakMeat, S,	-1, 1000
 	<Category>  Cooking 
 		Pot,	M,	45,	11
-		kv5_mung,	*,	1000,	250
 		MSP_WitchCauldron,	M,	45,	11
 		SteakKnife,	*,	25,	10
 		HuntingKnife,	*,	35,	13
@@ -2401,7 +2337,6 @@
 		DeerPelt,	*,	-1,	2000
 		WolfPelt,	*,	-1,	5000
 		BearPelt,	*,	-1,	10000
-		bearhead_mung,	*,	-1, 15000
 		Bone,			*,	-1,	15
 		Lard,			*,	-1,	25
 		SmallGuts,		*,	-1,	45
@@ -2541,7 +2476,6 @@
 		AD_RMR_TM,	*,	900,	350
 		AD_RMR_TM_MosinMount,	*,	900,	350
 		AD_RMR_TM_B13,	*,	900,	350
-		Leupold_mung, *, 2500, 800
 	<Category>  Misc Ammo
 		AmmoBox_308Win_20Rnd, 	*,	500,	60
 		AmmoBox_762x54_20Rnd,	*,	400,	120

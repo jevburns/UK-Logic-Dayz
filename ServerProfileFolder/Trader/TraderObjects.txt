@@ -45,7 +45,7 @@
 <TraderMarkerSafezone>	80
 
 <TraderMarker> 			3
-<TraderMarkerPosition>	11841,140.56,12456
+<TraderMarkerPosition>	11841.6, 140.565, 12457.6
 <TraderMarkerSafezone>	80
 
 <TraderMarker> 			4
@@ -274,7 +274,7 @@
 <ObjectAttachment>	AliceBag_Camo
 
 <Object> 			SurvivorM_Elias
-<ObjectPosition>	11841,140.56,12456
+<ObjectPosition>	11841.6, 140.565, 12457.6
 <ObjectOrientation>	15,	0,			0
 <ObjectAttachment>	AmmoBox_9x19_25rnd
 <ObjectAttachment>	NailedBaseballBat
