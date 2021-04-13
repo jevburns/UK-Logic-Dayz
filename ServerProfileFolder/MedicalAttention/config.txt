@@ -46,15 +46,11 @@ ProtectionSuit = MassNBCglovesBlue = 5
 ProtectionSuit = NBCHoodGray = 10
 ProtectionSuit = MassNBChoodYellow = 10
 ProtectionSuit = NBCJacketGray = 10
-ProtectionSuit = nbc_longcoat_mung = 10
 ProtectionSuit = MassNBCJacketYellow = 10
 ProtectionSuit = NBCPantsGray = 10
 ProtectionSuit = MassNBCpantsYellow = 10
 ProtectionSuit = GP5GasMask = 50 = 1
 ProtectionSuit = GasMask = 60 = 1
-ProtectionSuit = mag3_gasmask_mung = 40 = 1
-ProtectionSuit = stalker_gasmask_white_mung = 40 = 1
-ProtectionSuit = stalker_gasmask_black_mung = 40 = 1
 ProtectionSuit = MVS_S10Respirator_Black = 40 = 1
 ProtectionSuit = MVS_M50Respirator_Black = 40 = 1
 ProtectionSuit = MVS_PMK2Respirator_Black = 40 = 1
