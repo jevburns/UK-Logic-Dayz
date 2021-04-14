@@ -2512,23 +2512,23 @@
 		Mackerel,			*,		150,	-1
 		Carp,				*,		200,	-1		
 	<Category> Narcotics
-		MassMeth,					*,	-1,	10000
-		CP_CannabisBagSkunk,		*,	-1,	410
-		CP_CannabisBagBlue,			*,	-1,	500
-		CP_CannabisBagKush,			*,	-1,	700
-		CP_CannabisBagStardawg,		*,	-1,	900
-		CP_CannabisBagFuture,		*,	-1,	1200
-		CP_CannabisBagS1,			*,	-1,	1700
-		CP_CannabisBagNomad,		*,	-1,	2700
-		CP_CannabisBagBlackFrost,	*,	-1,	5680
+		MassMeth,			*,	-1,	10000
+		CP_CannabisBagSkunk,		1,	-1,	410
+		CP_CannabisBagBlue,		1,	-1,	500
+		CP_CannabisBagKush,		1,	-1,	700
+		CP_CannabisBagStardawg,		1,	-1,	900
+		CP_CannabisBagFuture,		1,	-1,	1200
+		CP_CannabisBagS1,		1,	-1,	1700
+		CP_CannabisBagNomad,		1,	-1,	2700
+		CP_CannabisBagBlackFrost,		1,	-1,	5680
 		CP_CannabisBrickSkunk,		*,	-1,	8125
 		CP_CannabisBrickBlue,		*,	-1,	10000
 		CP_CannabisBrickKush,		*,	-1,	12500
-		CP_CannabisBrickStardawg,	*,	-1,	16000
+		CP_CannabisBrickStardawg,		*,	-1,	16000
 		CP_CannabisBrickFuture,		*,	-1,	21250
-		CP_CannabisBrickS1,			*,	-1,	30000
+		CP_CannabisBrickS1,		*,	-1,	30000
 		CP_CannabisBrickNomad,		*,	-1,	47500
-		CP_CannabisBrickBlackFrost,	*,	-1,	100000
+		CP_CannabisBrickBlackFrost,		*,	-1,	100000
 <Trader>  Heli Trader
 	<Category>  Helicopters
 		Helipolice_SIB4,		VNK,	1000000,	500000
