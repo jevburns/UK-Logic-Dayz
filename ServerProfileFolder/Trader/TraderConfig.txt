@@ -453,7 +453,6 @@
 		A2M24_Green,	W,	7000,	2000
 		A2M40A3,	W,	7000,	2000
 		A2M24_Desert,	W,	7000,	2000
-
 	<Category>  Grenades
 		RGD5Grenade,	W,	-1,	200
 		M67Grenade,	W,	-1,	200
@@ -466,39 +465,58 @@
 		RDG2SmokeGrenade_Black,	W,	300,	100
 		RDG2SmokeGrenade_White,	W,	300,	100
 <Trader>  Weapon Supplies
-	<Category>  Ammunition
-		Ammo_380,	1,	1,	1
-		Ammo_9x19,	1,	1,	1
-		Ammo_22,	1,	4,	4
-		Ammo_45ACP,	1,	10,	1
-		Ammo_357,	1,	12,	1
-		Ammo_12gaPellets,	1,	10,	5
-		Ammo_12gaSlug,	1,	20,	10
-		Ammo_9x39,	1,	5,	1
-		Ammo_9x39AP,	1,	5,	3
-		Ammo_545x39,	1,	6,	3
-		Ammo_556x45,	1,	8,	3
-		Ammo_762x39,	1,	9,	3
-		Ammo_762x54,	1,	10,	6
-		Ammo_308Win,	20,	20,	3
+	<Category>  Sidearm Ammunition
+	    ---Single Rounds---, *, -1, -1
+		Ammo_22,				1,	1,	1
+		Ammo_380,				1,	2,	2
+		Ammo_9x19,				1,	3,	3
+		Ammo_45ACP,				1,	4,	4
+		Ammo_357,				1,	5,	5
+		---Boxed Rounds---, *, -1, -1
+		AmmoBox_22_50Rnd,		*,	50,	50
+		AmmoBox_380_35rnd,		*,	70,	70
+		AmmoBox_9x19_25rnd,		*,	75,	75
+		AmmoBox_45ACP_25rnd,	*,	100, 100
+		AmmoBox_357_20Rnd,		*,	120, 120
+		---Bulk Rounds---, *, -1, -1
+		Ammo_22,				100,	100,	100
+		Ammo_380,				100,	200,	200
+		Ammo_9x19,				100,	300,	300
+		Ammo_45ACP,				100,	400,	400
+		Ammo_357,				80,		400,	400		
+		<Category>  Shotgun Ammunition
+	    ---Single Rounds---, *, -1, -1
+		Ammo_12gaPellets,		1,	5,	5
+		Ammo_12gaSlug,			1,	5,	5
+		Ammo_12gaRubberSlug,	1,	1,	1
+		---Boxed Rounds---, *, -1, -1
+		AmmoBox_00buck_10rnd,	*,	50,	50
+		AmmoBox_12gaSlug_10Rnd,	*,	50,	50
+		AmmoBox_12gaRubberSlug_10Rnd, *, 10, 10
+		---Bulk Rounds---, *, -1, -1
+		Ammo_12gaPellets,		40,	200,	200
+		Ammo_12gaSlug,			40,	200,	200
+		Ammo_12gaRubberSlug,	10,	10, 	10		
+		<Category>  Ammunition
+		Ammo_9x39,			1,	5,	1
+		Ammo_9x39AP,		1,	5,	3
+		Ammo_545x39,		1,	6,	3
+		Ammo_556x45,		1,	8,	3
+		Ammo_762x39,		1,	9,	3
+		Ammo_762x54,		1,	10,	6
+		Ammo_308Win,		20,	20,	3
 		Ammo_545x39Tracer,	1,	9,	5
 		Ammo_556x45Tracer,	1,	12,	6
 		Ammo_762x39Tracer,	1,	14,	7
 		Ammo_762x54Tracer,	1,	15,	7
 		Ammo_308WinTracer,	1,	30,	15
-		Ammo_338,	1,	30,	15
+		Ammo_338,			1,	30,	15
+		Ammo_127x55,		1,	30,	15
 		// When changing Prices here keep in Mind that Players
 		// can just unpack the Ammoboxes and sell the Ammo seperatly!
 		// Originally the Ammoboxes buying Price is 20% less than
 		// buying single Ammo. The Selling Price is the same as
 		// selling the Ammo seperately.
-		AmmoBox_380_35rnd,	*,	35,	15
-		AmmoBox_9x19_25rnd,	*,	25,	25
-		AmmoBox_22_50Rnd,	*,	50,	25
-		AmmoBox_45ACP_25rnd,	*,	100,	25
-		Ammo_357,	*,	240,	60
-		AmmoBox_00buck_10rnd,	*,	100,	10
-		AmmoBox_12gaSlug_10Rnd,	*,	240,	20
 		AmmoBox_9x39_20Rnd,	*,	90,	20
 		AmmoBox_9x39AP_20Rnd,	*,	100,	60
 		AmmoBox_545x39_20Rnd,	*,	120,	60
@@ -511,8 +529,6 @@
 		AmmoBox_762x39Tracer_20Rnd,	*,	280,	140
 		AmmoBox_762x54Tracer_20Rnd,	*,	300,	140
 		AmmoBox_308WinTracer_20Rnd,	*,	600,	300
-		//Ammo_12GaBB,	*,	1000,	5
-		//AmmoBox_12gaBB,	*,	1000,	500
 		MassAmmoBox_556x45_10Rnd,	*,	1000,	500
 		Ammo_338,	80,	1000,	500
 		AmmoBox_338,	*,	-1,	125
