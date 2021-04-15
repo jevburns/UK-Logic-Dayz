@@ -543,6 +543,7 @@
 		Mag_MP5_30Rnd,	M,	35,	6
 		bizon_magazine,	M,	70,	17
 		Mag_UMP_25Rnd,	M,	250,	65
+		Mag_Ruger1022_30Rnd,	M, 50, 10
 		A2HKM5_SD_Magazine,	M,	40,	10
 		A2WM110_mag, 	M, -1,	100
 		Mag_Saiga_5Rnd,	M,	60,	15
@@ -593,7 +594,9 @@
 		AK_RailHndgrd,	*,	200,	100
 		AK_PlasticHndgrd,	*,	200,	100
 		M4_PlasticHndgrd,	*,	150,	75
-		M4_RISHndgrd,	*,	200,	100
+		M4_RISHndgrd,		*,	200,	100
+		M4_RISHndgrd_Black, *,	200,	100
+		M4_RISHndgrd_Green, *,	200,	100
 		M4_MPHndgrd,	*,	200,	100
 	<Category>  Buttstocks
 		MP5k_StockBttstck,	*,	1000,	100
@@ -605,11 +608,15 @@
 		AK_PlasticBttstck,	*,	1000,	100
 		AK_WoodBttstck,	*,	1000,	100
 		AK_FoldingBttstck,	*,	1000,	100
-		M4_OEBttstck,	*,	1000,	100
-		M4_CQBBttstck,	*,	1000,	100
-		M4_MPBttstck,	*,	1000,	100
+		M4_OEBttstck,		*,	1000,	100
+		M4_CQBBttstck,		*,	1000,	100
+		M4_CQBBttstck_Black,	*,	1000,	100
+		M4_CQBBttstck_Green,	*,	1000,	100
+		M4_MPBttstck,		*,	1000,	100
+		MassAR15AdjBttstck, *,	1000,	100
 		zenitco_pt3_buttstock,	*,	1000,	100
 		mcmillan_buttstock,	*,	1000,	100
+		MassStockPouch,		*,	100,	10
 	<Category>  Optics
 		M4_CarryHandleOptic,	*,	1000,	500
 		OPSKSMount,	*,	1000,	500
