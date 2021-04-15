@@ -370,6 +370,7 @@
 		A2mk17,	W,	6000,	1100
 		A2mk17_s,	W,	6000,	1100
 		A2AKSGOLD,	W,	-1,	10000
+		A2AK74S,	W,	6000,	3000
 	<Category>  Rifles
 		Repeater,	W,	500,	200
 		Izh18,		W,	300,	150
@@ -436,7 +437,7 @@
 		MassType81,	W,	10000,	1750
 		MassM16,	W,	10000,	2000
 		Massmini14,	W,	10000,	1900
-		MassB52,	W,	10000,	2000
+		MassB52,		W,	10000,	2000
 		MassPpskn,	W,	10000,	1600
 		MassAR15,	W,	10000,	5700
 		MassAR15DMR,	W,	10000,	5700
@@ -654,6 +655,7 @@
 		A2M4SPRScope,	*,	1450,	200
 		LRRScope,	*,	1000,	250
 		MassScoutLRS,	*,	1000,	500
+		Mass1P69	*,	1000,	500
 		MassHolo,	*,	1000,	500
 		MassHolo2,	*,	1000,	500
 		MassPKA,	*,	1000,	500
@@ -2561,6 +2563,7 @@
 		HeliSIB_UH1D_iron,	VNK,	1100000,	800000
 		HeliSIB_UH1D_navy,	VNK,	1100000,	800000
 		Heliblack_hawk_SIB,	VNK,	1500000,	900000
+		Heliblack_hawk_SIB_camo,	VNK,	1500000,	900000
 	<Category>  Spares
 		CarBattery,	*,	500,	250
  	<Category>  Keys
