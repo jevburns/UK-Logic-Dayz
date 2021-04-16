@@ -121,60 +121,62 @@
 		CholeraInjectorCure,	*,	3000,	300
 		KuruInjectorCure,		*,	10000,	500
 <Trader>  Tools 
-	<Category>  Small Tools
-		Matchbox,	100,	600,	20
-		Wrench,	*,	1000,	4
-		Screwdriver,	*,	15,	4
-		Pliers,	*,	2000,	5
-		CanOpener,	*,	350,	8
-		Lockpick,	*,	-1,	12
-		Hammer,	*,	1500,	18
-		Hatchet,	*,	1700,	35
-		HandSaw,	*,	1000,	18
-		Hacksaw,	*,	1000,	20
-		SteakKnife,		*,	250,	10
-		KitchenKnife,	*,	400,	50
-		HuntingKnife,	*,	-1,		200
-		CombatKnife,	*,	-1,		300
-		Machete,	*,	600,	220
-		Compass,	*,	250,	100
+	<Category>  Basic Supplies
+		Matchbox,			100,	600,	20
+		CanOpener,			*,	350,	8
+		SteakKnife,			*,	250,	10
+		KitchenKnife,		*,	400,	50
+		HuntingKnife,		*,	-1,		200
+		FishingRod,			*,	1300,	300
+		Compass,			*,	250,	100
 		OrienteeringCompass,	*,	250,	10
-		Binoculars,	*,	500,	120
-		FishingRod,	*,	1300,	300
-	<Category>  Big Tools
-		LugWrench,	W,	500,	250
-		Crowbar,	W,	500,	500
-		Shovel,	W,	1000,	500
-		Pickaxe,	W,	1000,	500
-		PipeWrench,	W,	-1,	15
-		SledgeHammer,	W,	1000,	15
-		WoodAxe,	W,	1200,	30
-		FirefighterAxe,	W,	1800,	45
-	<Category>  Electronics
-		Battery9V,	*,	1000,	100
-		ElectronicRepairKit,	*,	2000,	60
-		PersonalRadio,	*,	1500,	500
-		CableReel,	*,	1000,	250
-		BatteryCharger,	*,	5000,	500
-		BaseRadio,	*,	200,	50
-		Rangefinder,	*,	400,	100
-		PowerGenerator,	*,	10000,	1000
-		NVGoggles,	*,	5000,	500
-		Megaphone,	*,	3500,	875
-	<Category>  Lighting 
-		Chemlight_Blue,	*,	20,	5
+		Binoculars,			*,	500,	120
+		Hatchet,			*,	1700,	35
+		Chemlight_Blue,		*,	20,	5
 		Chemlight_Green,	*,	20,	5
-		Chemlight_Red,	*,	20,	5
+		Chemlight_Red,		*,	20,	5
 		Chemlight_White,	*,	20,	5
 		Chemlight_Yellow,	*,	20,	5
-		Roadflare,	*,	35,	8
-		Flashlight,	*,	60,	10
-		PortableGasLamp,	*,	70,	18
+		Flashlight,			*,	60,	10
 		Headtorch_Black,	*,	120,	30
-		Headtorch_Grey,	*,	120,	30
+		Headtorch_Grey,		*,	120,	30
+		PortableGasLamp,	*,	70,	18
+		Lockpick,			*,	-1,	12
+		CombatKnife,		*,	-1,		300
+		Machete,			*,	600,	220
+	<Category>  Construction Tools
+		Hatchet,			*,	1700,	35
+		Hammer,				*,	1500,	18
+		Wrench,				*,	1000,	4
+		Screwdriver,		*,	15,	4
+		Pliers,				*,	2000,	5
+		BBP_Tape_Measure,	*,	-1,	10
+		HandSaw,			*,	1000,	18
+		Hacksaw,			*,	1000,	20
+		Crowbar,			W,	500,	500
+		PipeWrench,			W,	-1,	15
+		Pickaxe,			W,	1000,	500
+		SledgeHammer,		W,	1000,	15
+		WoodAxe,			W,	1200,	30
+		FirefighterAxe,		W,	1800,	45
+		Shovel,				W,	1000,	500
+	<Category>  Electronics
+		Battery9V,			*,	1000,	100
+		ElectronicRepairKit,	*,	2000,	60
+		PersonalRadio,		*,	1500,	500
+		CableReel,			*,	1000,	250
+		BatteryCharger,		*,	5000,	500
+		BaseRadio,			*,	200,	50
+		Rangefinder,		*,	400,	100
+		PowerGenerator,		*,	10000,	1000
+		Megaphone,			*,	3500,	875
+		XmasLights,			*,	25,	10
+		BBP_XmasLights_9v,	*,	80,	40
+		BBP_XmasLights_Solar,	*,	120,	60
+		Spotlight,			*,	400,	100
+		NVGoggles,			*,	5000,	500
 	<Category>  Crafting Supplies
 		MetalWire,	*,	500,	6
-		Rope,	*,	200,	7
 		Netting,	1,	55,	22
 		BurlapSack,	*,	95,	22
 		SewingKit,	*,	1000,	30
@@ -191,28 +193,22 @@
 		Bear_White,	*,	5,	1
 	<Category>  Other
 		Paper,	*,	1,	1
-		Pen_Blue,	*,	5,	5
-		AntiPestsSpray,	*,	8,	8
 		HandcuffKeys,	*,	-1,	120
 		Handcuffs,	*,	-1,	200
 	<Category>  Building Supplies
-		WoodenPlank,	10,	-1,	90
-		NailBox,	*,	1000,	55
-		BarbedWire,	*,	900,	100
-		Camonet,	*,	750,	250
-		XmasLights,	*,	25,	10
-		Spotlight,	*,	400,	100
-	<Category>  BaseBuildingPlus
+		WoodenStick,		1,	-1, 1
+		Rope,				*,	-1,	10
+		NailBox,			*,	-1,	400
+		BarbedWire,			*,	-1,	400
+		Camonet,			*,	-1,	500
+	<Category>  Base Building
 		BBP_Land_Claim_FlagKit,	*,	35000,	2500
 		BBP_Blueprint,	*,	10000,	1250
 		BBP_Workbench,	*,	5000,	1250
-		BBP_Cement,	*,	1000,	30
-		BBP_Mortar_Mix,	*,	2500,	30
 		BBP_Wood_Storage,	*,	2500,	500
 		BBP_Old_Lamp,	*,	2000,	300
 		BBP_Floor_Lamp,	*,	2000,	400
 		BBP_Sun_Shade,	*,	2000,	300
-		BBP_Tape_Measure,	*,	-1,	10
 		BBP_Painting,	*,	10000,	500
 		BBP_Painting_1,	*,	10000,	500
 		BBP_Painting_2,	*,	10000,	500
@@ -228,11 +224,61 @@
 		BBP_Toilet,	*,	600,	300
 		BBP_SofaKit,	*,	5000,	400
 		BBP_Dance_FloorKit,	*,	-1,	200
-		BBP_XmasLights_9v,	*,	80,	40
-		BBP_XmasLights_Solar,	*,	120,	60
 		BBP_WellKit,	*,	10100,	5050
 		CodeLock,	*,	1000,	400
 		Cabin_Kit,	*,	50000,	10000
+	<Category> Base Transition Temporary
+		WoodenLog,			1,	-1,	400
+		WoodenPlank,		1,	-1,	100
+		BBP_Cement,			*,	-1,	3000
+		BBP_Mortar_Mix,		*,	-1,	2000
+		MetalPlate,			1,	-1,	1500
+		BBP_Concrete_Brick_Pile,	1,	-1, 1500
+		BBP_Carpet,					*,	-1, 500
+		BBP_Wallpaper,				*,	-1, 500
+		BBP_Plaster,				*,	-1, 500
+		 ,	*,	-1, -1
+		---Tier 1---, *, -1, -1		
+		BBP_PillarKit,              *, -1, 600
+		BBP_T1_DoorKit,             *, -1, 600
+		BBP_T1_FloorKit,            *, -1, 600
+		BBP_T1_Floor_HatchKit,      *, -1, 600
+		BBP_T1_FoundationKit,       *, -1, 600
+		BBP_T1_GateKit,             *, -1, 600
+		BBP_T1_RampKit,             *, -1, 600
+		BBP_T1_Ramp_WideKit,        *, -1, 600
+		BBP_T1_RoofKit,             *, -1, 600
+		BBP_T1_Roof_HatchKit,       *, -1, 600
+		BBP_T1_StairKit,            *, -1, 600
+		BBP_T1_WallKit,             *, -1, 600
+		BBP_T1_Wall_HalfKit,        *, -1, 600
+		BBP_T1_WindowKit,           *, -1, 600
+		 ,	*,	-1, -1              
+		---Tier 2---, *, -1, -1	    
+		BBP_T2_DoorKit,             *, -1, 1500
+		BBP_T2_FloorKit,            *, -1, 1500
+		BBP_T2_FoundationKit,       *, -1, 1500
+		BBP_T2_GateKit,             *, -1, 1500
+		BBP_T2_RoofKit,             *, -1, 1500
+		BBP_T2_Roof_HatchKit,       *, -1, 1500
+		BBP_T2_StairKit,            *, -1, 1500
+		BBP_T2_WallKit,             *, -1, 1500
+		BBP_T2_Wall_HalfKit,        *, -1, 1500
+		BBP_T2_WindowKit,           *, -1, 1500
+		 ,	*,	-1, -1              
+		---Tier 3---, *, -1, -1	   
+		BBP_T3_DoorKit,             *, -1, 1800
+		BBP_T3_Door_HalfKit,        *, -1, 1800
+		BBP_T3_FloorKit,            *, -1, 1800
+		BBP_T3_Floor_HatchKit,      *, -1, 1800
+		BBP_T3_FoundationKit,       *, -1, 1800
+		BBP_T3_GateKit,             *, -1, 1800
+		BBP_T3_RoofKit,             *, -1, 1800
+		BBP_T3_Roof_HatchKit,       *, -1, 1800
+		BBP_T3_StairKit,            *, -1, 1800
+		BBP_T3_WallKit,             *, -1, 1800
+		BBP_T3_Wall_HalfKit,        *, -1, 1800
+		BBP_T3_WindowKit,           *, -1, 1800
 	<Category>  Advanced Workbench
 		WB_Kit,	*,	500000,	125000
 		BPDrill,	*,	100000,	25000
@@ -691,7 +737,7 @@
 		A2M4SPRScope,	*,	1450,	200
 		LRRScope,	*,	1000,	250
 		MassScoutLRS,	*,	1000,	500
-		Mass1P69	*,	1000,	500
+		Mass1P69,	*,	1000,	500
 		MassHolo,	*,	1000,	500
 		MassHolo2,	*,	1000,	500
 		MassPKA,	*,	1000,	500
@@ -1959,6 +2005,8 @@
         Nehr_PickupLada_Toxic_Blue, 	VNK,	500000,	125000
         Nehr_PickupLada_Toxic_Green,	VNK,	500000,	125000
 	<Category>  Universal Parts
+		Roadflare,			*,	35,	8
+		LugWrench,			*,	500,	250
 		HeadlightH7_Box,	*,	30,	15
 		SparkPlug,	*,	60,	40
 		EngineOil,	*,	70,	40
