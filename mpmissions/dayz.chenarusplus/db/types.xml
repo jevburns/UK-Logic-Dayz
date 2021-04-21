@@ -13672,7 +13672,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Sneakers_Black">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -13680,12 +13680,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <tag name="floor"/>
-        <usage name="School"/>
     </type>
     <type name="Sneakers_Gray">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -13693,11 +13690,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="School"/>
     </type>
     <type name="Sneakers_Green">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -13710,7 +13705,7 @@
         <usage name="School"/>
     </type>
     <type name="Sneakers_Red">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -13723,7 +13718,7 @@
         <usage name="School"/>
     </type>
     <type name="Sneakers_White">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -32929,10 +32924,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="Sk_Cabinet">
-        <nominal>80</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>80</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -32945,430 +32940,6 @@
       <type name="Cabin_Water_Pump">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type> 
-    <type name="vg7_baja">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="vg7_baja_red">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>    
-    <type name="vg7_baja_blue">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="vg7_baja_black">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="vg7_baja_L_Door">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_R_Door">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_Hood_Plate">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_Engine_Cover">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_wheel">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type> 
-    <type name="vg7_baja_white">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="vg7_baja_L_Door_White">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_R_Door_White">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>    
-    <type name="vg7_baja_Hood_Plate_White">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_Engine_Cover_White">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_Hood_Plate_Black">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_Engine_Cover_Black">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_Hood_Plate_Red">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_Hood_Plate_Blue">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_wheel_snow">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_L_Door_Blue">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_R_Door_Blue">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_L_Door_Green">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_R_Door_Green">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_L_Door_Red">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_R_Door_Red">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_L_Door_Orange">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_R_Door_Orange">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_L_Door_Yellow">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_R_Door_Yellow">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_pink">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="vg7_baja_L_Door_Pink">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_R_Door_Pink">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>    
-    <type name="vg7_baja_Hood_Plate_Pink">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="vg7_baja_Engine_Cover_Pink">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
     </type>
 <type name="Dingo_DON_CHDKZ">
         <nominal>0</nominal>
@@ -34510,10 +34081,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
    </type>
   <type name="KOD_AX50">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
-    <restock>2000</restock>
-    <min>2</min>
+    <restock>7200</restock>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -34525,7 +34096,7 @@
   <type name="KOD_DVL10">
     <nominal>10</nominal>
     <lifetime>3888000</lifetime>
-    <restock>500</restock>
+    <restock>7200</restock>
     <min>4</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34538,7 +34109,7 @@
   <type name="KOD_DVL10M1">
     <nominal>10</nominal>
     <lifetime>3888000</lifetime>
-    <restock>500</restock>
+    <restock>7200</restock>
     <min>4</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34551,7 +34122,7 @@
   <type name="KOD_HK417">
     <nominal>10</nominal>
     <lifetime>3888000</lifetime>
-    <restock>500</restock>
+    <restock>7200</restock>
     <min>4</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34564,7 +34135,7 @@
   <type name="KOD_K98">
     <nominal>25</nominal>
     <lifetime>3888000</lifetime>
-    <restock>1</restock>
+    <restock>7200</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34577,7 +34148,7 @@
   <type name="KOD_M110_Tan">
     <nominal>15</nominal>
     <lifetime>3888000</lifetime>
-    <restock>1</restock>
+    <restock>7200</restock>
     <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34590,7 +34161,7 @@
   <type name="KOD_M110_Black">
     <nominal>12</nominal>
     <lifetime>3888000</lifetime>
-    <restock>1</restock>
+    <restock>7200</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34603,7 +34174,7 @@
   <type name="KOD_M16A4">
     <nominal>12</nominal>
     <lifetime>3888000</lifetime>
-    <restock>1</restock>
+    <restock>7200</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34655,7 +34226,7 @@
   <type name="KOD_PKM">
     <nominal>12</nominal>
     <lifetime>3888000</lifetime>
-    <restock>1</restock>
+    <restock>7200</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34668,7 +34239,7 @@
   <type name="KOD_R700">
     <nominal>10</nominal>
     <lifetime>3888000</lifetime>
-    <restock>1</restock>
+    <restock>7200</restock>
     <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34681,7 +34252,7 @@
   <type name="KOD_RSASS_Black">
     <nominal>10</nominal>
     <lifetime>3888000</lifetime>
-    <restock>1</restock>
+    <restock>7200</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34694,7 +34265,7 @@
   <type name="KOD_RSASS_Tan">
     <nominal>10</nominal>
     <lifetime>3888000</lifetime>
-    <restock>1</restock>
+    <restock>7200</restock>
     <min>5</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34707,7 +34278,7 @@
   <type name="KOD_Ruger">
     <nominal>15</nominal>
     <lifetime>3888000</lifetime>
-    <restock>1</restock>
+    <restock>7200</restock>
     <min>4</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34720,7 +34291,7 @@
   <type name="KOD_SCARH">
     <nominal>15</nominal>
     <lifetime>3888000</lifetime>
-    <restock>1</restock>
+    <restock>7200</restock>
     <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34733,7 +34304,7 @@
   <type name="KOD_RPK16">
     <nominal>10</nominal>
     <lifetime>3888000</lifetime>
-    <restock>1</restock>
+    <restock>7200</restock>
     <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34746,7 +34317,7 @@
   <type name="KOD_AK47">
     <nominal>25</nominal>
     <lifetime>3888000</lifetime>
-    <restock>1</restock>
+    <restock>7200</restock>
     <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34759,7 +34330,7 @@
   <type name="KOD_AK15">
     <nominal>25</nominal>
     <lifetime>3000</lifetime>
-    <restock>1</restock>
+    <restock>7200</restock>
     <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34772,7 +34343,7 @@
   <type name="KOD_AKALPHA">
     <nominal>40</nominal>
     <lifetime>3888000</lifetime>
-    <restock>1</restock>
+    <restock>7200</restock>
     <min>30</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34785,7 +34356,7 @@
   <type name="KOD_Beowulf">
     <nominal>0</nominal>
     <lifetime>3888000</lifetime>
-    <restock>3000</restock>
+    <restock>7200</restock>
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34796,10 +34367,10 @@
     <value name="Tier4" />
   </type>
   <type name="KOD_ASH12">
-    <nominal>25</nominal>
+    <nominal>0</nominal>
     <lifetime>3000</lifetime>
-    <restock>3000</restock>
-    <min>20</min>
+    <restock>7200</restock>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -34811,7 +34382,7 @@
   <type name="KOD_AWM">
     <nominal>20</nominal>
     <lifetime>3888000</lifetime>
-    <restock>3000</restock>
+    <restock>7200</restock>
     <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34824,7 +34395,7 @@
   <type name="KOD_AEK971">
     <nominal>50</nominal>
     <lifetime>3888000</lifetime>
-    <restock>1</restock>
+    <restock>7200</restock>
     <min>30</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34837,7 +34408,7 @@
   <type name="KOD_MP5SD">
     <nominal>50</nominal>
     <lifetime>3888000</lifetime>
-    <restock>1</restock>
+    <restock>7200</restock>
     <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -34851,7 +34422,7 @@
   <type name="Mag_KOD_VR80_30Rnd">
     <nominal>25</nominal>
     <lifetime>3000</lifetime>
-    <restock>1</restock>
+    <restock>7200</restock>
     <min>10</min>
     <quantmin>20</quantmin>
     <quantmax>80</quantmax>
@@ -34865,7 +34436,7 @@
   <type name="Mag_KOD_VR80_10Rnd">
     <nominal>25</nominal>
     <lifetime>3000</lifetime>
-    <restock>1</restock>
+    <restock>7200</restock>
     <min>10</min>
     <quantmin>20</quantmin>
     <quantmax>80</quantmax>
@@ -35273,612 +34844,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    </type>
-<type name="rag_hummer_Armored">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="rag_hummer_Door_1">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_2">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_3">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_4">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Hood">
-        <nominal>5</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type> 
-    <type name="rag_hummer_Trunk">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="rag_hummer_green_Armored">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="rag_hummer_Door_green_1">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_green_2">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_green_3">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_green_4">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Hood_green">
-        <nominal>5</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type> 
-    <type name="rag_hummer_Trunk_green">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="rag_hummer_tan_Armored">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="rag_hummer_Door_tan_1">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_tan_2">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_tan_3">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_tan_4">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Hood_tan">
-        <nominal>5</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type> 
-    <type name="rag_hummer_Trunk_tan">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="rag_hummer_woodland_Armored">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="rag_hummer_Door_woodland_1">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_woodland_2">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_woodland_3">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_woodland_4">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Hood_woodland">
-        <nominal>5</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type> 
-    <type name="rag_hummer_Trunk_woodland">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="rag_hummer_pink_Armored">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="rag_hummer_Door_pink_1">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_pink_2">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_pink_3">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_pink_4">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Hood_pink">
-        <nominal>5</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type> 
-    <type name="rag_hummer_Trunk_pink">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="rag_hummer_anarchy_Armored">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="rag_hummer_Door_anarchy_1">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_anarchy_2">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_anarchy_3">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_anarchy_4">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Hood_anarchy">
-        <nominal>5</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type> 
-    <type name="rag_hummer_Trunk_anarchy">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="rag_hummer_winter_Armored">
-        <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="rag_hummer_Door_winter_1">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_winter_2">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_winter_3">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Door_winter_4">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_Hood_winter">
-        <nominal>5</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>2</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="floor"/>
-        <usage name="Industrial"/>
-    </type> 
-    <type name="rag_hummer_Trunk_winter">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="rag_hummer_wheel">
-        <nominal>0</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
+   </type>
         <type name="BPDrill">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -37566,7 +36532,7 @@
     </type>
      <type name="Server_Patch">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37576,7 +36542,7 @@
     </type>
     <type name="Nato_Patch">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37586,7 +36552,7 @@
     </type>
      <type name="Jev_Patch">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37596,7 +36562,7 @@
     </type>
      <type name="SAR_Patch">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37606,7 +36572,7 @@
     </type>
      <type name="UKLogic_Patch">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37616,7 +36582,7 @@
     </type>
      <type name="getsome_Patch">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37626,7 +36592,7 @@
     </type>
      <type name="atwork_Patch">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37636,7 +36602,7 @@
     </type>
      <type name="SquadLeader_Patch">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37646,7 +36612,7 @@
     </type>
      <type name="TeamLeader_Patch">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37656,7 +36622,7 @@
     </type>
      <type name="RiflemanLeader_Patch">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37666,7 +36632,7 @@
     </type>
      <type name="Grenadier_Patch">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37676,7 +36642,7 @@
     </type>
      <type name="MachineGunner_Patch">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37686,7 +36652,7 @@
     </type>
      <type name="Medic_Patch">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37696,7 +36662,7 @@
     </type>
     <type name="Sniper_Patch:">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37706,7 +36672,7 @@
     </type>
     <type name="Grizzly_Patch">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37716,7 +36682,7 @@
     </type>
     <type name="Topskillz_Patch">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37726,7 +36692,7 @@
     </type>
     <type name="Nicfit_Patch">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37736,7 +36702,7 @@
     </type>
     <type name="wolftop_Patch">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37746,7 +36712,7 @@
     </type>
     <type name="fsociety_Patch">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37756,7 +36722,7 @@
     </type>
     <type name="Turkey_flag">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37766,7 +36732,7 @@
     </type>
     <type name="American_flag">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37776,7 +36742,7 @@
     </type>
     <type name="Grizzly_flag">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37786,7 +36752,7 @@
     </type>
     <type name="Russian_flag">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37796,7 +36762,7 @@
     </type>
     <type name="UK_flag">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37806,7 +36772,7 @@
     </type>
     <type name="topskilz_flag">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37816,7 +36782,7 @@
     </type>
     <type name="navymerchant_flag">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37826,7 +36792,7 @@
     </type>
     <type name="marine_flag">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37836,7 +36802,7 @@
     </type>
     <type name="Wolftop_flag">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -37846,12 +36812,124 @@
     </type>
     <type name="fsociety_flag">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+<type name="MUSTANG">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_blue">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_red">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_rust">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_doors_Driver_blue">
+        <lifetime>2700</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_Doors_coDriver_blue">
+        <lifetime>2700</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_doors_hood_blue">
+        <lifetime>2700</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_doors_trunk_blue">
+        <lifetime>2700</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_doors_Driver_red">
+        <lifetime>2700</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_Doors_coDriver_red">
+        <lifetime>2700</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_doors_hood_red">
+        <lifetime>2700</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_doors_trunk_red">
+        <lifetime>2700</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_doors_Driver_rust">
+        <lifetime>2700</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_Doors_coDriver_rust">
+        <lifetime>2700</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_doors_hood_rust">
+        <lifetime>2700</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_doors_trunk_rust">
+        <lifetime>2700</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_doors_Driver">
+        <lifetime>2700</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_Doors_coDriver">
+        <lifetime>2700</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_doors_hood">
+        <lifetime>2700</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_doors_trunk">
+        <lifetime>2700</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_Wheel">
+        <lifetime>2700</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="MUSTANG_Wheel_destroyed">
+    <lifetime>1800</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 </types>
