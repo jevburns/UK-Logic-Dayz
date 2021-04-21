@@ -3,7 +3,7 @@
 // Green Mountain:
 
 <TraderMarker> 			0 									// Trader ID
-<TraderMarkerPosition>	3699.27,    402.13,     5967.91 	// Coordinate X, 	Coordinate Y, 	Coordinate Z
+<TraderMarkerPosition>	3722.0,    402.0,     5973.0 	// Coordinate X, 	Coordinate Y, 	Coordinate Z
 <TraderMarkerSafezone>	80									// Safezone Radius
 
 <TraderMarker> 			1
@@ -11,11 +11,11 @@
 <TraderMarkerSafezone>	80
 
 <TraderMarker> 			2
-<TraderMarkerPosition>	3708.71,    403.153,    5974.79
+<TraderMarkerPosition>	3699.0,    402.0,    5971.0
 <TraderMarkerSafezone>	80
 
 <TraderMarker> 			3
-<TraderMarkerPosition>	3707.46,    403.153,    5973.3
+<TraderMarkerPosition>	3695.0,    402.0,    5974.0
 <TraderMarkerSafezone>	80
 
 <TraderMarker> 			4
@@ -62,13 +62,13 @@
 // Klen Trader:
 
 <TraderMarker>          6
-<TraderMarkerPosition>  11483.7,   342.283,     11336.2
+<TraderMarkerPosition>  1098.2,   153.0,  6631.0
 <TraderMarkerSafezone>  60 
 
 // Black Market
 
 <TraderMarker> 			7
-<TraderMarkerPosition>	6751.677734,    385.409271,   14036.956055
+<TraderMarkerPosition>	11229.0,    302.135,   4246.25
 <TraderMarkerSafezone>	0
 
 // Korwiins Fish Monger
@@ -90,15 +90,16 @@
 	
 // Green Mountain:
 
-<Object> 			SurvivorF_Irena						// Classname
-<ObjectPosition>	3699.27,    402.13,     5967.91		// Coordinate X, 	Coordinate Y, 	Coordinate Z
-<ObjectOrientation>	-13.234265, 0,			0			// Yaw, 			Pitch, 			Roll
-//<ObjectAttachment>	NPC_DUMMY						// Add this if you are using an non Character Object for an Trader (like Vending Machines, etc.). It is needed to make the User Action for the Trading Menu work.
-<ObjectAttachment>	BoxCerealCrunchin					// Add an Item to the Traders Inventory;
-<ObjectAttachment>	SurgicalGloves_White
-<ObjectAttachment>	Bandana_Polkapattern
-<ObjectAttachment>	MiniDress_PinkChecker
-<ObjectAttachment>	DressShoes_White
+<Object> 			SurvivorM_Niki
+<ObjectPosition>	3722.0,    402.0,     5973.0 
+<ObjectOrientation>	245,0,			0
+<ObjectAttachment>	WaterBottle
+<ObjectAttachment>	SurgicalGloves_Green
+<ObjectAttachment>	MedicalScrubsHat_White
+<ObjectAttachment>	SurgicalMask
+<ObjectAttachment>	MedicalScrubsShirt_White
+<ObjectAttachment>	MedicalScrubsPants_Blue
+<ObjectAttachment>	NBCBootsGray
 
 <Object> 			SurvivorF_Keiko
 <ObjectPosition>	3691.41,    402.074,    5998.47
@@ -112,8 +113,8 @@
 <ObjectAttachment>	WorkingBoots_Grey
 
 <Object> 			SurvivorM_Seth
-<ObjectPosition>	3708.71,    403.153,    5974.79
-<ObjectOrientation>	-51.969990, 0,			0
+<ObjectPosition>	3699.0,    402.0,    5971.0
+<ObjectOrientation>	350, 0,			0
 <ObjectAttachment>	FirefighterAxe
 <ObjectAttachment>	SVD
 <ObjectAttachment>	PSO1Optic
@@ -132,8 +133,8 @@
 <ObjectAttachment>	AliceBag_Camo
 
 <Object> 			SurvivorM_Taiki
-<ObjectPosition>	3707.46,    403.153,    5973.3
-<ObjectOrientation>	-65.823410, 0,			0
+<ObjectPosition>	3695.0,    402.0,    5974.0
+<ObjectOrientation>	70, 0,			0
 <ObjectAttachment>	Mag_STANAG_30Rnd
 <ObjectAttachment>	SportGlasses_Orange
 <ObjectAttachment>	BaseballCap_Camo
@@ -160,66 +161,6 @@
 <ObjectAttachment>	JumpsuitJacket_Blue
 <ObjectAttachment>	JumpsuitPants_Blue
 <ObjectAttachment>	HikingBootsLow_Blue
-
-<Object>			Land_FuelStation_Build
-<ObjectPosition>	3693.1,		403.612,	5998.32
-<ObjectOrientation>	-23.000992, 0,			0
- 
-<Object>			Land_Lunapark_Shooting_Gallery
-<ObjectPosition>	3707.49,	403.612,	5974.74
-<ObjectOrientation>	39.997997,	0,			0
- 
-<Object>			Land_Container_1Moh
-<ObjectPosition>	3727.55,	403.012,	5987.47
-<ObjectOrientation>	39.997997,	0,			0
-
-<Object>			Land_Mil_GuardShed
-<ObjectPosition>	3724.84,	402.412,	5989.04
-<ObjectOrientation>	141.382217,	0,			0
- 
-<Object>			Land_Misc_Toilet_Mobile
-<ObjectPosition>	3692.58,	403.212,	5981.05
-<ObjectOrientation>	-110.997856,0,			0
- 
-<Object>			Land_Misc_Toilet_Mobile
-<ObjectPosition>	3692.02,	403.212,	5982.48
-<ObjectOrientation>	-114.999535,0,			0
-
-<Object>			Land_City_Stand_Grocery
-<ObjectPosition>	3700.53,	403.812,	5965.38
-<ObjectOrientation>	165.998734,	0,			0
- 
-<Object>			Land_Power_Pole_Conc1_Amp
-<ObjectPosition>	3706.73,	404.112,	5985.33
-<ObjectOrientation>	-110.997856,0,			0
- 
-<Object>			Land_Power_Pole_Wood1_Lamp_Amp
-<ObjectPosition>	3703.2,		404.712,	5971.11
-<ObjectOrientation>	-73.996033,	0,			0
- 
-<Object>			Land_Container_1Moh
-<ObjectPosition>	3690.93,	403.212,	5987.15
-<ObjectOrientation>	163.000824,	0,			0
- 
-<Object>			Land_Container_1Aoh
-<ObjectPosition>	3689.09,	403.212,	5993.05
-<ObjectOrientation>	161.999741,	0,			0
- 
-<Object>			Land_Container_1Bo
-<ObjectPosition>	3690.43,	405.812,	5987.31
-<ObjectOrientation>	161.999741,	0,			0
- 
-<Object>			Land_Container_1Bo
-<ObjectPosition>	3710.64,	403.196,	5963.35
-<ObjectOrientation>	-108.001251,	0,			0
-
-<Object>			Land_RoadCone
-<ObjectPosition>	3718.82,	402.012,	5998.82
-<ObjectOrientation>	0,			0,			0
-
-<Object>			Land_RoadCone
-<ObjectPosition>	3715.69,	402.012,	5996.23
-<ObjectOrientation>	-22.0017,	0,			0
 
 <Object>			Land_Misc_Well_Pump_Blue
 <ObjectPosition>	3693.56,	402.312,	6010.05
@@ -316,8 +257,8 @@
 //Klen Trader
 
 <Object> SurvivorM_Seth 
-<ObjectPosition> 11483.7,   342.283,     11336.2
-<ObjectOrientation> 300, 0, 0
+<ObjectPosition> ,   1098.2,   153.0,  6631.0
+<ObjectOrientation> 30, 0, 0
 <ObjectAttachment> SVD
 <ObjectAttachment> PSO1Optic
 <ObjectAttachment> LeatherShirt_Brown 
@@ -333,8 +274,8 @@
 // Black Market
 
 <Object> 			SurvivorM_Seth
-<ObjectPosition>	6751.677734,    385.409271,   14036.956055
-<ObjectOrientation>	-51.969990, 0,			0
+<ObjectPosition>	11229.0,    302.135,   4246.25
+<ObjectOrientation>	15, 0,			0
 <ObjectAttachment>	FirefighterAxe
 <ObjectAttachment>	SVD
 <ObjectAttachment>	PSO1Optic

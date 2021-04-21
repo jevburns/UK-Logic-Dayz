@@ -198,7 +198,7 @@
 	<Category>  Building Supplies
 		WoodenStick,		1,	-1, 1
 		Rope,				*,	-1,	10
-		NailBox,			*,	-1,	400
+		NailBox,			*,	500,	400
 		BarbedWire,			*,	-1,	400
 		Camonet,			*,	-1,	500
 	<Category>  Base Building
@@ -227,58 +227,7 @@
 		BBP_WellKit,	*,	10100,	5050
 		CodeLock,	*,	1000,	400
 		Cabin_Kit,	*,	50000,	10000
-	<Category> Base Transition Temporary
-		WoodenLog,			1,	-1,	400
-		WoodenPlank,		1,	-1,	100
-		BBP_Cement,			*,	-1,	3000
-		BBP_Mortar_Mix,		*,	-1,	2000
-		MetalPlate,			1,	-1,	1500
-		BBP_Concrete_Brick_Pile,	1,	-1, 1500
-		BBP_Carpet,					*,	-1, 500
-		BBP_Wallpaper,				*,	-1, 500
-		BBP_Plaster,				*,	-1, 500
-		 ,	*,	-1, -1
-		---Tier 1---, *, -1, -1		
-		BBP_PillarKit,              *, -1, 600
-		BBP_T1_DoorKit,             *, -1, 600
-		BBP_T1_FloorKit,            *, -1, 600
-		BBP_T1_Floor_HatchKit,      *, -1, 600
-		BBP_T1_FoundationKit,       *, -1, 600
-		BBP_T1_GateKit,             *, -1, 600
-		BBP_T1_RampKit,             *, -1, 600
-		BBP_T1_Ramp_WideKit,        *, -1, 600
-		BBP_T1_RoofKit,             *, -1, 600
-		BBP_T1_Roof_HatchKit,       *, -1, 600
-		BBP_T1_StairKit,            *, -1, 600
-		BBP_T1_WallKit,             *, -1, 600
-		BBP_T1_Wall_HalfKit,        *, -1, 600
-		BBP_T1_WindowKit,           *, -1, 600
-		 ,	*,	-1, -1              
-		---Tier 2---, *, -1, -1	    
-		BBP_T2_DoorKit,             *, -1, 1500
-		BBP_T2_FloorKit,            *, -1, 1500
-		BBP_T2_FoundationKit,       *, -1, 1500
-		BBP_T2_GateKit,             *, -1, 1500
-		BBP_T2_RoofKit,             *, -1, 1500
-		BBP_T2_Roof_HatchKit,       *, -1, 1500
-		BBP_T2_StairKit,            *, -1, 1500
-		BBP_T2_WallKit,             *, -1, 1500
-		BBP_T2_Wall_HalfKit,        *, -1, 1500
-		BBP_T2_WindowKit,           *, -1, 1500
-		 ,	*,	-1, -1              
-		---Tier 3---, *, -1, -1	   
-		BBP_T3_DoorKit,             *, -1, 1800
-		BBP_T3_Door_HalfKit,        *, -1, 1800
-		BBP_T3_FloorKit,            *, -1, 1800
-		BBP_T3_Floor_HatchKit,      *, -1, 1800
-		BBP_T3_FoundationKit,       *, -1, 1800
-		BBP_T3_GateKit,             *, -1, 1800
-		BBP_T3_RoofKit,             *, -1, 1800
-		BBP_T3_Roof_HatchKit,       *, -1, 1800
-		BBP_T3_StairKit,            *, -1, 1800
-		BBP_T3_WallKit,             *, -1, 1800
-		BBP_T3_Wall_HalfKit,        *, -1, 1800
-		BBP_T3_WindowKit,           *, -1, 1800
+	
 	<Category>  Advanced Workbench
 		WB_Kit,	*,	500000,	125000
 		BPDrill,	*,	100000,	25000
@@ -287,9 +236,9 @@
 	<Category>  Storage (Items)
 		SmallProtectorCase,	*,	-1,	5000
 		Msp_GrenadeBox,	*,	-1,	75
-		AmmoBox,	*,	-1,	75
+		AmmoBox,	*,	1000,	750
 		Msp_AmmoCrate,	*,	-1,	375
-		Msp_Locker_Kit,	*,	-1,	650
+		Msp_Locker_Kit,	*,	10000,	6500
 		Msp_MilitaryLocker_Kit,	*,	-1,	1000
 		Msp_TackleBox,	*,	200,	50
 		Msp_TackleBox_Black,	*,	200,	50
@@ -302,28 +251,25 @@
 		Msp_ToolsBench_Grey_Kit,	*,	-1,	437
 		Msp_ToolsBench_Red_Kit,	*,	-1,	437
 		SeaChest,	*,	-1,	375
-		Msp_TreasureChest,	*,	-1,	375
-		Msp_CoffinBox,	*,	-1,	375
-		Msp_StorageBox_Kit,	*,	-1,	937
-		Msp_MedievalChest,	*,	-1,	1125
-		Msp_MilitaryCrate_Brown,	*,	-1,	1125
-		Msp_MilitaryCrate_Green,	*,	-1,	1125
-		Msp_MilitaryCrate_Grey,	*,	-1,	1125
-		Msp_MilitaryCrate_Olive,	*,	-1,	1125
-		Msp_MilitaryCrate_Tan,	*,	-1,	1125
-		Msp_RifleSafe_Kit,	*,	-1,	750
-		Msp_RifleSafe_Grey_Kit,	*,	-1,	2000
-		Msp_RifleSafe_Green_Kit,	*,	-1,	2000
-		Msp_RifleSafe_Purple_Kit,	*,	-1,	2000
-		Msp_RifleSafe_Tan_Kit,	*,	-1,	2000
-		Msp_GunCabinet_Kit,	*,	-1,	5950
+		Msp_StorageBox_Kit,	*,	5000,	1000
+		Msp_MilitaryCrate_Brown,	*,	20000,	1125
+		Msp_MilitaryCrate_Green,	*,	20000,	1125
+		Msp_MilitaryCrate_Grey,	*,	20000,	1125
+		Msp_MilitaryCrate_Olive,	*,	20000,	1125
+		Msp_MilitaryCrate_Tan,	*,	20000,	1125
+		Msp_RifleSafe_Kit,	*,	20000,	750
+		Msp_RifleSafe_Grey_Kit,	*,	20000,	2000
+		Msp_RifleSafe_Green_Kit,	*,	20000,	2000
+		Msp_RifleSafe_Purple_Kit,	*,	20000,	2000
+		Msp_RifleSafe_Tan_Kit,	*,	20000,	2000
+		Msp_GunCabinet_Kit,	*,	20000,	5950
 		Msp_Gunwall_Kit,	*,	12380,	5950
 	<Category>  Storage Barrels (Items)
-		BarrelHoles_Green,	*,	-1,	2000
+		BarrelHoles_Green,	*,	5000,	2000
 		BarrelHoles_Red,	*,	-1,	2000
 		BarrelHoles_Yellow,	*,	-1,	2000
-		Barrel_Blue,	M,	-1,	5620
-		Barrel_Green,	M,	-1,	5620
+		Barrel_Blue,	M,	6000,	5620
+		Barrel_Green,	M,	6000,	5620
 		Barrel_Red,	M,	8000,	5620
 		Barrel_Yellow,	M,	8000,	5620
 	<Category>  Storage (Food)
@@ -345,10 +291,6 @@
 		Msp_BeachChair_Kit,	*,	1000,	25
 		Msp_KiddiePool_Kit,	*,	1000,	25
 		Msp_KiddiePool_Large_Kit,	*,	2000,	50
-		Msp_Gazebo_Kit,	*,	2000,	50
-		Msp_DeskClock,	*,	25,	5
-		Msp_MedievalGibbet_Kit,	*,	15000,	1870
-		Msp_MedievalGibbetWithMount_Kit,	*,	75000,	1870
 	<Category>  Gardening
 		TomatoSeedsPack,	*,	-1,	15
 		PepperSeedsPack,	*,	-1,	20
@@ -415,7 +357,7 @@
 		A2FNFAL,	W,	7000,	1250
 		A2mk17,	W,	6000,	1100
 		A2mk17_s,	W,	6000,	1100
-		A2AKSGOLD,	W,	-1,	10000
+		A2AKSGOLD,	W,	-1,	40000
 		A2AK74S,	W,	6000,	3000
 	<Category>  Rifles
 		Repeater,	W,	500,	200
@@ -497,9 +439,9 @@
 		Massm300_camo,	W,	10000,	2500
 	<Category>  Sniper Rifles
 		SVD,	W,	4500,	1125
-		A2M24_Green,	W,	7000,	2000
-		A2M40A3,	W,	7000,	2000
-		A2M24_Desert,	W,	7000,	2000
+		A2M24_Green,	W,	17000,	2000
+		A2M40A3,	W,	17000,	2000
+		A2M24_Desert,	W,	17000,	2000
 	<Category>  Grenades
 		RGD5Grenade,	W,	-1,	200
 		M67Grenade,	W,	-1,	200
@@ -1956,12 +1898,10 @@
 		Truck_01_Covered_Blue,		VNK,	300000,	100000
 		Truck_01_Covered_Orange, 	VNK,	300000,	100000
 	<Category>  American Imports
-		rag_hummer_green_Armored,		VNK,	500000,	125000
-		rag_hummer_tan_Armored,			VNK,	500000,	125000
-		rag_hummer_woodland_Armored,	VNK,	500000,	125000
-		rag_hummer_pink_Armored,		VNK,	500000,	125000
-		rag_hummer_winter_Armored,		VNK,	500000,	125000
-		rag_hummer_anarchy_Armored,		VNK,	500000,	125000
+				MUSTANG,              VNK,      500000,  160000
+        		MUSTANG_blue,  VNK,      500000,  160000
+        		MUSTANG_red,  VNK,      500000,  160000
+        		MUSTANG_rust,  VNK,      500000,  160000
 	<Category>  British Imports
 		CrSk_Land_Rover_Defender_110,		VNK,	600000,	150000
 		CrSk_Land_Rover_Defender_110_Green,	VNK,	600000,	150000
@@ -1984,14 +1924,6 @@
 		Dingo_DON_DARKGREEN,	VNK,	750000,	200000
 		Dingo_DON_CHDKZ,	VNK,	750000,	200000
 	<Category>  Exotic Vehicles
-		vg7_baja,					VNK,	450000,	100000
-		vg7_baja_white,				VNK,	450000,	100000
-		vg7_baja_blue,				VNK,	450000,	100000
-		vg7_baja_red,				VNK,	450000,	100000
-		vg7_baja_pink,				VNK,	450000,	100000
-		vg7_baja_purple,			VNK,	450000,	100000
-		vg7_baja_yellow,			VNK,	450000,	100000
-		vg7_baja_black,				VNK,	450000,	100000
         Nehr_PickupLada, 			VNK,	500000,	125000
         Nehr_PickupLada_Simple, 	VNK,	500000,	125000
         Nehr_PickupLada_Simple_Green,	VNK,	500000,	125000
@@ -2164,78 +2096,23 @@
 		Truck_01_Wheel,	*,	600,	120
 		Truck_01_WheelDouble,	*,	1000,	200
 	<Category>  American Parts
-		rag_hummer_Door_1,	*,	2500,	1000
-		rag_hummer_Door_green_1,	*,	2500,	1000
-		rag_hummer_Door_tan_1,	*,	2500,	1000
-		rag_hummer_Door_woodland_1,	*,	2500,	1000
-		rag_hummer_Door_pink_1,	*,	2500,	1000
-		rag_hummer_Door_anarchy_1,	*,	2500,	1000
-		rag_hummer_Door_winter_1,	*,	2500,	1000
-		rag_hummer_Door_2,	*,	2500,	1000
-		rag_hummer_Door_green_2,	*,	2500,	1000
-		rag_hummer_Door_tan_2,	*,	2500,	1000
-		rag_hummer_Door_woodland_2,	*,	2500,	1000
-		rag_hummer_Door_pink_2,	*,	2500,	1000
-		rag_hummer_Door_anarchy_2,	*,	2500,	1000
-		rag_hummer_Door_winter_2,	*,	2500,	1000
-		rag_hummer_Door_3,	*,	2500,	1000
-		rag_hummer_Door_green_3,	*,	2500,	1000
-		rag_hummer_Door_tan_3,	        *,	2500,	1000
-		rag_hummer_Door_woodland_3,	*,	2500,	1000
-		rag_hummer_Door_pink_3,	        *,	2500,	1000
-		rag_hummer_Door_anarchy_3,	*,	2500,	1000
-		rag_hummer_Door_winter_3,	*,	2500,	1000
-		rag_hummer_Door_4,	        *,	2500,	1000
-		rag_hummer_Door_green_4,	*,	2500,	1000
-		rag_hummer_Door_tan_4,	        *,	2500,	1000
-		rag_hummer_Door_woodland_4,	*,	2500,	1000
-		rag_hummer_Door_pink_4,	        *,	2500,	1000
-		rag_hummer_Door_anarchy_4,	*,	2500,	1000
-		rag_hummer_Door_winter_4,	*,	2500,	1000
-		rag_hummer_Hood,	        *,	2500,	1000
-		rag_hummer_Hood_green,	        *,	2500,	1000
-		rag_hummer_Hood_tan,	        *,	2500,	1000
-		rag_hummer_Hood_woodland,	*,	2500,	1000
-		rag_hummer_Hood_pink,	        *,	2500,	1000
-		rag_hummer_Hood_anarchy,	*,	2500,	1000
-		rag_hummer_Hood_winter,	        *,	2500,	1000
-		rag_hummer_Trunk,	        *,	2500,	1000
-		rag_hummer_Trunk_green,	        *,	2500,	1000
-		rag_hummer_Trunk_tan,	        *,	2500,	1000
-		rag_hummer_Trunk_woodland,	*,	2500,	1000
-		rag_hummer_Trunk_pink,	        *,	2500,	1000
-		rag_hummer_Trunk_anarchy,	*,	2500,	1000
-		rag_hummer_Trunk_winter,	*,	2500,	1000
-		rag_hummer_wheel,	        *,	2500,	1000
-		HMMWV_PMC_dver_1_1,	        *,	2500,	1000
-		HMMWV_PMC_dver_1_2,	        *,	2500,	1000
-		HMMWV_PMC_dver_2_1,	        *,	2500,	1000
-		HMMWV_PMC_dver_2_2,	        *,	2500,	1000
-		HMMWV_PMC_Woodland_dver_1_1,	*,	2500,	1000
-		HMMWV_PMC_Woodland_dver_1_2,	*,	2500,	1000
-		HMMWV_PMC_Woodland_dver_2_1,	*,	2500,	1000
-		HMMWV_PMC_Woodland_dver_2_2,	*,	2500,	1000
-		HMMWV_PMC_RAZR_dver_1_1,	*,	2500,	1000
-		HMMWV_PMC_RAZR_dver_2_1,	*,	2500,	1000
-		HMMWV_PMC_RAZR_dver_1_2,	*,	2500,	1000
-		HMMWV_PMC_RAZR_dver_2_2,	*,	2500,	1000
-		HMMWV_PMC_Anarchy_dver_1_1,	*,	2500,	1000
-		HMMWV_PMC_Anarchy_dver_2_1,	*,	2500,	1000
-		HMMWV_PMC_Anarchy_dver_1_2,	*,	2500,	1000
-		HMMWV_PMC_Anarchy_dver_2_2,	*,	2500,	1000
-		HMMWV_PMC_Tan_dver_1_1,	        *,	2500,	1000
-		HMMWV_PMC_Tan_dver_2_1,	        *,	2500,	1000
-		HMMWV_PMC_Tan_dver_1_2,	        *,	2500,	1000
-		HMMWV_PMC_Tan_dver_2_2,	        *,	2500,	1000
-		HMMWV_PMC_Green_dver_1_1,	*,	2500,	1000
-		HMMWV_PMC_Green_dver_2_1,	*,	2500,	1000
-		HMMWV_PMC_Green_dver_1_2,	*,	2500,	1000
-		HMMWV_PMC_Green_dver_2_2,	*,	2500,	1000
-		HMMWV_PMC_Black_dver_1_1,	*,	2500,	1000
-		HMMWV_PMC_Black_dver_2_1,	*,	2500,	1000
-		HMMWV_PMC_Black_dver_1_2,	*,	2500,	1000
-		HMMWV_PMC_Black_dver_2_2,	*,	2500,	1000
-		HMMWV_PMC_koleso,	        *,	2500,	1000
+		 MUSTANG_doors_Driver,               *,      2500,   1000
+     		 MUSTANG_Doors_coDriver,               *,      2500,   1000
+       		 MUSTANG_doors_hood,            *,      2500,   1000
+     		 MUSTANG_doors_trunk,            *,      2500,   1000
+   	  	MUSTANG_doors_Driver_blue,            *,      2500,   1000
+       		MUSTANG_Doors_coDriver_blue,            *,      2500,   1000
+        		MUSTANG_doors_hood_blue,               *,      2500,   1000
+        		MUSTANG_doors_trunk_blue,               *,      2500,   1000
+        		MUSTANG_doors_Driver_red,            *,      2500,   1000
+        		MUSTANG_Doors_coDriver_red,            *,      2500,   1000
+        		MUSTANG_doors_hood_red,               *,      2500,   1000
+        		MUSTANG_doors_trunk_red,               *,      2500,   1000
+       		MUSTANG_doors_Driver_rust,            *,      2500,   1000
+        		MUSTANG_Doors_coDriver_rust,            *,      2500,   1000
+        		MUSTANG_doors_hood_rust,               *,      2500,   1000
+       		MUSTANG_doors_trunk_rust,               *,      2500,   1000
+        		MUSTANG_Wheel,               *,      1000,   750
 	<Category>  British Parts by Victoria
 		Defender110_koleso,	        *,	5100,	1000
 		Defender110_dver_1_1,	        *,	2500,	1000
@@ -2294,51 +2171,9 @@
 		DingoHood,						*,	2500,	1000
 		DingoTrunk,						*,	2500,	1000
 		DingoWheel,						*,	2500,	1000
-	<Category>  Exotic Parts
-		vg7_baja,	V,	280000,	140000
-		vg7_baja_white,	V,	300000,	150000
-		vg7_baja_blue,	V,	300000,	150000
-		vg7_baja_red,	V,	350000,	150000
-		vg7_baja_pink,	V,	350000,	150000
-		vg7_baja_purple,	V,	350000,	150000
-		vg7_baja_yellow,	V,	350000,	150000
-		vg7_baja_black,	V,	400000,	150000
-		vg7_baja_L_Door,	*,	2500,	1000
-		vg7_baja_R_Door,	*,	2500,	1000
-		vg7_baja_Hood_Plate,	*,	2500,	1000
-		vg7_baja_Engine_Cover,	*,	2500,	1000
-		vg7_baja_L_Door_White,	*,	2500,	1000
-		vg7_baja_R_Door_White,	*,	2500,	1000
-		vg7_baja_L_Door_Blue,	*,	2500,	1000
-		vg7_baja_R_Door_Blue,	*,	2500,	1000
-		vg7_baja_L_Door_Green,	*,	2500,	1000
-		vg7_baja_R_Door_Green,	*,	2500,	1000
-		vg7_baja_L_Door_Orange,	*,	2500,	1000
-		vg7_baja_R_Door_Orange,	*,	2500,	1000
-		vg7_baja_L_Door_Red,	*,	2500,	1000
-		vg7_baja_R_Door_Red,	*,	2500,	1000
-		vg7_baja_L_Door_Yellow,	*,	2500,	1000
-		vg7_baja_R_Door_Yellow,	*,	2500,	1000
-		vg7_baja_L_Door_Pink,	*,	2500,	1000
-		vg7_baja_R_Door_Pink,	*,	2500,	1000
-		vg7_baja_L_Door_Purple,	*,	2500,	1000
-		vg7_baja_R_Door_Purple,	*,	2500,	1000
-		vg7_baja_Hood_Plate_White,	*,	2500,	1000
-		vg7_baja_Engine_Cover_White,	*,	2500,	1000
-		vg7_baja_Hood_Plate_Red,	*,	2500,	1000
-		vg7_baja_Hood_Plate_Blue,	*,	2500,	1000
-		vg7_baja_Hood_Plate_Black,	*,	4000,	2000
-		vg7_baja_Engine_Cover_Black,	*,	4000,	2000
-		vg7_baja_Hood_Plate_Pink,	*,	4000,	2000
-		vg7_baja_Engine_Cover_Pink,	*,	3000,	1500
-		vg7_baja_Hood_Plate_Yellow,	*,	4000,	2000
-		vg7_baja_Engine_Cover_Yellow,	*,	3000,	1500
-		vg7_baja_Hood_Plate_Purple,	*,	4000,	2000
-		vg7_baja_Engine_Cover_Purple,	*,	3000,	1500
-		vg7_baja_wheel,	*,	2500,	1000
-		vg7_baja_wheel_snow,	*,	3500,	1000		
-        Nehr_PickupLadadoors_driver,	*,	2500,	1000
-        Nehr_PickupLadadoors_codriver,	*,	2500,	1000
+	<Category>  Exotic Parts		
+        		Nehr_PickupLadadoors_driver,	*,	2500,	1000
+        		Nehr_PickupLadadoors_codriver,	*,	2500,	1000
 		Nehr_PickupLadahood,	*,	2500,	1000
 		Nehr_PickupLadatrunk,	*,	2500,	1000
 		Nehr_PickupLadaWheel,	*,	2500,	1000
@@ -2453,20 +2288,18 @@
 		WildboarPelt,	*,	-1,	5000
 <Trader>  Black Market
 	<Category>  Arma2 MGs
-		A2AA12,	W,	6000,	1500
+		A2AA12,	W,	10000,	1500
 		A2AA12_Magazine,	M,	300,	75
 		A2M249,				W,	7000,	1750
 		A2M249_Magazine,	M,	1600,	400
 		A2MK48,				W,	8500,	2125
 		A2MK48_Magazine,	M,	2000,	500
 		A2M240,				W,	10000,	5000
-		A2M240_Magazine,	M,	4000,	1000
-		A2M60E4,			W,	9700,	2425
-		A2M60E4_Magazine,	M,	4000,	1000		
-		A2PKM,				W,	8000,	2000
-		A2PKM_Magazine,		M,	2000,	500
+		A2M240_Magazine,	M,	1400,	1000
+		A2M60E4,			W,	19000,	2425
+		A2M60E4_Magazine,	M,	4000,	1000
 	<Category>  KOD MGs
-		KOD_ASH12,			W,	15000,	750
+		KOD_ASH12,			W,	-1,	25000
 		Mag_KOD_ASH12_20Rnd,	M,	400,	200
 		KOD_PKM,			W,	20000,	10000
 		Mag_KOD_PKM_100Rnd,	M,	1000,	500
@@ -2475,11 +2308,9 @@
 		A2LRRAWM_Magazine,	M,	4000,	1000
 		A2M24_Desert,	W,	19000,	7000
 		A2M24_Green,	W,	19000,	7000
-		A2WM110_desert,	W,	10000,	5000
-		A2WM110_black,	W,	10000,	5000
+		A2WM110_desert,	W,	16000,	5000
+		A2WM110_black,	W,	16000,	5000
 		A2WM110_mag,	M,	2000,	400
-		A2M107,			W,	100000,	50000
-		A2M107_Magazine,	M,	1000,	250
 	<Category>  Mass Sniper
 		MassM110,	W,	15000,	2200
 		Mass308STANAG,	10,	500,	250
@@ -2498,11 +2329,11 @@
 		KOD_M110_Black,		W,	32000,	11000
 		Mag_KOD_M110_10Rnd,	M,	1500,	750
 		Mag_KOD_M110_20Rnd,	M,	3000,	1500
-		KOD_M82A2_Grey,		W,	29000,	13000
-		KOD_M82A2_Black,	W,	30000,	15000
-		KOD_M82A2_Tan,		W,	29000,	12000
+		KOD_M82A2_Grey,		W,	-1,	130000
+		KOD_M82A2_Black,	W,	-1,	150000
+		KOD_M82A2_Tan,		W,	-1,	120000
 		Mag_KOD_M82A2_10Rnd,	M,	2000,	1000
-		KOD_AX50,			W,	30000,	15000
+		KOD_AX50,			W,	-1,	90000
 		Mag_KOD_AX50_5Rnd,	M,	2000,	1000
 	<Category>  Others
 		A2AK74S,	W,	6000,	3000
@@ -2516,7 +2347,7 @@
 		KOD_AK15,	W,	9000,	4500
 		KOD_AKALPHA,	W,	13000,	7500
 		Mag_KOD_AKALPHA_30Rnd,	M,	900,	450
-		KOD_Beowulf,	W,	20000,	10000
+		KOD_Beowulf,	W,	-1,	10000
 		Mag_KOD_Beowulf_10Rnd,	M,	900,	450
 		KOD_DVL10,	W,	20000,	10000
 		Mag_KOD_DVL10_5Rnd,	M,	300,	150
@@ -2669,7 +2500,6 @@
 		Ammo_338,			1,	15,		15
 		KOD_Ammo_338,		1,	25,		25
 		Ammo_408Chey,		1,	30,		30
-		Ammo_50CalBW,		1,	35,		35
 		KOD_Ammo_40lw,		1,	40,		40
 		Ammo_127x55,		1,	30,		15
 		KOD_Ammo_50BMG,		1,	50,		50
@@ -2685,7 +2515,6 @@
 		Ammo_338,			60,	900,	900		// 60 per stack
 		KOD_Ammo_338,		20,	500,	500		// 20 per stack
 		Ammo_408Chey,		80,	2400,	240		// 80 per stack
-		Ammo_50CalBW,		20,	700,	700		// 20 per stack
 		KOD_Ammo_40lw,		20,	800,	800		// 20 per stack
 		Ammo_127x55,		20,	600,	600		// 20 per stack 	
 		KOD_Ammo_50BMG,		10,	500,	500 	// 10 per stack

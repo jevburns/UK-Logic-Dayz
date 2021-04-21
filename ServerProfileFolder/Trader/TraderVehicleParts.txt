@@ -197,7 +197,7 @@
 	Sedan_02_Wheel
 
 <VehicleParts>Truck_01_Covered
-    TruckBattery
+    	TruckBattery
 	Truck_01_Door_1_1
 	Truck_01_Door_2_1
 	Truck_01_Hood
@@ -213,7 +213,7 @@
 	Truck_01_WheelDouble
 
 <VehicleParts>Truck_01_Covered_Blue
-     TruckBattery
+     	TruckBattery
 	Truck_01_Wheel
 	Truck_01_WheelDouble
 	Truck_01_Hood_Blue
@@ -229,7 +229,7 @@
 	Truck_01_WheelDouble
 
 <VehicleParts>Truck_01_Covered_Orange
-     TruckBattery
+    	 TruckBattery
 	Truck_01_Wheel
 	Truck_01_WheelDouble
 	Truck_01_Hood_Orange
@@ -403,487 +403,66 @@
 	CarBattery
 	CarRadiator
 	SparkPlug
-	
-<VehicleParts> vg7_baja	
-	vg7_baja_L_Door
-	vg7_baja_R_Door
-	vg7_baja_Hood_Plate
-	vg7_baja_Engine_Cover
-	SparkPlug
-	CarBattery
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	HeadlightH7
-	HeadlightH7
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	CanisterGasoline
-	CableReel
-	Spotlight
-	FirefighterAxe_Green
-	SKS_Green	
-	BatteryCharger
-	WaterproofBag_Green
-	Glock19
 
-<VehicleParts> vg7_baja_white	
-	vg7_baja_L_Door_White
-	vg7_baja_R_Door_White
-	vg7_baja_Hood_Plate_White
-	vg7_baja_Engine_Cover_White
-	SparkPlug
-	CarBattery
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	HeadlightH7
-	HeadlightH7
-	vg7_baja_wheel_snow
-	vg7_baja_wheel_snow
-	vg7_baja_wheel_snow
-	vg7_baja_wheel_snow
-	vg7_baja_wheel_snow
-	CanisterGasoline
-	CableReel
-	Spotlight
-	FirefighterAxe_Black
-	SKS_Black	
-	BatteryCharger
-	WaterproofBag_White
-	Glock19
+<VehicleParts> MUSTANG
+	MUSTANG_doors_Driver
+    	MUSTANG_Doors_coDriver
+    	MUSTANG_doors_hood
+    	MUSTANG_doors_trunk
+    	MUSTANG_Wheel
+    	MUSTANG_Wheel
+    	MUSTANG_Wheel
+    	MUSTANG_Wheel
+    	SparkPlug
+    	CarBattery
+    	CarRadiator
+    	HeadlightH7
+    	HeadlightH7
 
-<VehicleParts> vg7_baja_black	
-	vg7_baja_L_Door
-	vg7_baja_R_Door
-	vg7_baja_Hood_Plate_Black
-	vg7_baja_Engine_Cover_Black
-	SparkPlug
-	CarBattery
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	HeadlightH7
-	HeadlightH7
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	CanisterGasoline
-	CableReel
-	Spotlight
-	FirefighterAxe_Black
-	SKS_Black	
-	BatteryCharger
-	WaterproofBag_White
-	Glock19
+<VehicleParts> MUSTANG_blue
+    MUSTANG_doors_Driver_blue
+    MUSTANG_Doors_coDriver_blue
+    MUSTANG_doors_hood_blue
+    MUSTANG_doors_trunk_blue
+    MUSTANG_Wheel
+    MUSTANG_Wheel
+    MUSTANG_Wheel
+    MUSTANG_Wheel
+    SparkPlug
+    CarBattery
+    CarRadiator
+    HeadlightH7
+    HeadlightH7
 
-<VehicleParts> vg7_baja_red	
-	vg7_baja_L_Door
-	vg7_baja_R_Door
-	vg7_baja_Hood_Plate_Red
-	vg7_baja_Engine_Cover
-	SparkPlug
-	CarBattery
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	HeadlightH7
-	HeadlightH7
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	CanisterGasoline
-	CableReel
-	Spotlight
-	FirefighterAxe_Black
-	SKS_Black	
-	BatteryCharger
-	WaterproofBag_White
-	Glock19
+<VehicleParts> MUSTANG_red
+    SparkPlug
+    CarBattery
+    CarRadiator
+    HeadlightH7
+    HeadlightH7
+    MUSTANG_doors_Driver_red
+    MUSTANG_Doors_coDriver_red
+    MUSTANG_doors_hood_red
+    MUSTANG_doors_trunk_red
+    MUSTANG_Wheel
+    MUSTANG_Wheel
+    MUSTANG_Wheel
+    MUSTANG_Wheel
 
-<VehicleParts> vg7_baja_blue
-	vg7_baja_L_Door
-	vg7_baja_R_Door
-	vg7_baja_Hood_Plate_Blue
-	vg7_baja_Engine_Cover
-	SparkPlug
-	CarBattery
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	HeadlightH7
-	HeadlightH7
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	CanisterGasoline
-	CableReel
-	Spotlight
-	FirefighterAxe_Black
-	SKS_Black	
-	BatteryCharger
-	WaterproofBag_White
-	Glock19
-
-	<VehicleParts> vg7_baja_pink
-	vg7_baja_L_Door_Pink
-	vg7_baja_R_Door_Pink
-	vg7_baja_Hood_Plate_Pink
-	vg7_baja_Engine_Cover_Pink
-	SparkPlug
-	CarBattery
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	HeadlightH7
-	HeadlightH7
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	CanisterGasoline
-	CableReel
-	Spotlight
-	FirefighterAxe_Black
-	SKS_Black	
-	BatteryCharger
-	WaterproofBag_Pink
-	Glock19
-
-	<VehicleParts> vg7_baja_yellow
-	vg7_baja_L_Door_Yellow
-	vg7_baja_R_Door_Yellow
-	vg7_baja_Hood_Plate_Yellow
-	vg7_baja_Engine_Cover_Yellow
-	SparkPlug
-	CarBattery
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	HeadlightH7
-	HeadlightH7
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	CanisterGasoline
-	CableReel
-	Spotlight
-	FirefighterAxe_Black
-	SKS_Black	
-	BatteryCharger
-	WaterproofBag_Yellow
-	Glock19
-
-	<VehicleParts> vg7_baja_purple
-	vg7_baja_L_Door_Purple
-	vg7_baja_R_Door_Purple
-	vg7_baja_Hood_Plate_Purple
-	vg7_baja_Engine_Cover_Purple
-	SparkPlug
-	CarBattery
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	HeadlightH7
-	HeadlightH7
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	vg7_baja_wheel
-	CanisterGasoline
-	CableReel
-	Spotlight
-	FirefighterAxe_Black
-	SKS_Black	
-	BatteryCharger
-	WaterproofBag_Yellow
-	Glock19
-VehicleParts> rag_hummer_Armored
-	SparkPlug
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	rag_hummer_Door_1
-	rag_hummer_Door_2
-	rag_hummer_Door_3
-	rag_hummer_Door_4
-	rag_hummer_Hood
-	rag_hummer_Trunk
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	Shovel
-	FirstAidKit
-	CanisterGasoline
-	
-<VehicleParts> rag_hummer_green_Armored
-	SparkPlug
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	rag_hummer_Door_green_1
-	rag_hummer_Door_green_2
-	rag_hummer_Door_green_3
-	rag_hummer_Door_green_4
-	rag_hummer_Hood_green
-	rag_hummer_Trunk_green
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	Shovel
-	FirstAidKit
-	CanisterGasoline
-	
-<VehicleParts> rag_hummer_tan_Armored
-	SparkPlug
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	rag_hummer_Door_tan_1
-	rag_hummer_Door_tan_2
-	rag_hummer_Door_tan_3
-	rag_hummer_Door_tan_4
-	rag_hummer_Hood_tan
-	rag_hummer_Trunk_tan
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	Shovel
-	FirstAidKit
-	CanisterGasoline
-	
-<VehicleParts> rag_hummer_woodland_Armored
-	SparkPlug
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	rag_hummer_Door_woodland_1
-	rag_hummer_Door_woodland_2
-	rag_hummer_Door_woodland_3
-	rag_hummer_Door_woodland_4
-	rag_hummer_Hood_woodland
-	rag_hummer_Trunk_woodland
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	Shovel
-	FirstAidKit
-	CanisterGasoline
-	
-<VehicleParts> rag_hummer_pink_Armored
-	SparkPlug
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	rag_hummer_Door_pink_1
-	rag_hummer_Door_pink_2
-	rag_hummer_Door_pink_3
-	rag_hummer_Door_pink_4
-	rag_hummer_Hood_pink
-	rag_hummer_Trunk_pink
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	Shovel
-	FirstAidKit
-	CanisterGasoline
-	
-<VehicleParts> rag_hummer_winter_Armored
-	SparkPlug
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	rag_hummer_Door_winter_1
-	rag_hummer_Door_winter_2
-	rag_hummer_Door_winter_3
-	rag_hummer_Door_winter_4
-	rag_hummer_Hood_winter
-	rag_hummer_Trunk_v
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	Shovel
-	FirstAidKit
-	CanisterGasoline
-	
-<VehicleParts> rag_hummer_anarchy_Armored
-	SparkPlug
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	rag_hummer_Door_anarchy_1
-	rag_hummer_Door_anarchy_2
-	rag_hummer_Door_anarchy_3
-	rag_hummer_Door_anarchy_4
-	rag_hummer_Hood_anarchy
-	rag_hummer_Trunk_anarchy
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	rag_hummer_wheel
-	Shovel
-	FirstAidKit
-	CanisterGasoline
-
-	<VehicleParts> CrSk_HMMWV_PMC
-	SparkPlug
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	HMMWV_PMC_dver_1_1
-	HMMWV_PMC_dver_1_2
-	HMMWV_PMC_dver_2_1
-	HMMWV_PMC_dver_2_2
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	Shovel
-	
-<VehicleParts> CrSk_HMMWV_PMC_Woodland
-	SparkPlug
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	HMMWV_PMC_Woodland_dver_1_1
-	HMMWV_PMC_Woodland_dver_1_2
-	HMMWV_PMC_Woodland_dver_2_1
-	HMMWV_PMC_Woodland_dver_2_2
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	Shovel
-	
-<VehicleParts> CrSk_HMMWV_PMC_RAZR
-	SparkPlug
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	HMMWV_PMC_RAZR_dver_1_1
-	HMMWV_PMC_RAZR_dver_2_1
-	HMMWV_PMC_RAZR_dver_1_2
-	HMMWV_PMC_RAZR_dver_2_2
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	Shovel
-	
-<VehicleParts> CrSk_HMMWV_PMC_Anarchy
-	SparkPlug
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	HMMWV_PMC_Anarchy_dver_1_1
-	HMMWV_PMC_Anarchy_dver_2_1
-	HMMWV_PMC_Anarchy_dver_1_2
-	HMMWV_PMC_Anarchy_dver_2_2
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	Shovel
-	
-<VehicleParts> CrSk_HMMWV_PMC_Tan
-	SparkPlug
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	HMMWV_PMC_Tan_dver_1_1
-	HMMWV_PMC_Tan_dver_2_1
-	HMMWV_PMC_Tan_dver_1_2
-	HMMWV_PMC_Tan_dver_2_2
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	Shovel
-	
-<VehicleParts> CrSk_HMMWV_PMC_Green
-	SparkPlug
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	HMMWV_PMC_Green_dver_1_1
-	HMMWV_PMC_Green_dver_2_1
-	HMMWV_PMC_Green_dver_1_2
-	HMMWV_PMC_Green_dver_2_2
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	Shovel
-	
-<VehicleParts> CrSk_HMMWV_PMC_Black
-	SparkPlug
-	CarBattery
-	CarRadiator
-	HeadlightH7
-	HeadlightH7
-	HMMWV_PMC_Black_dver_1_1
-	HMMWV_PMC_Black_dver_2_1
-	HMMWV_PMC_Black_dver_1_2
-	HMMWV_PMC_Black_dver_2_2
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	HMMWV_PMC_koleso
-	Shovel
+<VehicleParts> MUSTANG_rust
+    SparkPlug
+    CarBattery
+    CarRadiator
+    HeadlightH7
+    HeadlightH7
+    MUSTANG_doors_Driver_rust
+    MUSTANG_Doors_coDriver_rust
+    MUSTANG_doors_hood_rust
+    MUSTANG_doors_trunk_rust
+    MUSTANG_Wheel
+    MUSTANG_Wheel
+    MUSTANG_Wheel
+    MUSTANG_Wheel
 	
  <VehicleParts> HeliTest_SIB1
                HatchbackWheel
@@ -1205,6 +784,42 @@ VehicleParts> rag_hummer_Armored
 	SparkPlug
 	HeadlightH7
 	HeadlightH7
+
+<VehicleParts> CrSk_Land_Rover_Defender_110_Green
+SparkPlug
+CarBattery
+CarRadiator
+HeadlightH7
+HeadlightH7
+Defender110_dver_1_1_Green
+Defender110_dver_2_1_Green
+Defender110_dver_1_2_Green
+Defender110_dver_2_2_Green
+Defender110_kapot_Green
+Defender110_bagazhnik_Green
+Defender110_koleso
+Defender110_koleso
+Defender110_koleso
+Defender110_koleso
+
+
+<VehicleParts> CrSk_Land_Rover_Defender_110_UN
+SparkPlug
+CarBattery
+CarRadiator
+HeadlightH7
+HeadlightH7
+Defender110_dver_1_1_UN
+Defender110_dver_2_1_UN
+Defender110_dver_1_2_UN
+Defender110_dver_2_2_UN
+Defender110_kapot_UN
+Defender110_bagazhnik_UN
+Defender110_koleso
+Defender110_koleso
+Defender110_koleso
+Defender110_koleso
+
 
 
 
