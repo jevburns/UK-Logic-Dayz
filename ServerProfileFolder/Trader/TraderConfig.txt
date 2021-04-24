@@ -25,61 +25,61 @@
 	<Category>  Produce
 		CaninaBerry,			*,	-1,	1
 		SambucusBerry,			*,	-1,	1
-		AgaricusMushroom,		*,	-1,	10
-		AmanitaMushroom,		*,	-1,	10
+		AgaricusMushroom,			*,	-1,	10
+		AmanitaMushroom,			*,	-1,	10
 		LactariusMushroom,		*,	-1,	25
-		MacrolepiotaMushroom,	*,	-1,	75
+		MacrolepiotaMushroom,		*,	-1,	75
 		PsilocybeMushroom,		*,	-1,	75
-		AuriculariaMushroom,	*,	-1,	75
-		BoletusMushroom,		*,	-1,	100
+		AuriculariaMushroom,		*,	-1,	75
+		BoletusMushroom,			*,	-1,	100
 		PleurotusMushroom,		*,	-1,	150
-		Plum,					*,	10,		1
-		Kiwi,					*,	-1,		25
-		Apple,					*,	-1,		25
-		Pear,					*,	-1,		25
-		Orange,					*,	-1,		50
-		Banana,					*,	-1,		50
-		Tomato,					*,	-1,		25
-		Potato,					*,	-1,		100
-		GreenBellPepper,		*,	-1,		50
+		Plum,				*,	10,		1
+		Kiwi,				*,	-1,		25
+		Apple,				*,	-1,		25
+		Pear,				*,	-1,		25
+		Orange,				*,	-1,		50
+		Banana,				*,	-1,		50
+		Tomato,				*,	-1,		25
+		Potato,				*,	-1,		100
+		GreenBellPepper,			*,	-1,		50
 		Zucchini,				*,	-1,		75
 		Pumpkin,				*,	-1,		150
 	<Category>  Groceries
-		TunaCan,			*,	300, 200
+		TunaCan,		*,	300,	 200
 		SardinesCan,		*,	-1,	50
-		PeachesCan,			*,	-1,	100
+		PeachesCan,		*,	-1,	100
 		SpaghettiCan,		*,	-1,	200
 		BakedBeansCan,		*,	-1,	250
-		Marmalade,			*,	-1,	500
+		Marmalade,		*,	-1,	500
 		PowderedMilk,		*,	-1,	500
-		BoxCerealCrunchin,	*,	-1,	600
+		BoxCerealCrunchin,	*,	800,	600
 		TacticalBaconCan,	*,	-1,	750
-		Rice,				*,	-1,	1000
+		Rice,			*,	2000,	1000
 	<Category>  Military Rations
 		MassMRE4,				*,	-1,	2000
 		MassMRE9,				*,	-1,	2000
 		MassMRE10,				*,	-1,	2000
-		MassMREPoppySeedCakeW,	*,	-1,	200
+		MassMREPoppySeedCakeW,		*,	-1,	200
 		MassMREPoppySeedCakeUW,	*,	-1,	200
 		MassMRETortillaUW,		*,	-1,	200
-		MassMRETortillaW,		*,	-1,	200
-		MassMRERationHeater,	*,	-1,	200
+		MassMRETortillaW,			*,	-1,	200
+		MassMRERationHeater,		*,	-1,	200
 		MassMRECrackersW,		*,	-1,	200
 		MassMRECrackersUW,		*,	-1,	200
 		MassMREBreadW,			*,	-1,	200
-		MassMREBreadUW,			*,	-1,	200
-		MassMREPB,				*,	-1,	200
+		MassMREBreadUW,		*,	-1,	200
+		MassMREPB,			*,	-1,	200
 		MassMREJelly,			*,	-1,	200
 		MassMREGrapeJelly,		*,	-1,	200
 		MassMRETobasco,			*,	-1,	200
-		MassMREHotCheeseSpread,	*,	-1,	200
-		MassMREOatmealCookieW,	*,	-1,	200
+		MassMREHotCheeseSpread,		*,	-1,	200
+		MassMREOatmealCookieW,		*,	-1,	200
 		MassMREOatmealCookieUW,	*,	-1,	200
-		MassMREGum,				*,	-1,	200
+		MassMREGum,			*,	-1,	200
 		MassMREDBBCobblerW,		*,	-1,	200
 		MassMREMCBeefStewW,		*,	-1,	200
-		MassMREMCChilliMacW,	*,	-1,	200
-		MassMREMCSpaghettiW,	*,	-1,	200
+		MassMREMCChilliMacW,		*,	-1,	200
+		MassMREMCSpaghettiW,		*,	-1,	200
 		MassMREMCSpaghetti,		*,	-1,	200
 		MassMREMCChilliMac,		*,	-1,	200
 		MassMREMCBeefStew,		*,	-1,	200
@@ -91,146 +91,143 @@
 		SodaCan_Pipsi,	*,	500,	50
 		SodaCan_Spite,	*,	500,	50
 		SodaCan_Kvass,	*,	-1,		100
-		Vodka,			*,	-1,		500
+		Vodka,		*,	-1,		500
 	<Category>  First Aid Supplies
-		BandageDressing,	*,	200,	25
+		BandageDressing,		*,	200,	25
 		BloodTestKit,		*,	250,	25
 		StartKitIV,			*,	500,	50
-		SalineBag,			*,	500,	100
+		SalineBag,		*,	500,	100
 		BloodBagEmpty,		*,	400,	40	
-		BloodBagFull,		*,	-1,		1000			
-		Heatpack,			*,	-1,		25
-		Thermometer,		*,	-1,		100
-		DisinfectantAlcohol,	*,	-1,	30
-		DisinfectantSpray,	*,	-1,	25
+		BloodBagFull,		*,	-1,	1000			
+		Heatpack,		*,	-1,	25
+		Thermometer,		*,	-1,	100
+		DisinfectantAlcohol,		*,	-1,	30
+		DisinfectantSpray,		*,	-1,	25
 		FirstAidKit,		*,	-1,	200
-		MassMedical_Bag_Blue,  *, -1, 500
-		MassMedical_Bag_Green, *, -1, 500 
+		MassMedical_Bag_Blue,  	*, 	-1, 	500
+		MassMedical_Bag_Green,	 *, 	-1, 	500 
 		InjectionVial,		*,	-1,	1
 		Syringe,			*,	-1,	5
 		Defibrillator,		*,	-1,	1000
 	<Category>  Medicine
-		VitaminBottle,			*,	1000,	100
+		VitaminBottle,		*,	1000,	100
 		CharcoalTablets,		*,	1000,	100
 		TetracyclineAntibiotics,	*,	2000,	200
-		PainkillerTablets,		*,	-1,		200
-		Epinephrine,			*,	-1,		900
-		Morphine,				*,	-1,		400
+		PainkillerTablets,		*,	-1,	200
+		Epinephrine,		*,	-1,	900
+		Morphine,		*,	-1,	400
 		InfluenzaInjectorCure,	*,	2000,	200
 		SalmonellaInjectorCure,	*,	3000,	300
 		CholeraInjectorCure,	*,	3000,	300
 		KuruInjectorCure,		*,	10000,	500
 <Trader>  Tools 
 	<Category>  Basic Supplies
-		Matchbox,			100,	600,	20
-		CanOpener,			*,	350,	8
-		SteakKnife,			*,	250,	10
+		Matchbox,		100,	600,	20
+		CanOpener,		*,	350,	8
+		SteakKnife,		*,	250,	10
 		KitchenKnife,		*,	400,	50
 		HuntingKnife,		*,	-1,		200
-		FishingRod,			*,	1300,	300
-		Compass,			*,	250,	100
+		FishingRod,		*,	1300,	300
+		Compass,		*,	250,	100
 		OrienteeringCompass,	*,	250,	10
-		Binoculars,			*,	500,	120
+		Binoculars,		*,	500,	120
 		Hatchet,			*,	1700,	35
 		Chemlight_Blue,		*,	20,	5
-		Chemlight_Green,	*,	20,	5
+		Chemlight_Green,		*,	20,	5
 		Chemlight_Red,		*,	20,	5
-		Chemlight_White,	*,	20,	5
-		Chemlight_Yellow,	*,	20,	5
-		Flashlight,			*,	60,	10
-		Headtorch_Black,	*,	120,	30
+		Chemlight_White,		*,	20,	5
+		Chemlight_Yellow,		*,	20,	5
+		Flashlight,		*,	60,	10
+		Headtorch_Black,		*,	120,	30
 		Headtorch_Grey,		*,	120,	30
-		PortableGasLamp,	*,	70,	18
+		PortableGasLamp,		*,	70,	18
 		Lockpick,			*,	-1,	12
-		CombatKnife,		*,	-1,		300
+		CombatKnife,		*,	-1,	300
 		Machete,			*,	600,	220
 	<Category>  Construction Tools
 		Hatchet,			*,	1700,	35
-		Hammer,				*,	1500,	18
-		Wrench,				*,	1000,	4
+		Hammer,			*,	1500,	18
+		Wrench,			*,	1000,	4
 		Screwdriver,		*,	15,	4
-		Pliers,				*,	2000,	5
+		Pliers,			*,	2000,	5
 		BBP_Tape_Measure,	*,	-1,	10
-		HandSaw,			*,	1000,	18
+		HandSaw,		*,	1000,	18
 		Hacksaw,			*,	1000,	20
 		Crowbar,			W,	500,	500
-		PipeWrench,			W,	-1,	15
+		PipeWrench,		W,	-1,	15
 		Pickaxe,			W,	1000,	500
 		SledgeHammer,		W,	1000,	15
 		WoodAxe,			W,	1200,	30
 		FirefighterAxe,		W,	1800,	45
-		Shovel,				W,	1000,	500
+		Shovel,			W,	1000,	500
 	<Category>  Electronics
 		Battery9V,			*,	1000,	100
-		ElectronicRepairKit,	*,	2000,	60
+		ElectronicRepairKit,		*,	2000,	60
 		PersonalRadio,		*,	1500,	500
-		CableReel,			*,	1000,	250
+		CableReel,		*,	1000,	250
 		BatteryCharger,		*,	5000,	500
-		BaseRadio,			*,	200,	50
+		BaseRadio,		*,	200,	50
 		Rangefinder,		*,	400,	100
 		PowerGenerator,		*,	10000,	1000
-		Megaphone,			*,	3500,	875
-		XmasLights,			*,	25,	10
+		Megaphone,		*,	3500,	875
+		XmasLights,		*,	25,	10
 		BBP_XmasLights_9v,	*,	80,	40
 		BBP_XmasLights_Solar,	*,	120,	60
 		Spotlight,			*,	400,	100
-		NVGoggles,			*,	5000,	500
+		NVGoggles,		*,	5000,	500
 	<Category>  Crafting Supplies
-		MetalWire,	*,	500,	6
-		Netting,	1,	55,	22
-		BurlapSack,	*,	95,	22
-		SewingKit,	*,	1000,	30
-		LeatherSewingKit,	*,	2000,	1000
+		MetalWire,		*,	500,	6
+		Netting,			1,	55,	22
+		BurlapSack,		*,	95,	22
+		SewingKit,		*,	1000,	30
+		LeatherSewingKit,		*,	2000,	1000
 		WeaponCleaningKit,	*,	5000,	1000
-		DuctTape,	*,	500,	250
-		Whetstone,	*,	1800,	12
-		EpoxyPutty,	*,	900,	24
-		Fabric, 	1,	-1,	100
+		DuctTape,		*,	500,	250
+		Whetstone,		*,	1800,	12
+		EpoxyPutty,		*,	900,	24
+		Fabric, 			1,	-1,	100
 	<Category>  Fluffy Pets 
-		Bear_Beige,	*,	5,	1
-		Bear_Dark,	*,	5,	1
-		Bear_Pink,	*,	5,	1
-		Bear_White,	*,	5,	1
+		Bear_Beige,		*,	5,	1
+		Bear_Dark,		*,	5,	1
+		Bear_Pink,		*,	5,	1
+		Bear_White,		*,	5,	1
 	<Category>  Other
-		Paper,	*,	1,	1
-		HandcuffKeys,	*,	-1,	120
-		Handcuffs,	*,	-1,	200
+		Paper,			*,	-1,	1
+		HandcuffKeys,		*,	-1,	120
+		Handcuffs,		*,	-1,	200
 	<Category>  Building Supplies
 		WoodenStick,		1,	-1, 1
-		Rope,				*,	-1,	10
+		Rope,			*,	-1,	10
 		NailBox,			*,	500,	400
-		BarbedWire,			*,	-1,	400
+		BarbedWire,		*,	-1,	400
 		Camonet,			*,	-1,	500
 	<Category>  Base Building
 		BBP_Land_Claim_FlagKit,	*,	35000,	2500
 		BBP_Blueprint,	*,	10000,	1250
-		BBP_Workbench,	*,	5000,	1250
+		BBP_Workbench,	*,	10000,	1250
 		BBP_Wood_Storage,	*,	2500,	500
 		BBP_Old_Lamp,	*,	2000,	300
 		BBP_Floor_Lamp,	*,	2000,	400
-		BBP_Sun_Shade,	*,	2000,	300
 		BBP_Painting,	*,	10000,	500
 		BBP_Painting_1,	*,	10000,	500
 		BBP_Painting_2,	*,	10000,	500
-		BBP_Xmas_Tree,	*,	400,	200
-		BBP_MagnetBox,	*,	250,	50
-		BBP_Golf,	*,	80,	40
 		BBP_Gang_Plug,	*,	1000,	400
 		BBP_Solar_PanelKit,	*,	6000,	1500
-		BBP_BedKit,	*,	2500,	400
-		BBP_Bedding,	*,	900,	100
+		BBP_BedKit,	*,	10000,	4000
 		BBP_Step_LadderKit,	*,	800,	400
-		BBP_Wheelbarrow,	*,	400,	200
-		BBP_Toilet,	*,	600,	300
+		BBP_Toilet,	*,	-1,	300
 		BBP_SofaKit,	*,	5000,	400
 		BBP_Dance_FloorKit,	*,	-1,	200
 		BBP_WellKit,	*,	10100,	5050
 		CodeLock,	*,	1000,	400
 		Cabin_Kit,	*,	50000,	10000
+		BBP_Cement,		*,	1000,	500
+		BBP_Mortar_Mix,		*,	1000,	500
+		MetalPlate,			1,	-1,	1500
 	
 	<Category>  Advanced Workbench
-		WB_Kit,	*,	500000,	125000
-		BPDrill,	*,	100000,	25000
+		WB_Kit,		*,	500000,	125000
+		BPDrill,		*,	100000,	25000
 		BPCutting_saw,	*,	100000,	25000
 		BPGrinder,	*,	100000,	25000
 	<Category>  Storage (Items)
@@ -275,12 +272,6 @@
 	<Category>  Storage (Food)
 		Msp_SmallFridge,	*,	15600,	140
 		Msp_JackDanielsFridge,	*,	17000,	175
-		Msp_50sFridge_Kit,	*,	17000,	175
-		Msp_Freezer_Kit,	*,	17000,	175
-		Msp_BlueFridge_Kit,	*,	18400,	210
-		Msp_RetroBlueFridge_Kit,	*,	10500,	262
-		Msp_RustyFridge_Kit,	*,	10500,	262
-		Msp_Blue50sFridge_Kit,	*,	10500,	262
 	<Category>  Tents
 		MediumTent,	*,	5000,	2000
 		LargeTent,	*,	10000,	3000
@@ -1558,6 +1549,18 @@
 		MVS_Patch_33,	*,	50,	25
 		MVS_Patch_34,	*,	50,	25
 		MVS_Patch_35,	*,	50,	25
+		UKL_army_Patch,                       *,          500, 250
+		UKL_NatoCustom_Patch,                 *,          500, 250
+		UKL_Logic_Patch,                      *,          500, 250
+		UKL_getsome_Patch,                    *,          500, 250
+		UKL_atwork_Patch,                     *,          500, 250
+		UKL_SquadLeader_Patch,                *,          500, 250
+		UKL_TeamLeader_Patch,                 *,          500, 250
+		UKL_Rifleman_Patch,                   *,          500, 250
+		UKL_Grenadier_Patch,                  *,          500, 250
+		UKL_MachineGunner_Patch,              *,          500, 250
+		UKL_Medic_Patch,                      *,          500, 250
+		UKL_Sniper_Patch,                     *,          500, 250
 	<Category>  Military Gear | Patches Country
 		MVS_CountryFlag_Afghanistan,	*,	50,	25
 		MVS_CountryFlag_Albania,	*,	50,	25
@@ -1764,6 +1767,19 @@
 		MVS_CountryFlag_Yugoslavia,	*,	50,	25
 		MVS_CountryFlag_Zambia,	*,	50,	25
 		MVS_CountryFlag_Zimbabwe,	*,	50,	25
+	<Category>  Flags	
+		Turkey_flag,                           *,          500, 250
+		American_flag,                         *,          500, 250
+		Russian_flag,                          *,          500, 250
+		UK_flag,                               *,          500, 250
+		marine_flag,                           *,          500, 250
+		Norway_flag,                          *,          500, 250
+		Irish_flag,                            *,          500, 250
+		Romania_flag,                          *,          500, 250
+		Wales_flag,                            *,          500, 250
+		Scotland_flag,                         *,          500, 250
+		Portugal_flag,                         *,          500, 250
+		Poland_flag,                           *,          500, 250
 	<Category>  Military Gear | Gas Masks
 		MVS_S10Respirator_Black,	*,	10000,	1000
 		MVS_M50Respirator_Black,	*,	10000,	1000
@@ -1802,44 +1818,44 @@
 		MassGorkaInvertWoodlandPants,	*,	1000,	500
 		MassGorkaInvertFlecktarnTop,	*,	1000,	500
 		MassGorkaInvertFlecktarnPants,	*,	1000,	500
-		MassUSww2top,	*,	1000,	500
-		MassGokuShirt,	*,	1000,	500
-		MassTropicamTop,	*,	1000,	500
-		MassMandraketop,	*,	1000,	500
+		MassUSww2top,		*,	1000,	500
+		MassGokuShirt,		*,	1000,	500
+		MassTropicamTop,		*,	1000,	500
+		MassMandraketop,		*,	1000,	500
 		MassTUhikingjacket,	*,	1000,	500
 		MassOrelTopgreen,	*,	1000,	500
-		MassBlackJacket,	*,	1000,	500
-		MassBeigeJacket,	*,	1000,	500
+		MassBlackJacket,		*,	1000,	500
+		MassBeigeJacket,		*,	1000,	500
 		MassTropicamPants,	*,	1000,	500
 		Masswoodlandcargopants,	*,	1000,	500
 		Massurbancamocargopants,	*,	1000,	500
-		Massjeanshorts,	*,	1000,	500
+		Massjeanshorts,		*,	1000,	500
 		MassMandrakebottom,	*,	1000,	500
 		Massorelpantsgreen,	*,	1000,	500
 		MassBlackYellowMB,	*,	1000,	500
-		Massczech,	*,	1000,	5
+		Massczech,		*,	1000,	5
 		Massurbancamohat,	*,	1000,	500
 		MasscamoBooniehat,	*,	1000,	500
 		MassBeigeUshanka,	*,	1000,	500
-		Massblackgp5,	*,	1000,	500
-		Massmichblack,	*,	1000,	500
+		Massblackgp5,		*,	1000,	500
+		Massmichblack,		*,	1000,	500
 		MassHuntingCowboyhat,	*,	1000,	500
 		MassSSww2Camotop,	*,	1000,	500
-		MassDetectiveCoat,	*,	1000,	500
+		MassDetectiveCoat,		*,	1000,	500
 		MassDetectiveCoat_Black,	*,	1000,	500
 		MassSSww2CamoBreeches,	*,	1000,	500
 		MassSSww2Camopants,	*,	1000,	500
-		Mass_Sneakers,	*,	1000,	500
-		MassFedora_Black,	*,	1000,	500
-		MassFedora_White,	*,	1000,	500
-		MassFedora_Pink,	*,	1000,	500
+		Mass_Sneakers,		*,	1000,	500
+		MassFedora_Black,		*,	1000,	500
+		MassFedora_White,		*,	1000,	500
+		MassFedora_Pink,		*,	1000,	500
 		MassFedora_Yellow,	*,	1000,	500
-		MassFedora_Red,	*,	1000,	500
-		MassFedora_Blue,	*,	1000,	500
-		MassFedora_Grey,	*,	1000,	500
+		MassFedora_Red,		*,	1000,	500
+		MassFedora_Blue,		*,	1000,	500
+		MassFedora_Grey,		*,	1000,	500
 		MassFedora_Brown,	*,	1000,	500
 		MassFedora_Beige,	*,	1000,	500
-		MassArmband_TU,	*,	1000,	500
+		MassArmband_TU,		*,	1000,	500
 		MassArmband_NCR,	*,	1000,	500
 		MassArmband_snowBDU,	*,	1000,	500
 		MassArmband_PartizanM,	*,	1000,	500
@@ -1848,29 +1864,29 @@
 		MassArmband_Urban,	*,	1000,	500
 		MassArmband_Orel,	*,	1000,	500
 		MassArmband_BWS,	*,	1000,	500
-		MassArmband_BT,	*,	1000,	500
-		MassArmbandDouble_White,	*,	1000,	500
-		MassArmbandDouble_Yellow,	*,	1000,	500
+		MassArmband_BT,			*,	1000,	500
+		MassArmbandDouble_White,		*,	1000,	500
+		MassArmbandDouble_Yellow,		*,	1000,	500
 		MassArmbandDouble_Orange,	*,	1000,	500
-		MassArmbandDouble_Red,	*,	1000,	500
-		MassArmbandDouble_Green,	*,	1000,	500
-		MassArmbandDouble_Pink,	*,	1000,	500
-		MassArmbandDouble_Blue,	*,	1000,	500
-		MassArmbandDouble_Black,	*,	1000,	500
-		MassArmbandDouble_Smiley,	*,	1000,	500
-		MassArmbandDouble_NCR,	*,	1000,	500
-		MassArmbandDouble_TU,	*,	1000,	500
+		MassArmbandDouble_Red,		*,	1000,	500
+		MassArmbandDouble_Green,		*,	1000,	500
+		MassArmbandDouble_Pink,		*,	1000,	500
+		MassArmbandDouble_Blue,		*,	1000,	500
+		MassArmbandDouble_Black,		*,	1000,	500
+		MassArmbandDouble_Smiley,		*,	1000,	500
+		MassArmbandDouble_NCR,		*,	1000,	500
+		MassArmbandDouble_TU,		*,	1000,	500
 		MassArmbandDouble_snowBDU,	*,	1000,	500
 		MassArmbandDouble_PartizanM,	*,	1000,	500
 		MassArmbandDouble_Mandrake,	*,	1000,	500
 		MassArmbandDouble_Woodland,	*,	1000,	500
-		MassArmbandDouble_Urban,	*,	1000,	500
-		MassArmbandDouble_Orel,	*,	1000,	500
-		MassArmbandDouble_BWS,	*,	1000,	500
-		MassArmbandDouble_BT,	*,	1000,	500
+		MassArmbandDouble_Urban,		*,	1000,	500
+		MassArmbandDouble_Orel,		*,	1000,	500
+		MassArmbandDouble_BWS,		*,	1000,	500
+		MassArmbandDouble_BT,		*,	1000,	500
     <Category> Biohazard
-        MassNBC_Bag,			*,	1000,	500
-		MassNBCJacketYellow,	*,	2500,	1250
+        		MassNBC_Bag,			*,	1000,	500
+		MassNBCJacketYellow,		*,	2500,	1250
 		MassNBCpantsYellow,		*,	2500,	1250
 		MassNBCbootsYellow,		*,	1000,	500
 		MassNBCglovesBlue,		*,	1000,	500
@@ -1882,23 +1898,23 @@
 		NBCGlovesGray,			*,	1000,	500
 <Trader>  Vehicles Trader
 	<Category>  Domestic Vehicles
-		Hatchback_02,	        	VNK,	60000,	15000
-		Hatchback_02_Blue,			VNK,	60000,	15000
-		Hatchback_02_Black,			VNK,	60000,	15000
+		Hatchback_02,	        		VNK,	60000,	15000
+		Hatchback_02_Blue,		VNK,	60000,	15000
+		Hatchback_02_Black,		VNK,	60000,	15000
 		Sedan_02,	        		VNK,	60000,	15000
-		Sedan_02_Red,	        	VNK,	60000,	15000
-		Sedan_02_Grey,	        	VNK,	60000,	15000
-		CivilianSedan,	        	VNK,	60000,	15000
-		CivilianSedan_Wine,			VNK,	60000,	15000
+		Sedan_02_Red,	        		VNK,	60000,	15000
+		Sedan_02_Grey,	        		VNK,	60000,	15000
+		CivilianSedan,	        		VNK,	60000,	15000
+		CivilianSedan_Wine,		VNK,	60000,	15000
 		CivilianSedan_Black,		VNK,	60000,	15000
 		OffroadHatchback,			VNK,	75000,	20000
 		OffroadHatchback_Blue,		VNK,	75000,	20000
 		OffroadHatchback_White,		VNK,	75000,	20000
 		Truck_01_Covered,			VNK,	300000,	100000
 		Truck_01_Covered_Blue,		VNK,	300000,	100000
-		Truck_01_Covered_Orange, 	VNK,	300000,	100000
+		Truck_01_Covered_Orange, 		VNK,	300000,	100000
 	<Category>  American Imports
-				MUSTANG,              VNK,      500000,  160000
+		MUSTANG,              VNK,      500000,  160000
         		MUSTANG_blue,  VNK,      500000,  160000
         		MUSTANG_red,  VNK,      500000,  160000
         		MUSTANG_rust,  VNK,      500000,  160000
@@ -1907,22 +1923,27 @@
 		CrSk_Land_Rover_Defender_110_Green,	VNK,	600000,	150000
 		CrSk_Land_Rover_Defender_110_UN,	VNK,	600000,	150000
         LANEvoque2016,				VNK,	1000000,	200000
-		LANEvoque2016_Blue,			VNK,	1000000,	200000
-		LANEvoque2016_Red,			VNK,	1000000,	200000
+		LANEvoque2016_Blue,		VNK,	1000000,	200000
+		LANEvoque2016_Red,		VNK,	1000000,	200000
 		LANEvoque2016_White,		VNK,	1000000,	200000
-		LANEvoque2016_Gold,			VNK,	1000000,	200000
+		LANEvoque2016_Gold,		VNK,	1000000,	200000
 		LANEvoque2016_ChromePurple,	VNK,	1000000,	200000
 	<Category>  German Imports
-		Dingo,						VNK,	750000,	200000
+		Dingo,				VNK,	750000,	200000
 		Dingo_DON_GER_DESERT,		VNK,	750000,	200000
-		Dingo_DON_CZ_DESERT,	VNK,	750000,	200000
-		Dingo_DON_CZ_Woodland,	VNK,	750000,	200000
-		Dingo_DON_UN,	VNK,	750000,	200000
-		Dingo_DON_CP,	VNK,	750000,	200000
-		Dingo_DON_CDF,	VNK,	750000,	200000
-		Dingo_DON_WTR,	VNK,	750000,	200000
-		Dingo_DON_DARKGREEN,	VNK,	750000,	200000
-		Dingo_DON_CHDKZ,	VNK,	750000,	200000
+		Dingo_DON_CZ_DESERT,		VNK,	750000,	200000
+		Dingo_DON_CZ_Woodland,		VNK,	750000,	200000
+		Dingo_DON_UN,			VNK,	750000,	200000
+		Dingo_DON_CP,			VNK,	750000,	200000
+		Dingo_DON_CDF,			VNK,	750000,	200000
+		Dingo_DON_WTR,			VNK,	750000,	200000
+		Dingo_DON_DARKGREEN,		VNK,	750000,	200000
+		Dingo_DON_CHDKZ,		VNK,	750000,	200000
+		CrSk_BMW_525i_E34,		VNK,	600000,	300000
+        		CrSk_BMW_525i_E34_Red,		VNK,	600000,	300000
+		CrSk_BMW_525i_E34_Black,		VNK,	600000,	300000
+        		CrSk_BMW_525i_E34_Purple,	VNK,	600000,	300000
+		CrSk_BMW_525i_E34_Beater,	VNK,	600000,	300000
 	<Category>  Exotic Vehicles
         Nehr_PickupLada, 			VNK,	500000,	125000
         Nehr_PickupLada_Simple, 	VNK,	500000,	125000
@@ -2134,29 +2155,29 @@
 		Defender110_dver_2_2_UN,	*,	2500,	1000
 		Defender110_kapot_UN,	*,	2500,	1000
 		Defender110_bagazhnik_UN,	*,	2500,	1000
-		LANEvoque2016_Driver_Blue,			*,	2500,	1000
-		LANEvoque2016_Driver_Red,			*,	2500,	1000
+		LANEvoque2016_Driver_Blue,				*,	2500,	1000
+		LANEvoque2016_Driver_Red,				*,	2500,	1000
 		LANEvoque2016_Driver_White,			*,	2500,	1000
 		LANEvoque2016_Driver_Gold,			*,	2500,	1000
 		LANEvoque2016_Driver_ChromePurple,			*,	2500,	1000
-		LANEvoque2016_CoDriver,			*,	2500,	1000
+		LANEvoque2016_CoDriver,				*,	2500,	1000
 		LANEvoque2016_CoDriver_Blue,			*,	2500,	1000
 		LANEvoque2016_CoDriver_Red,			*,	2500,	1000
 		LANEvoque2016_CoDriver_White,			*,	2500,	1000
 		LANEvoque2016_CoDriver_Gold,			*,	2500,	1000
-		LANEvoque2016_CoDriver_ChromePurple,			*,	2500,	1000
+		LANEvoque2016_CoDriver_ChromePurple,		*,	2500,	1000
 		LANEvoque2016_Hood,			*,	2500,	1000
 		LANEvoque2016_Hood_Blue,			*,	2500,	1000
 		LANEvoque2016_Hood_Red,			*,	2500,	1000
-		LANEvoque2016_Hood_White,			*,	2500,	1000
+		LANEvoque2016_Hood_White,		*,	2500,	1000
 		LANEvoque2016_Hood_Gold,			*,	2500,	1000
-		LANEvoque2016_Hood_ChromePurple,			*,	2500,	1000
+		LANEvoque2016_Hood_ChromePurple,		*,	2500,	1000
 		LANEvoque2016_Trunk,			*,	2500,	1000
 		LANEvoque2016_Trunk_Blue,			*,	2500,	1000
 		LANEvoque2016_Trunk_Red,			*,	2500,	1000
-		LANEvoque2016_Trunk_White,			*,	2500,	1000
-		LANEvoque2016_Trunk_Gold,			*,	2500,	1000
-		LANEvoque2016_Trunk_ChromePurple,			*,	2500,	1000
+		LANEvoque2016_Trunk_White,		*,	2500,	1000
+		LANEvoque2016_Trunk_Gold,		*,	2500,	1000
+		LANEvoque2016_Trunk_ChromePurple,		*,	2500,	1000
 		LANEvoque2016_Wheel_1,			*,	2500,	1000
 		LANEvoque2016_Wheel_2,			*,	2500,	1000
 		LANEvoque2016_Wheel_3,			*,	2500,	1000
@@ -2166,11 +2187,49 @@
 	<Category>  German Parts
 		DingoDoors_Driver,				*,	2500,	1000
 		DingoDoors_CoDriver,			*,	2500,	1000
-		DingoDoors_Cargo1,				*,	2500,	1000
-		DingoDoors_Cargo2,				*,	2500,	1000
-		DingoHood,						*,	2500,	1000
-		DingoTrunk,						*,	2500,	1000
-		DingoWheel,						*,	2500,	1000
+		DingoDoors_Cargo1,			*,	2500,	1000
+		DingoDoors_Cargo2,			*,	2500,	1000
+		DingoHood,				*,	2500,	1000
+		DingoTrunk,				*,	2500,	1000
+		DingoWheel,				*,	2500,	1000
+		BMWE34_kapot,				*,		2500,	1000
+		BMWE34_bagazhnik,			*,		2500,	1000
+		BMWE34_dver_1_1,			*,		2500,	1000
+		BMWE34_dver_2_1,			*,		2500,	1000
+		BMWE34_dver_1_2,			*,		2500,	1000
+		BMWE34_dver_2_2,			*,		2500,	1000
+       		BMWE34_kapot_red,			*,		2500,	1000
+		BMWE34_bagazhnik_red,			*,		2500,	1000
+		BMWE34_dver_1_1_red,			*,		2500,	1000
+		BMWE34_dver_2_1_red,			*,		2500,	1000
+		BMWE34_dver_1_2_red,			*,		2500,	1000
+		BMWE34_dver_2_2_red,			*,		2500,	1000
+       		BMWE34_kapot_black,			*,		2500,	1000
+		BMWE34_bagazhnik_black,			*,		2500,	1000
+		BMWE34_dver_1_1_black,			*,		2500,	1000
+		BMWE34_dver_2_1_black,			*,		2500,	1000
+		BMWE34_dver_1_2_black,			*,		2500,	1000
+		BMWE34_dver_2_2_black,			*,		2500,	1000
+     		BMWE34_kapot_purple,			*,		2500,	1000
+		BMWE34_bagazhnik_purple,			*,		2500,	1000
+		BMWE34_dver_1_1_purple,			*,		2500,	1000
+		BMWE34_dver_2_1_purple,			*,		2500,	1000
+		BMWE34_dver_1_2_purple,			*,		2500,	1000
+		BMWE34_dver_2_2_purple,			*,		2500,	1000
+        		BMWE34_kapot_beater,			*,		2500,	1000
+		BMWE34_bagazhnik_beater,			*,		2500,	1000
+		BMWE34_dver_1_1_beater,			*,		2500,	1000
+		BMWE34_dver_2_1_beater,			*,		2500,	1000
+		BMWE34_dver_1_2_beater,			*,		2500,	1000
+		BMWE34_dver_2_2_beater,			*,		2500,	1000
+		BMWE34_koleso_style5,			*,		1000,	750
+       		BMWE34_koleso_style2,			*,		1000,	750
+        		BMWE34_koleso_style16,			*,		1000,	750
+       		BMWE34_koleso_style21,			*,		1000,	750
+        		BMWE34_koleso_style21_black,		*,		1000,	750
+        		BMWE34_koleso_style37,			*,		1000,	750
+        		BMWE34_koleso_shtamp,			*,		1000,	750
+        		BMWE34_koleso_shtamp_black,		*,		1000,	750
 	<Category>  Exotic Parts		
         		Nehr_PickupLadadoors_driver,	*,	2500,	1000
         		Nehr_PickupLadadoors_codriver,	*,	2500,	1000
@@ -2240,15 +2299,15 @@
 		MCK_CarKeyTag_Yellow,		*,	500,	-1
 <Trader>  Hunters Trader
 	<Category>  Camping
-		BearTrap,	*,	-1,	300
-		MediumTent,	*,	4000,	750
-		LargeTent,	*,	5000,	1000
-		Msp_SleepingBag_Green, *, -1, 100
-		Msp_SleepingBag_Blue, *, -1, 100
-		Msp_SleepingBag_LimeGreen, *, -1, 100
-		Msp_SleepingBag_Orange, *, -1, 100
-		Msp_SleepingBag_Purple, *, -1, 100
-		Msp_SleepingBag_Red, *, -1, 100
+		BearTrap,			*,	-1,	300
+		MediumTent,			*,	4000,	750
+		LargeTent,			*,	5000,	1000
+		Msp_SleepingBag_Green, 		*,	 -1,	 100
+		Msp_SleepingBag_Blue, 		*, -1, 100
+		Msp_SleepingBag_LimeGreen, 	*, -1, 100
+		Msp_SleepingBag_Orange, 		*, -1, 100
+		Msp_SleepingBag_Purple, 		*, -1, 100
+		Msp_SleepingBag_Red, 		*, -1, 100
 	<Category>  Meat
 		ChickenBreastMeat,	S,	-1,	85
 		GoatSteakMeat,	S,	-1,	100
@@ -2271,59 +2330,61 @@
 		LargeGasCanister,	*,	120,	30
 		PortableGasStove,	*,	100,	20
 		Ap_vip_coin,	*,	-1,	10000
+		AP_Gold_Coin,          *,	-1,	6000
+		AP_copper_Coin,	*,	-1,	3000
 	<Category>  Animal Parts
 		TannedLeather,	1,	-1,	400
 		RabbitPelt,	*,	-1,	250
 		GoatPelt,	*,	-1,	400 
-		SheepPelt,	*,	-1,	600
+		SheepPelt,	 *,	-1,	600
 		PigPelt,	*,	-1,	750	
 		CowPelt,	*,	-1,	900	
 		DeerPelt,	*,	-1,	2000
 		WolfPelt,	*,	-1,	5000
 		BearPelt,	*,	-1,	10000
-		Bone,			*,	-1,	15
-		Lard,			*,	-1,	25
-		SmallGuts,		*,	-1,	45
-		Guts,			*,	-1,	60
+		Bone,		*,	-1,	15
+		Lard,		*,	-1,	25
+		SmallGuts,	*,	-1,	45
+		Guts,		*,	-1,	60
 		WildboarPelt,	*,	-1,	5000
 <Trader>  Black Market
 	<Category>  Arma2 MGs
-		A2AA12,	W,	10000,	1500
-		A2AA12_Magazine,	M,	300,	75
-		A2M249,				W,	7000,	1750
-		A2M249_Magazine,	M,	1600,	400
-		A2MK48,				W,	8500,	2125
-		A2MK48_Magazine,	M,	2000,	500
-		A2M240,				W,	10000,	5000
-		A2M240_Magazine,	M,	1400,	1000
-		A2M60E4,			W,	19000,	2425
+		A2AA12,			W,	10000,	5000
+		A2AA12_Magazine,		M,	300,	75
+		A2M249,			W,	7000,	1750
+		A2M249_Magazine,		M,	1600,	400
+		A2MK48,			W,	8500,	2125
+		A2MK48_Magazine,		M,	2000,	500
+		A2M240,			W,	10000,	5000
+		A2M240_Magazine,		M,	1400,	1000
+		A2M60E4,		W,	19000,	2425
 		A2M60E4_Magazine,	M,	4000,	1000
 	<Category>  KOD MGs
-		KOD_ASH12,			W,	-1,	25000
+		KOD_ASH12,		W,	-1,	25000
 		Mag_KOD_ASH12_20Rnd,	M,	400,	200
-		KOD_PKM,			W,	20000,	10000
+		KOD_PKM,		W,	20000,	10000
 		Mag_KOD_PKM_100Rnd,	M,	1000,	500
 	<Category>  Arma2 Sniper
-		A2LRRAWM,	W,	6500,	1625
+		A2LRRAWM,		W,	6500,	1625
 		A2LRRAWM_Magazine,	M,	4000,	1000
-		A2M24_Desert,	W,	19000,	7000
-		A2M24_Green,	W,	19000,	7000
-		A2WM110_desert,	W,	16000,	5000
-		A2WM110_black,	W,	16000,	5000
-		A2WM110_mag,	M,	2000,	400
+		A2M24_Desert,		W,	19000,	7000
+		A2M24_Green,		W,	19000,	7000
+		A2WM110_desert,		W,	16000,	5000
+		A2WM110_black,		W,	16000,	5000
+		A2WM110_mag,		M,	2000,	400
 	<Category>  Mass Sniper
-		MassM110,	W,	15000,	2200
-		Mass308STANAG,	10,	500,	250
-		Massm300,	W,	9000,	2250
-		Massm300_camo,	W,	9000,	2250
-		Massm300mag,	10,	500,	250
+		MassM110,		W,	15000,	2200
+		Mass308STANAG,		10,	500,	250
+		Massm300,		W,	9000,	2250
+		Massm300_camo,		W,	9000,	2250
+		Massm300mag,		10,	500,	250
 	<Category>  KOD Sniper
-		KOD_R700,			W,	25000,	10000
+		KOD_R700,		W,	25000,	10000
 		Mag_KOD_R700_7Rnd,	M,	1000,	500
 		KOD_RSASS_Tan,		W,	15000,	4000
 		KOD_RSASS_Black,	W,	15000,	4000
 		Mag_KOD_RSASS_20Rnd,	M,	200,	20
-		KOD_AWM,			W,	20000,	10000
+		KOD_AWM,		W,	20000,	10000
 		Mag_KOD_AWM_5Rnd,	M,	2000,	1000
 		KOD_M110_Tan,		W,	30000,	10000
 		KOD_M110_Black,		W,	32000,	11000
@@ -2333,7 +2394,7 @@
 		KOD_M82A2_Black,	W,	-1,	150000
 		KOD_M82A2_Tan,		W,	-1,	120000
 		Mag_KOD_M82A2_10Rnd,	M,	2000,	1000
-		KOD_AX50,			W,	-1,	90000
+		KOD_AX50,		W,	-1,	90000
 		Mag_KOD_AX50_5Rnd,	M,	2000,	1000
 	<Category>  Others
 		A2AK74S,	W,	6000,	3000

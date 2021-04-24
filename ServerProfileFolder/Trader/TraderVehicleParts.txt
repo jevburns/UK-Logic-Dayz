@@ -418,12 +418,14 @@
     	CarRadiator
     	HeadlightH7
     	HeadlightH7
+	MUSTANG_Wheel
 
 <VehicleParts> MUSTANG_blue
     MUSTANG_doors_Driver_blue
     MUSTANG_Doors_coDriver_blue
     MUSTANG_doors_hood_blue
     MUSTANG_doors_trunk_blue
+    MUSTANG_Wheel
     MUSTANG_Wheel
     MUSTANG_Wheel
     MUSTANG_Wheel
@@ -448,6 +450,7 @@
     MUSTANG_Wheel
     MUSTANG_Wheel
     MUSTANG_Wheel
+    MUSTANG_Wheel
 
 <VehicleParts> MUSTANG_rust
     SparkPlug
@@ -459,6 +462,7 @@
     MUSTANG_Doors_coDriver_rust
     MUSTANG_doors_hood_rust
     MUSTANG_doors_trunk_rust
+    MUSTANG_Wheel
     MUSTANG_Wheel
     MUSTANG_Wheel
     MUSTANG_Wheel
@@ -820,6 +824,90 @@ Defender110_koleso
 Defender110_koleso
 Defender110_koleso
 
+<VehicleParts> CrSk_BMW_525i_E34
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	BMWE34_kapot
+	BMWE34_bagazhnik
+	BMWE34_dver_1_1
+	BMWE34_dver_2_1
+	BMWE34_dver_1_2
+	BMWE34_dver_2_2
+	BMWE34_koleso_style5
+	BMWE34_koleso_style5
+	BMWE34_koleso_style5
+	BMWE34_koleso_style5
+
+<VehicleParts> CrSk_BMW_525i_E34_Red
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	BMWE34_kapot_red
+	BMWE34_bagazhnik_red
+	BMWE34_dver_1_1_red
+	BMWE34_dver_2_1_red
+	BMWE34_dver_1_2_red
+	BMWE34_dver_2_2_red
+	BMWE34_koleso_style37
+	BMWE34_koleso_style37
+	BMWE34_koleso_style37
+	BMWE34_koleso_style37
+
+<VehicleParts> CrSk_BMW_525i_E34_Black
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	BMWE34_kapot_black
+	BMWE34_bagazhnik_black
+	BMWE34_dver_1_1_black
+	BMWE34_dver_2_1_black
+	BMWE34_dver_1_2_black
+	BMWE34_dver_2_2_black
+	BMWE34_koleso_style21
+	BMWE34_koleso_style21
+	BMWE34_koleso_style21
+	BMWE34_koleso_style21
+
+<VehicleParts> CrSk_BMW_525i_E34_Purple
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	BMWE34_kapot_purple
+	BMWE34_bagazhnik_purple
+	BMWE34_dver_1_1_purple
+	BMWE34_dver_2_1_purple
+	BMWE34_dver_1_2_purple
+	BMWE34_dver_2_2_purple
+	BMWE34_koleso_style21_black
+	BMWE34_koleso_style21_black
+	BMWE34_koleso_style21_black
+	BMWE34_koleso_style21_black
+
+<VehicleParts> CrSk_BMW_525i_E34_Beater
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	BMWE34_kapot_beater
+	BMWE34_bagazhnik_beater
+	BMWE34_dver_1_1_beater
+	BMWE34_dver_2_1_beater
+	BMWE34_dver_1_2_beater
+	BMWE34_dver_2_2_beater
+	BMWE34_koleso_shtamp_black
+	BMWE34_koleso_shtamp_black
+	BMWE34_koleso_shtamp_black
+	BMWE34_koleso_shtamp_black
 
 
 
