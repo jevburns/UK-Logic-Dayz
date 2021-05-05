@@ -1,0 +1,447 @@
+{
+    "m_CraftClasses": {
+        "m_CustomizationSetting" : {
+            "PathToMainBackgroundImg" : "my path to main img",
+            "PathToRepairImg" : "my path to RepairImg",
+            "PathToPaintImg" : "my path to PaintImg",
+            "PathToCraftImg" : "my path to CraftImg"
+        },
+        "WorkbenchesClassnames": [
+            "BP_Workbench"
+        ],
+        "CraftItems": [
+            {
+                "Result": "AP_Black_Jacket",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "ADM Jacket Black",
+                "CraftComponents": [
+                    {
+                        "Classname": "TannedLeather",
+                        "Amount": 8,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }, 
+					{
+					    "Classname": "PlateCarrierVest",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "LeatherSewingKit",
+                        "Amount": 25,
+                        "Destroy": 0,
+                        "Changehealth": -25
+                    },
+                    {
+                        "Classname": "SewingKit",
+                        "Amount": 50,
+                        "Destroy": 0,
+                        "Changehealth": -50                        
+                    },
+                    {
+						"Classname": "AP_VIP_Coin",
+                        "Amount": 20,
+                        "Destroy": 20,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPDrill",
+					"BPGrinder",
+                    "BPCutting_saw"
+                ]
+            },
+  			 {
+                "Result": "Ap_Star_Jacket",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "ADM Star Jacket",
+                "CraftComponents": [
+                    {
+                        "Classname": "TannedLeather",
+                        "Amount": 8,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }, 
+					{
+					    "Classname": "PlateCarrierVest",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "LeatherSewingKit",
+                        "Amount": 25,
+                        "Destroy": 0,
+                        "Changehealth": -25
+                    },
+                    {
+                        "Classname": "SewingKit",
+                        "Amount": 50,
+                        "Destroy": 0,
+                        "Changehealth": -50                        
+                    },
+                    {
+						"Classname": "AP_VIP_Coin",
+                        "Amount": 20,
+                        "Destroy": 20,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPDrill",
+					"BPGrinder",
+                    "BPCutting_saw"
+                ]
+            },
+				 {
+                "Result": "Ap_Ger_Jacket",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "ADM Ger Jacket",
+                "CraftComponents": [
+                    {
+                        "Classname": "TannedLeather",
+                        "Amount": 8,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }, 
+					{
+					    "Classname": "PlateCarrierVest",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "LeatherSewingKit",
+                        "Amount": 25,
+                        "Destroy": 0,
+                        "Changehealth": -25
+                    },
+                    {
+                        "Classname": "SewingKit",
+                        "Amount": 50,
+                        "Destroy": 0,
+                        "Changehealth": -50                        
+                    },
+                    {
+						"Classname": "AP_VIP_Coin",
+                        "Amount": 20,
+                        "Destroy": 20,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPDrill",
+					"BPGrinder",
+                    "BPCutting_saw"
+                ]
+            },
+        	 {
+                "Result":"Ap_Tigr_Jacket",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName":"ADM Tigr Jacket",
+                "CraftComponents": [
+                    {
+                        "Classname": "TannedLeather",
+                        "Amount": 8,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }, 
+					{
+					    "Classname": "PlateCarrierVest",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "LeatherSewingKit",
+                        "Amount": 25,
+                        "Destroy": 0,
+                        "Changehealth": -25
+                    },
+                    {
+                        "Classname": "SewingKit",
+                        "Amount": 50,
+                        "Destroy": 0,
+                        "Changehealth": -50                        
+                    },
+                    {
+						"Classname": "AP_VIP_Coin",
+                        "Amount": 20,
+                        "Destroy": 20,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPDrill",
+					"BPGrinder",
+                    "BPCutting_saw"
+                ]
+            },
+ {
+                "Result": "Ap_Gold_Jacket",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "ADM Gold Jacket",
+                "CraftComponents": [
+                    {
+                        "Classname": "TannedLeather",
+                        "Amount": 8,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }, 
+					{
+					    "Classname": "PlateCarrierVest",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "LeatherSewingKit",
+                        "Amount": 25,
+                        "Destroy": 0,
+                        "Changehealth": -25
+                    },
+                    {
+                        "Classname": "SewingKit",
+                        "Amount": 50,
+                        "Destroy": 0,
+                        "Changehealth": -50                        
+                    },
+                    {
+						"Classname": "AP_VIP_Coin",
+                        "Amount": 20,
+                        "Destroy": 20,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPDrill",
+					"BPGrinder",
+                    "BPCutting_saw"
+                ]
+            },
+ {
+                "Result": "Ap_Gor_Jacket",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "ADM Gor Jacket",
+                "CraftComponents": [
+                    {
+                        "Classname": "TannedLeather",
+                        "Amount": 8,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }, 
+					{
+					    "Classname": "PlateCarrierVest",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "LeatherSewingKit",
+                        "Amount": 25,
+                        "Destroy": 0,
+                        "Changehealth": -25
+                    },
+                    {
+                        "Classname": "SewingKit",
+                        "Amount": 50,
+                        "Destroy": 0,
+                        "Changehealth": -50                        
+                    },
+                    {
+						"Classname": "AP_VIP_Coin",
+                        "Amount": 20,
+                        "Destroy": 20,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPDrill",
+					"BPGrinder",
+                    "BPCutting_saw"
+                ]
+            },
+ {
+                "Result":"KOD_ASH12",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "ASH12",
+                "CraftComponents": [
+                    {
+                        "Classname": "A2AA12",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }, 
+					{
+					    "Classname": "WeaponCleaningKit",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "AP_Copper_Coin",
+                        "Amount": 5,
+                        "Destroy": 5,
+                        "Changehealth": -25
+                    },
+                    {
+                        "Classname": "SewingKit",
+                        "Amount": 50,
+                        "Destroy": 0,
+                        "Changehealth": -50                        
+                    },
+                    {
+						"Classname": "AP_VIP_Coin",
+                        "Amount": 5,
+                        "Destroy": 5,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPDrill",
+					"BPGrinder",
+                    "BPCutting_saw"
+                ]
+            },
+ {
+                "Result":"KOD_AX50",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "AX-50",
+                "CraftComponents": [
+                    {
+                        "Classname": "KOD_R700",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }, 
+					{
+					    "Classname": "WeaponCleaningKit",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "AP_Copper_Coin",
+                        "Amount": 10,
+                        "Destroy": 10,
+                        "Changehealth": -25
+                    },
+                    {
+                        "Classname": "SewingKit",
+                        "Amount": 50,
+                        "Destroy": 0,
+                        "Changehealth": -50                        
+                    },
+                    {
+						"Classname": "AP_VIP_Coin",
+                        "Amount": 5,
+                        "Destroy": 5,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPDrill",
+					"BPGrinder",
+                    "BPCutting_saw"
+                ]
+            },
+ {
+                "Result":"KOD_M82A2_Black",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Barret 50 Cal Black",
+                "CraftComponents": [
+                    {
+                        "Classname": "KOD_AX50",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }, 
+					{
+					    "Classname": "WeaponCleaningKit",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "AP_Copper_Coin",
+                        "Amount": 10,
+                        "Destroy": 10,
+                        "Changehealth": -25
+                    },
+                    {
+                        "Classname": "HumanSteakMeat",
+                        "Amount": 5,
+                        "Destroy": 5,
+                        "Changehealth": -50                        
+                    },
+                    {
+						"Classname": "AP_VIP_Coin",
+                        "Amount": 5,
+                        "Destroy": 5,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPDrill",
+					"BPGrinder",
+                    "BPCutting_saw"
+                ]
+            },
+ {
+                "Result":"KOD_Beowulf",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Beowulf",
+                "CraftComponents": [
+                    {
+                        "Classname": "KOD_M110_Black",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }, 
+					{
+					    "Classname": "WeaponCleaningKit",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "AP_Copper_Coin",
+                        "Amount": 10,
+                        "Destroy": 10,
+                        "Changehealth": -25
+                    },
+                    {
+                        "Classname": "HumanSteakMeat",
+                        "Amount": 5,
+                        "Destroy": 5,
+                        "Changehealth": -50                        
+                    },
+                    {
+						"Classname": "AP_VIP_Coin",
+                        "Amount": 5,
+                        "Destroy": 5,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPDrill",
+					"BPGrinder",
+                    "BPCutting_saw"
+                ]
+            }
+           
+                    
+                ]
+    }
+}

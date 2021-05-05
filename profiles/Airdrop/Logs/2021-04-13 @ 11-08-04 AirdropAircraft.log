@@ -1,0 +1,27 @@
+[AirdropPlane] Aircraft created on 2021-04-13 @ 11-08-04
+[InitializeAircraft] Aircraft Initialized: Krasnostav Airstrip @ 12160/12645 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Krasnostav Airstrip. @ <11374.916992, 424.554199, 11367.818359>
+[EOnDrop] Zombie Spawned [1] ZmbM_PatrolNormal_Flat @ <12093.345703, 140.500000, 12592.766602> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_PatrolNormal_Flat @ <12121.322266, 140.500000, 12599.562500> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_PatrolNormal_Flat @ <12111.832031, 140.500000, 12544.218750> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_PatrolNormal_Summer @ <12107.360352, 140.500000, 12578.346680> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_PatrolNormal_Autumn @ <12142.217773, 140.500000, 12553.474609> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbM_PatrolNormal_PautRev @ <12131.583984, 140.500000, 12574.149414> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbM_SoldierNormal @ <12139.461914, 140.500000, 12564.905273> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbM_PatrolNormal_PautRev @ <12102.051758, 140.500000, 12579.990234> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbM_SoldierNormal @ <12160.993164, 140.500000, 12595.301758> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbM_SoldierNormal @ <12083.925781, 140.500000, 12541.162109> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [11] ZmbM_PatrolNormal_Summer @ <12111.889648, 140.500000, 12580.090820> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [12] ZmbM_SoldierNormal @ <12082.976563, 140.500000, 12601.138672> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [13] ZmbM_PatrolNormal_Flat @ <12116.385742, 140.500000, 12603.321289> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [14] ZmbM_SoldierNormal @ <12142.859375, 140.500000, 12618.371094> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [15] ZmbM_SoldierNormal @ <12143.073242, 140.500000, 12571.413086> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [16] ZmbM_SoldierNormal @ <12128.645508, 140.500000, 12561.610352> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [17] ZmbM_PatrolNormal_Summer @ <12075.966797, 140.448395, 12573.993164> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [18] ZmbM_PatrolNormal_Summer @ <12085.665039, 140.268845, 12568.564453> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [19] ZmbM_PatrolNormal_Autumn @ <12131.093750, 140.500000, 12607.651367> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [20] ZmbM_SoldierNormal @ <12128.837891, 140.500000, 12562.618164> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Drop spawned with 20 infected at <12116.376953, 282.638214, 12576.548828>.
+[EOnDrop] Supplies have been dropped near Krasnostav Airstrip.
+[EOnBeforeDelete] Aircraft despawned @ <14437.600586, 249.953491, 16360.615234>
+[~AirdropPlane] Aircraft destroyed.

@@ -1,0 +1,32 @@
+[AirdropPlane] Aircraft created on 2021-04-03 @ 22-43-01
+[InitializeAircraft] Aircraft Initialized: Stary/Novy  @ 6600/7800 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Stary/Novy . @ <7852.740723, 588.754822, 8624.555664>
+[EOnDrop] Zombie Spawned [1] ZmbM_SoldierNormal @ <6631.097656, 307.840271, 7828.702637> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_PatrolNormal_Flat @ <6657.139160, 308.579407, 7845.865234> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_PatrolNormal_Flat @ <6669.871582, 309.254242, 7860.846680> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_PatrolNormal_Flat @ <6694.372070, 307.571899, 7860.357910> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_SoldierNormal @ <6674.189941, 309.663910, 7868.904785> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbM_SoldierNormal @ <6661.111328, 308.779114, 7849.998047> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbM_PatrolNormal_Flat @ <6657.050781, 308.930786, 7849.756348> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbM_SoldierNormal @ <6659.469238, 310.792419, 7871.745117> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbM_SoldierNormal @ <6686.576660, 303.193268, 7802.392090> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbM_PatrolNormal_PautRev @ <6701.844238, 307.230408, 7863.414063> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [11] ZmbM_PatrolNormal_Flat @ <6698.824707, 307.745483, 7867.495605> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [12] ZmbM_PatrolNormal_PautRev @ <6641.848145, 306.174408, 7813.961914> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [13] ZmbM_PatrolNormal_Flat @ <6642.995605, 310.051453, 7856.588867> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [14] ZmbM_PatrolNormal_Flat @ <6662.063965, 310.242737, 7867.301758> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [15] ZmbM_PatrolNormal_PautRev @ <6675.581543, 308.752594, 7858.880371> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [16] ZmbM_PatrolNormal_Summer @ <6667.911621, 304.635010, 7807.236816> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [17] ZmbM_PatrolNormal_PautRev @ <6707.953613, 304.252716, 7830.237305> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [18] ZmbM_PatrolNormal_Summer @ <6636.955078, 308.049164, 7832.265625> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [19] ZmbM_PatrolNormal_PautRev @ <6704.862793, 304.899353, 7835.239258> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [20] ZmbM_PatrolNormal_Summer @ <6695.800781, 305.121613, 7829.588379> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [21] ZmbM_PatrolNormal_PautRev @ <6652.875488, 309.245117, 7851.280762> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [22] ZmbM_PatrolNormal_PautRev @ <6625.150391, 309.097107, 7841.113281> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [23] ZmbM_PatrolNormal_PautRev @ <6669.628906, 304.669647, 7808.483887> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [24] ZmbM_SoldierNormal @ <6666.103027, 307.217224, 7834.496582> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [25] ZmbM_PatrolNormal_PautRev @ <6686.505859, 308.149200, 7860.596191> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Drop spawned with 25 infected at <6666.271484, 447.925507, 7840.935059>.
+[EOnDrop] Supplies have been dropped near Stary/Novy .
+[EOnBeforeDelete] Aircraft despawned @ <-1001.290649, 226.907990, 2777.619141>
+[~AirdropPlane] Aircraft destroyed.

@@ -1,0 +1,62 @@
+[AirdropBase] Base class created & settings loaded.
+[2021-04-05 @ 13-26-57] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Novaya Petrovka <3100.000000, 0.000000, 12840.000000>
+[EOnCallAirdrop] Drop zone offset to: <3073.741943, 2438.000000, 12912.194336>
+[EOnCallAirdrop] Aircraft spawn point: <-920.000000, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -1.85348° / 196.197°, Text: 'South (196°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Novaya Petrovka' from the South (196°).
+[ReplaceAirdropFlare] 'Road Flare' activted in player's hand (Sarah).
+[2021-04-05 @ 13-27-54] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <11413.583008, 327.568604, 11377.004883>
+[EOnCallAirdrop] Drop zone offset to: <11403.175781, 2438.000000, 11422.723633>
+[EOnCallAirdrop] Aircraft spawn point: <10909.933594, 2438.000000, 16360.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 1.67153° / 354.229°, Text: 'North (354°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (10909.9/16360) from the North (354°).
+[2021-04-05 @ 13-52-13] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Stary/Novy  <6600.000000, 0.000000, 7800.000000>
+[EOnCallAirdrop] Drop zone offset to: <6562.527832, 2438.000000, 7768.143066>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 14564.502930>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 2.41429° / 311.671°, Text: 'North/West (312°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Stary/Novy ' from the North/West (312°).
+[2021-04-05 @ 14-17-29] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Soverograd <8566.000000, 0.000000, 12755.000000>
+[EOnCallAirdrop] Drop zone offset to: <8594.784180, 2438.000000, 12714.521484>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 1656.953613>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -0.958538° / 144.92°, Text: 'South/East (145°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Soverograd' from the South/East (145°).
+[2021-04-05 @ 14-42-46] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Veresnik <4000.000000, 0.000000, 7850.000000>
+[EOnCallAirdrop] Drop zone offset to: <4004.882568, 2438.000000, 7858.422363>
+[EOnCallAirdrop] Aircraft spawn point: <3073.112549, 2438.000000, 16360.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 1.67929° / 353.784°, Text: 'North (354°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Veresnik' from the North (354°).
+[2021-04-05 @ 15-08-03] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Myshkino <1900.000000, 0.000000, 7600.000000>
+[EOnCallAirdrop] Drop zone offset to: <1808.435913, 2438.000000, 7626.564941>
+[EOnCallAirdrop] Aircraft spawn point: <1626.225220, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -1.60262° / 181.823°, Text: 'South (182°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Myshkino' from the South (182°).
+[2021-04-05 @ 15-33-19] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Northwest Airfield <4500.000000, 0.000000, 10350.000000>
+[EOnCallAirdrop] Drop zone offset to: <4487.459473, 2438.000000, 10414.915039>
+[EOnCallAirdrop] Aircraft spawn point: <10812.450195, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -1.06323° / 150.919°, Text: 'South/East (151°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Northwest Airfield' from the South/East (151°).
+[2021-04-05 @ 15-58-35] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Gorka <8775.000000, 0.000000, 9200.000000>
+[EOnCallAirdrop] Drop zone offset to: <8689.592773, 2438.000000, 9204.254883>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 2934.304688>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -0.690433° / 129.559°, Text: 'South/East (130°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Gorka' from the South/East (130°).
+[2021-04-05 @ 16-23-51] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Stary/Novy  <6600.000000, 0.000000, 7800.000000>
+[EOnCallAirdrop] Drop zone offset to: <6640.166992, 2438.000000, 7818.744141>
+[EOnCallAirdrop] Aircraft spawn point: <16292.714844, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -0.737162° / 132.236°, Text: 'South/East (132°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Stary/Novy ' from the South/East (132°).
+[2021-04-05 @ 16-49-07] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Elektrozavodsk <10050.000000, 0.000000, 2450.000000>
+[EOnCallAirdrop] Drop zone offset to: <10043.894531, 2438.000000, 2488.453857>
+[EOnCallAirdrop] Aircraft spawn point: <13296.688477, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -0.815749° / 136.739°, Text: 'South/East (137°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Elektrozavodsk' from the South/East (137°).

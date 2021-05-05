@@ -1,0 +1,25 @@
+[InitializeContainer] Container created on 2021-03-07 @ 07-04-58
+[InitializeContainer] Winds: Vector <9.333809, 0.000000, -3.506120>, Speed 9.9706mps, Strength 0.1
+[AirdropContainerFall] Drop Type 'Military Weapons', Container: 'AirdropContainer_Military', Mode/Quantity/Iems: Random/20/18, Flare:  10%
+[AirdropContainerFall] Loot Spawned [1] AmmoBox_762x39_20Rnd @ <7403.915527, 319.983215, 7806.296875> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [2] Mosin_Compensator @ <7403.532227, 319.898315, 7806.012207> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [3] Mosin_Bayonet @ <7403.220703, 319.936829, 7808.002930> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [4] Mag_AKM_30Rnd @ <7404.498535, 320.104919, 7807.084473> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [5] Izh18 @ <7404.321289, 319.946289, 7804.458984> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [6] Mosin_Bayonet @ <7402.692871, 319.711365, 7805.583008> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [7] TTSKOPants @ <7405.543945, 320.113159, 7803.471680> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [8] AKM @ <7405.999512, 320.365692, 7807.632324> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [9] M4A1 @ <7403.777344, 319.978333, 7806.775391> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [10] LandMineTrap @ <7403.783203, 320.030182, 7808.081055> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [11] LargeTent @ <7405.553223, 320.125000, 7803.625488> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [12] M4A1 @ <7404.651367, 320.134125, 7807.216797> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [13] Mosin_Bayonet @ <7402.100586, 319.585480, 7805.357422> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Spawn failed for item [14] 'PlateCarrierComplete', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [15] Mag_STANAG_30Rnd @ <7403.701172, 319.943695, 7806.216797> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Spawn failed for item [16] 'PlateCarrierComplete', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [17] TTSKOPants @ <7405.485840, 320.292664, 7807.847656> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [18] Mag_STANAG_30Rnd @ <7403.096680, 319.705627, 7804.325195> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [19] M4A1 @ <7405.336426, 320.237152, 7807.035645> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [20] AKM @ <7405.897461, 320.300476, 7806.299805> ... Lifespan: Set to 30 minutes.
+[AirdropContainerUnstuck] Container was unstuck.
+[~AirdropContainerBase] Container Destroyed on 2021-03-07 @ 08-04-58

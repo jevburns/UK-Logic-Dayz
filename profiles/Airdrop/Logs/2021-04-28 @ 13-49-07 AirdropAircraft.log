@@ -1,0 +1,12 @@
+[AirdropPlane] Aircraft created on 2021-04-28 @ 13-49-07
+[InitializeAircraft] Aircraft Initialized: Veresnik @ 4000/7850 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Veresnik. @ <5477.896973, 462.125702, 7603.532227>
+[EOnDrop] Zombie Spawned [1] ZmbF_MilkMaidOld_Black @ <4058.458496, 298.935425, 7808.770020> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbF_MilkMaidOld_Black @ <4112.750488, 303.311615, 7858.763184> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbF_MilkMaidOld_Grey @ <4112.386719, 301.635162, 7821.420410> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbF_SurvivorNormal_Orange @ <4087.735840, 300.338043, 7818.520020> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_MotobikerFat_Beige @ <4090.036621, 302.165466, 7865.076660> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 5 infected at <4085.023926, 446.376678, 7836.571289>.
+[EOnDrop] Supplies have been dropped near Veresnik.
+[EOnBeforeDelete] Aircraft despawned @ <-1001.063538, 357.291351, 8687.545898>
+[~AirdropPlane] Aircraft destroyed.

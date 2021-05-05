@@ -307,7 +307,7 @@ class CityMallMission extends SurvivorMissions
 		}
 		if (selectedLoadout == 1)
 		{
-			weapon = MissionObject.GetInventory().CreateInInventory("KOD_AX50");
+			weapon = MissionObject.GetInventory().CreateInInventory("A2AA12");
 			MissionObject.GetInventory().CreateInInventory("Mag_KOD_AX50_5Rnd");
 			MissionObject.GetInventory().CreateInInventory("Mag_KOD_AX50_5Rnd");
 			MissionObject.GetInventory().CreateInInventory("Mag_KOD_AX50_5Rnd");

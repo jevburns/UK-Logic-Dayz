@@ -1,0 +1,25 @@
+[InitializeContainer] Container created on 2021-03-27 @ 03-46-04
+[InitializeContainer] Winds: Vector <-10.695362, 0.000000, 13.720738>, Speed 17.3968mps, Strength 0.1
+[AirdropContainerFall] Drop Type 'Military West', Container: 'AirdropContainer_Military', Mode/Quantity/Iems: Random/20/46, Flare:  10%
+[AirdropContainerFall] Loot Spawned [1] Battery9V @ <11474.328125, 35.293602, 14279.203125> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [2] KOD_M16A4 @ <11470.627930, 36.391590, 14283.747070> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [3] Canteen @ <11476.164063, 36.053986, 14281.692383> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [4] UKAssVest_Camo @ <11474.905273, 36.139328, 14282.575195> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [5] WeaponCleaningKit @ <11470.948242, 36.032116, 14281.452148> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [6] UKAssVest_Khaki @ <11470.457031, 35.823147, 14280.180664> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [7] USMCPants_Woodland @ <11471.965820, 36.378048, 14283.785156> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [8] UniversalLight @ <11475.795898, 36.082485, 14281.996094> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [9] UKAssVest_Olive @ <11471.694336, 36.082428, 14281.700195> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [10] M4_T3NrdSOptic @ <11472.012695, 36.318199, 14283.240234> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [11] AmmoBox_556x45_20Rnd @ <11471.452148, 35.996067, 14281.178711> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [12] M4_T3NrdSOptic @ <11474.767578, 36.072189, 14281.898438> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [13] AssaultBag_Black @ <11471.581055, 36.432865, 14284.164063> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [14] Canteen @ <11471.003906, 35.915272, 14280.710938> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [15] M4_CQBBttstck @ <11471.681641, 36.407722, 14283.963867> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [16] AssaultBag_Black @ <11470.640625, 36.114033, 14281.997070> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [17] UniversalLight @ <11474.275391, 35.276802, 14279.179688> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [18] UniversalLight @ <11473.875977, 35.750957, 14279.865234> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [19] UKAssVest_Khaki @ <11476.265625, 36.016006, 14281.326172> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [20] UKAssVest_Olive @ <11473.207031, 36.410446, 14284.522461> ... Lifespan: Set to 30 minutes.
+[AirdropContainerUnstuck] Container was unstuck.
+[~AirdropContainerBase] Container Destroyed on 2021-03-27 @ 04-11-04

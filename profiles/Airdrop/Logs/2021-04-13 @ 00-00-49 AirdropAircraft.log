@@ -1,0 +1,22 @@
+[AirdropPlane] Aircraft created on 2021-04-13 @ 00-00-49
+[InitializeAircraft] Aircraft Initialized: Myshkino @ 1900/7600 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Myshkino. @ <3393.901855, 455.037659, 7728.465820>
+[EOnDrop] Zombie Spawned [1] ZmbM_HunterOld_Summer @ <2001.921997, 297.179504, 7609.687012> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbF_HikerSkinny_Blue @ <1971.213257, 288.366028, 7596.600586> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbF_HikerSkinny_Red @ <2016.888916, 296.118530, 7566.992188> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_VillagerOld_Blue @ <2009.078247, 299.006775, 7614.729004> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbF_VillagerOld_Blue @ <1970.822510, 289.722504, 7613.632813> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbM_HermitSkinny_Black @ <1990.328491, 294.036377, 7599.720703> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbF_VillagerOld_Green @ <1990.884888, 294.462524, 7604.752930> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbF_HikerSkinny_Red @ <2020.179321, 300.345612, 7603.832031> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbM_HunterOld_Summer @ <1986.333740, 293.274139, 7601.099609> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbF_VillagerOld_Blue @ <1992.015137, 290.044922, 7572.407715> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [11] ZmbF_MilkMaidOld_Beige @ <2041.121094, 303.639526, 7593.756348> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [12] ZmbF_VillagerOld_Red @ <1998.870850, 297.063904, 7634.313965> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Spawn failed for zombie [13] 'ZmbM_SurvivorDean_Black', it does not exist in DayZ!
+[EOnDrop] Zombie Spawned [14] ZmbF_HikerSkinny_Green @ <2004.081177, 296.980560, 7602.068359> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Spawn failed for zombie [15] 'ZmbM_SurvivorDean_Black', it does not exist in DayZ!
+[EOnDrop] Drop spawned with 15 infected at <1994.599121, 461.378235, 7609.028320>.
+[EOnDrop] Supplies have been dropped near Myshkino.
+[EOnBeforeDelete] Aircraft despawned @ <-1000.114624, 412.529816, 7353.418945>
+[~AirdropPlane] Aircraft destroyed.

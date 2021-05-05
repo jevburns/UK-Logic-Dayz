@@ -204,7 +204,7 @@ class PlaneCrashMission extends SurvivorMissions
 			MissionObject = ItemBase.Cast( GetGame().CreateObject( "WoodenCrate", CrashedC130.ModelToWorld( ContainerSpawns.Get(i))));
 			
 			//Get random loadout 
-			selectedLoadout = Math.RandomIntInclusive(0,3);	//!change randomization limit after adding new loadouts!	
+			selectedLoadout = Math.RandomIntInclusive(0,2);	//!change randomization limit after adding new loadouts!	
 		
 			//Spawn selected loadout items in mission object
 			EntityAI weapon;
@@ -222,18 +222,6 @@ class PlaneCrashMission extends SurvivorMissions
 		}
 		if (selectedLoadout == 1)
 		{
-			weapon = MissionObject.GetInventory().CreateInInventory("KOD_AX50");
-			MissionObject.GetInventory().CreateInInventory("Mag_KOD_AX50_5Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_KOD_AX50_5Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_KOD_AX50_5Rnd");
-			MissionObject.GetInventory().CreateInInventory("Mag_KOD_AX50_5Rnd");
-			MissionObject.GetInventory().CreateInInventory("KOD_AKALPHA");
-			MissionObject.GetInventory().CreateInInventory("KOD_Ruger");
-			MissionObject.GetInventory().CreateInInventory("Hatchet"); 
-			MissionObject.GetInventory().CreateInInventory("Ap_vip_coin");
-		}
-		if (selectedLoadout == 2)
-		{
 			weapon = MissionObject.GetInventory().CreateInInventory("KOD_M110_Tan");
 			MissionObject.GetInventory().CreateInInventory("Mag_KOD_M110_20Rnd");
 			MissionObject.GetInventory().CreateInInventory("Mag_KOD_M110_20Rnd");
@@ -244,7 +232,7 @@ class PlaneCrashMission extends SurvivorMissions
 			MissionObject.GetInventory().CreateInInventory("LeatherSewingKit");
 			MissionObject.GetInventory().CreateInInventory("Ap_vip_coin");
 		}
-		if (selectedLoadout == 3)
+		if (selectedLoadout == 2)
 		{
 			weapon = MissionObject.GetInventory().CreateInInventory("A2AA12");
 			MissionObject.GetInventory().CreateInInventory("A2AA12_Magazine");

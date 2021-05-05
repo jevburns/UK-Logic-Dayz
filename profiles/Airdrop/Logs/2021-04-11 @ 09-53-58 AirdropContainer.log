@@ -1,0 +1,25 @@
+[InitializeContainer] Container created on 2021-04-11 @ 09-53-58
+[InitializeContainer] Winds: Vector <5.330270, 0.000000, -6.562250>, Speed 8.45428mps, Strength 0.1
+[AirdropContainerFall] Drop Type 'Military East', Container: 'AirdropContainer_Military', Mode/Quantity/Iems: Random/20/33, Flare:  10%
+[AirdropContainerFall] Loot Spawned [1] TacticalBaconCan @ <6575.348145, 311.945740, 7878.407227> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [2] GorkaPants_Flat @ <6573.316406, 311.595215, 7875.020996> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [3] TacticalGloves_Black @ <6577.570313, 311.748383, 7876.287109> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [4] AKM @ <6575.364258, 311.558228, 7874.487305> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [5] GorkaPants_Autumn @ <6575.565430, 311.542572, 7874.307129> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [6] AK_Suppressor @ <6576.991211, 311.927399, 7878.132324> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [7] TacticalGloves_Green @ <6577.578613, 311.722778, 7876.026855> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [8] Mag_AKM_30Rnd @ <6577.053223, 311.716461, 7875.991211> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [9] AK_Suppressor @ <6572.921387, 311.546082, 7874.531250> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [10] KOD_M16A4 @ <6576.969238, 311.672638, 7875.551270> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [11] AK101 @ <6573.950684, 311.878784, 7877.813965> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [12] AK_PlasticBttstck @ <6574.961914, 311.888336, 7877.846191> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [13] AKM @ <6572.952637, 311.762451, 7876.716797> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [14] Binoculars @ <6575.468262, 311.859467, 7877.526855> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [15] AK101 @ <6576.257324, 311.603516, 7874.902344> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [16] KOD_M110_Tan @ <6577.838867, 311.886566, 7877.672852> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [17] AK_Bayonet @ <6575.333496, 311.974762, 7878.702148> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [18] Mag_AKM_30Rnd @ <6573.034668, 311.845123, 7877.538574> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [19] TTSKOPants @ <6572.196777, 311.609009, 7875.233398> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [20] GorkaEJacket_PautRev @ <6576.259766, 311.954651, 7878.448242> ... Lifespan: Set to 30 minutes.
+[AirdropContainerUnstuck] Container was unstuck.
+[~AirdropContainerBase] Container Destroyed on 2021-04-11 @ 10-18-58

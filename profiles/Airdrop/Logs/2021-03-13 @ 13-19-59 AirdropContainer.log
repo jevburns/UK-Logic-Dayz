@@ -1,0 +1,25 @@
+[InitializeContainer] Container created on 2021-03-13 @ 13-19-59
+[InitializeContainer] Winds: Vector <5.248024, 0.000000, -6.592276>, Speed 8.42614mps, Strength 0.1
+[AirdropContainerFall] Drop Type 'Medical', Container: 'AirdropContainer_Medical', Mode/Quantity/Iems: Random/20/37, Flare:  10%
+[AirdropContainerFall] Loot Spawned [1] SalineBagIV @ <5063.541016, 285.315979, 6159.817871> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [2] BandageDressing @ <5063.272461, 285.388367, 6160.279785> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [3] TetracyclineAntibiotics @ <5061.718750, 285.883209, 6164.164063> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [4] BloodTestKit @ <5062.915527, 285.958252, 6164.932617> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Spawn failed for item [5] 'CharcolaTablets', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [6] SurgicalGloves_LightBlue @ <5063.424316, 285.918335, 6164.775391> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Spawn failed for item [7] 'MedicalScrubPants_Green', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [8] SurgicalGloves_Blue @ <5064.708008, 285.811310, 6164.338379> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [9] Rag @ <5062.749512, 286.065521, 6165.983398> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [10] Heatpack @ <5061.192383, 285.667419, 6162.278809> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Spawn failed for item [11] 'MedicalScrubPants_Blue', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [12] SurgicalGloves_Blue @ <5061.361816, 285.522064, 6160.990234> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [13] Rag @ <5066.319336, 285.771759, 6164.386719> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Spawn failed for item [14] 'MedicalScrubPants_Green', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [15] Epinephrine @ <5064.057129, 285.950104, 6165.158203> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [16] AK101 @ <5062.958496, 285.327576, 6159.536133> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [17] BandageDressing @ <5065.188477, 285.300934, 6160.770508> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [18] PainkillerTablets @ <5062.877441, 285.399475, 6160.117188> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [19] TetracyclineAntibiotics @ <5063.077148, 285.539917, 6161.487793> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [20] TetracyclineAntibiotics @ <5062.839844, 285.432159, 6160.380859> ... Lifespan: Set to 60 minutes.
+[AirdropContainerUnstuck] Container was unstuck.
+[~AirdropContainerBase] Container Destroyed on 2021-03-13 @ 13-44-59

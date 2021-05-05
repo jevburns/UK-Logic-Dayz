@@ -1,0 +1,23 @@
+{
+    "m_ClanID": "ZenaYk9suVuh9ZIm",
+    "m_OwnersPlainID": "76561198068395829",
+    "m_ClanName": "Clan Name232",
+    "m_Prefix": "stg",
+    "m_BankAmount": 22,
+    "m_Members": [
+        {
+            "m_plainID": "76561198068395829",
+            "m_playername": "Jev",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 1,
+                "m_CanKick": 1,
+                "m_CanEdit": 1
+            }
+        }
+    ],
+    "m_ClanLogs": [
+        "Jev deposited: 22"
+    ]
+}

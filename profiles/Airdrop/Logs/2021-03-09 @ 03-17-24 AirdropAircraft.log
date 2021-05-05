@@ -1,0 +1,12 @@
+[AirdropPlane] Aircraft created on 2021-03-09 @ 03-17-24
+[InitializeAircraft] Aircraft Initialized: Stary/Novy  @ 6600/7800 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Stary/Novy . @ <8032.086426, 551.853149, 8245.053711>
+[EOnDrop] Zombie Spawned [1] ZmbM_PatrolNormal_Autumn @ <6723.015137, 302.578735, 7822.127441> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_PatrolNormal_Summer @ <6665.163086, 306.078979, 7821.547363> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_PatrolNormal_PautRev @ <6651.760742, 304.735504, 7801.541016> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_PatrolNormal_PautRev @ <6699.487305, 300.767029, 7785.646973> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_PatrolNormal_Flat @ <6679.104492, 303.351929, 7799.768555> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 5 infected at <6678.724609, 444.095032, 7821.881348>.
+[EOnDrop] Supplies have been dropped near Stary/Novy .
+[EOnBeforeDelete] Aircraft despawned @ <-1001.310486, 364.618134, 5420.705078>
+[~AirdropPlane] Aircraft destroyed.

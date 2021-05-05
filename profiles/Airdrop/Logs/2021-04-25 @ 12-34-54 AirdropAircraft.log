@@ -1,0 +1,17 @@
+[AirdropPlane] Aircraft created on 2021-04-25 @ 12-34-54
+[InitializeAircraft] Aircraft Initialized: Elektrozavodsk @ 10050/2450 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Elektrozavodsk. @ <9008.960938, 354.407349, 3527.739258>
+[EOnDrop] Zombie Spawned [1] ZmbF_PatientOld @ <10011.091797, 52.947830, 2471.336670> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_JoggerSkinny_Red @ <9982.909180, 57.019173, 2506.477783> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbF_ShortSkirt_grey @ <10011.166016, 52.136459, 2519.013428> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_SkaterYoung_Green @ <9992.446289, 54.910351, 2515.709717> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbF_ShortSkirt_checks @ <9999.498047, 52.157585, 2540.176025> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbM_Jacket_brown @ <9966.488281, 58.369179, 2529.480957> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbF_ShortSkirt_stripes @ <9999.849609, 53.681545, 2517.129150> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbF_JoggerSkinny_Brown @ <10026.460938, 49.049145, 2540.632324> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbM_PrisonerSkinny @ <9988.066406, 53.722843, 2540.888672> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbF_SkaterYoung_Violet @ <9951.355469, 61.542355, 2519.600830> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 10 infected at <9993.123047, 209.345901, 2509.887695>.
+[EOnDrop] Supplies have been dropped near Elektrozavodsk.
+[EOnBeforeDelete] Aircraft despawned @ <13386.739258, 152.000610, -1000.094727>
+[~AirdropPlane] Aircraft destroyed.

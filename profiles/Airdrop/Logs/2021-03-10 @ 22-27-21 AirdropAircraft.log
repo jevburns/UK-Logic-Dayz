@@ -1,0 +1,17 @@
+[AirdropPlane] Aircraft created on 2021-03-10 @ 22-27-21
+[InitializeAircraft] Aircraft Initialized: Chernogorsk @ 7400/3500 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Chernogorsk. @ <8466.005859, 154.115479, 2445.970703>
+[EOnDrop] Zombie Spawned [1] ZmbM_OffshoreWorker_Green @ <7471.506348, 6.500000, 3475.553223> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_HandymanNormal_White @ <7435.724121, 6.945713, 3415.400879> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_ConstrWorkerNormal_Black @ <7451.080566, 6.573485, 3428.762207> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_ConstrWorkerNormal_Black @ <7469.279297, 6.499073, 3420.694824> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_HandymanNormal_Blue @ <7426.328613, 7.500692, 3443.406494> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbF_BlueCollarFat_Green @ <7487.228516, 6.557055, 3392.218262> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbM_OffshoreWorker_Red @ <7487.331055, 6.500000, 3471.849609> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbM_HandymanNormal_Blue @ <7480.727051, 6.552601, 3391.276367> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbF_MechanicNormal_Green @ <7433.702148, 7.194130, 3430.697266> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbF_BlueCollarFat_Red @ <7503.810547, 6.490000, 3463.916260> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 10 infected at <7465.313477, 147.530121, 3434.285400>.
+[EOnDrop] Supplies have been dropped near Chernogorsk.
+[EOnBeforeDelete] Aircraft despawned @ <-1000.646118, 560.224915, 11794.936523>
+[~AirdropPlane] Aircraft destroyed.

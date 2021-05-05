@@ -1,0 +1,12 @@
+[AirdropPlane] Aircraft created on 2021-05-01 @ 13-29-15
+[InitializeAircraft] Aircraft Initialized: Skalisty Island @ 13575/3055 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Skalisty Island. @ <14034.281250, 152.000610, 4481.408203>
+[EOnDrop] Spawn failed for zombie [1] 'ZmbM_SurvivorDean_Grey', it does not exist in DayZ!
+[EOnDrop] Spawn failed for zombie [2] 'ZmbM_SurvivorDean_Black', it does not exist in DayZ!
+[EOnDrop] Zombie Spawned [3] ZmbM_HunterOld_Autumn @ <13599.929688, 40.173298, 3129.695313> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbF_VillagerOld_Blue @ <13630.015625, 31.015299, 3136.745361> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbF_SurvivorNormal_Red @ <13629.752930, 29.137835, 3145.967285> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 5 infected at <13601.437500, 162.494751, 3143.238770>.
+[EOnDrop] Supplies have been dropped near Skalisty Island.
+[EOnBeforeDelete] Aircraft despawned @ <12260.750000, 152.000610, -1001.740601>
+[~AirdropPlane] Aircraft destroyed.

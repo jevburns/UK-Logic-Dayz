@@ -1,0 +1,25 @@
+[InitializeContainer] Container created on 2021-04-02 @ 15-10-16
+[InitializeContainer] Winds: Vector <6.286199, 0.000000, -6.136187>, Speed 8.78459mps, Strength 0.1
+[AirdropContainerFall] Drop Type 'Medical', Container: 'AirdropContainer_Medical', Mode/Quantity/Iems: Random/20/37, Flare:  10%
+[AirdropContainerFall] Loot Spawned [1] Epinephrine @ <8767.534180, 381.100433, 9099.563477> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [2] AK101 @ <8768.496094, 381.062592, 9099.364258> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [3] KOD_M16A4 @ <8764.241211, 381.720123, 9103.807617> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [4] KOD_M16A4 @ <8769.252930, 381.251343, 9102.421875> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [5] VitaminBottle @ <8767.572266, 381.165436, 9100.532227> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Spawn failed for item [6] 'MedicalScrubPants_Green', does not exist in DayZ!
+[AirdropContainerFall] Spawn failed for item [7] 'MedicalScrubPants_Green', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [8] DisinfectantAlcohol @ <8765.824219, 381.340332, 9100.581055> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [9] SurgicalGloves_LightBlue @ <8764.459961, 381.514252, 9101.105469> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [10] SalineBagIV @ <8767.958008, 381.409454, 9104.265625> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [11] WaterBottle @ <8768.415039, 381.393402, 9104.193359> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Spawn failed for item [12] 'MedicalScrubShirt_Blue', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [13] TetracyclineAntibiotics @ <8769.293945, 381.440704, 9105.152344> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Spawn failed for item [14] 'MedicalScrubShirt_Green', does not exist in DayZ!
+[AirdropContainerFall] Spawn failed for item [15] 'CharcolaTablets', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [16] TetracyclineAntibiotics @ <8767.746094, 381.390442, 9103.906250> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [17] SurgicalMask @ <8770.233398, 381.282501, 9103.191406> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [18] BloodSyringe @ <8766.080078, 381.287262, 9100.182617> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [19] PurificationTablets @ <8765.337891, 381.697845, 9105.093750> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [20] SurgicalGloves_Green @ <8768.502930, 381.220642, 9101.691406> ... Lifespan: Set to 30 minutes.
+[AirdropContainerUnstuck] Container was unstuck.
+[~AirdropContainerBase] Container Destroyed on 2021-04-02 @ 15-35-16

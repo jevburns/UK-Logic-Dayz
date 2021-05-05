@@ -156,7 +156,7 @@ class BearHuntMission extends SurvivorMissions
 		}
 		if (selectedLoadout == 1)
 		{
-			weapon = MissionObject.GetInventory().CreateInInventory("KOD_AX50");
+			weapon = MissionObject.GetInventory().CreateInInventory("KOD_M110_Tan");
 			MissionObject.GetInventory().CreateInInventory("Mag_KOD_AX50_5Rnd");
 			MissionObject.GetInventory().CreateInInventory("Mag_KOD_AX50_5Rnd");
 			MissionObject.GetInventory().CreateInInventory("Mag_KOD_AX50_5Rnd");

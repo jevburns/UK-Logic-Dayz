@@ -1,0 +1,32 @@
+[AirdropPlane] Aircraft created on 2021-04-19 @ 22-17-41
+[InitializeAircraft] Aircraft Initialized: Novaya Petrovka @ 3100/12840 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Novaya Petrovka. @ <1751.616699, 424.131775, 12184.544922>
+[EOnDrop] Zombie Spawned [1] ZmbM_ParamedicNormal_Green @ <3053.666748, 208.717484, 12799.931641> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_SkaterYoung_Grey @ <3017.744873, 210.124252, 12801.506836> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbF_SkaterYoung_Brown @ <3006.947998, 210.448685, 12796.024414> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbF_Clerk_Normal_Red @ <2973.670654, 212.194290, 12822.078125> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_JournalistSkinny @ <2993.477783, 210.643509, 12767.826172> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbM_ParamedicNormal_Red @ <2969.303955, 211.495560, 12786.121094> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbM_CommercialPilotOld_Blue @ <3020.799316, 210.069687, 12806.083008> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbF_Clerk_Normal_Green @ <3057.259033, 208.657608, 12813.906250> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbF_ParamedicNormal_Red @ <3002.711914, 210.735352, 12809.939453> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbM_Jacket_stripes @ <3012.165527, 210.182571, 12755.613281> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [11] ZmbF_ShortSkirt_yellow @ <2991.686768, 211.064392, 12803.916016> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [12] ZmbM_ClerkFat_Khaki @ <2992.421875, 211.355728, 12836.033203> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [13] ZmbM_CitizenASkinny_Blue @ <3032.793701, 209.835022, 12823.586914> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [14] ZmbF_ShortSkirt_white @ <3022.625977, 210.093491, 12813.582031> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [15] ZmbM_SkaterYoung_Green @ <3042.302002, 209.353638, 12815.485352> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [16] ZmbM_PrisonerSkinny @ <2975.786621, 211.446289, 12790.539063> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [17] ZmbM_CitizenASkinny_Brown @ <3044.589600, 208.964630, 12787.245117> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [18] ZmbM_Jacket_greenchecks @ <2985.183350, 211.001038, 12777.527344> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [19] ZmbM_ClerkFat_Brown @ <3002.279785, 211.007370, 12843.247070> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [20] ZmbM_Jacket_greenchecks @ <3018.189697, 210.083374, 12799.120117> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [21] ZmbF_ShortSkirt_stripes @ <3011.273438, 210.202469, 12766.583008> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [22] ZmbF_SkaterYoung_Violet @ <2996.246094, 211.007095, 12814.402344> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [23] ZmbM_ParamedicNormal_Red @ <2997.616699, 210.905884, 12809.069336> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [24] ZmbF_ParamedicNormal_Green @ <3012.949951, 210.170212, 12761.746094> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [25] ZmbF_ShortSkirt_yellow @ <3008.455322, 210.299316, 12761.085938> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Drop spawned with 25 infected at <3012.883057, 357.302032, 12797.951172>.
+[EOnDrop] Supplies have been dropped near Novaya Petrovka.
+[EOnBeforeDelete] Aircraft despawned @ <10338.080078, 424.292389, 16360.263672>
+[~AirdropPlane] Aircraft destroyed.

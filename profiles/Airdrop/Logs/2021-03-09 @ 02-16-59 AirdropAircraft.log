@@ -1,0 +1,12 @@
+[AirdropPlane] Aircraft created on 2021-03-09 @ 02-16-59
+[InitializeAircraft] Aircraft Initialized: Skalisty Island @ 13575/3055 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Skalisty Island. @ <12421.008789, 292.334320, 4012.792969>
+[EOnDrop] Zombie Spawned [1] ZmbF_SurvivorNormal_Orange @ <13520.687500, 31.806421, 3141.976807> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbF_SurvivorNormal_White @ <13524.666992, 28.185598, 3100.943848> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_HermitSkinny_Black @ <13510.833984, 24.961763, 3120.302490> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbF_MilkMaidOld_Grey @ <13518.932617, 27.542620, 3122.172363> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbF_MilkMaidOld_Black @ <13534.728516, 34.291916, 3132.978516> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 5 infected at <13509.823242, 174.674942, 3107.657715>.
+[EOnDrop] Supplies have been dropped near Skalisty Island.
+[EOnBeforeDelete] Aircraft despawned @ <16360.915039, 152.000610, 737.650696>
+[~AirdropPlane] Aircraft destroyed.

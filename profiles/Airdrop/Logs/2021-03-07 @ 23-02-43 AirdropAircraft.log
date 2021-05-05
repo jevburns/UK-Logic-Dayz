@@ -1,0 +1,17 @@
+[AirdropPlane] Aircraft created on 2021-03-07 @ 23-02-43
+[InitializeAircraft] Aircraft Initialized: Chernogorks @ 6128/2497 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Chernogorks. @ <7602.035156, 152.450317, 2771.832520>
+[EOnDrop] Zombie Spawned [1] ZmbM_PatientSkinny @ <6206.900879, 10.729950, 2522.306396> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbF_Clerk_Normal_White @ <6204.885254, 12.145057, 2495.713135> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_ParamedicNormal_Black @ <6178.550781, 15.528943, 2496.148193> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_PatrolNormal_Flat @ <6234.005859, 9.214015, 2511.189209> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_JournalistSkinny @ <6216.281250, 9.500159, 2515.982910> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbM_PatrolNormal_Flat @ <6203.102539, 11.250951, 2533.543457> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbM_ClerkFat_Khaki @ <6234.041504, 9.203152, 2520.041748> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbM_PatrolNormal_PautRev @ <6232.941406, 9.202508, 2504.127930> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbM_ParamedicNormal_Red @ <6234.878906, 8.538419, 2549.431152> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbF_ParamedicNormal_Green @ <6225.608398, 8.625777, 2517.956543> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Drop spawned with 10 infected at <6211.912109, 150.321411, 2512.347656>.
+[EOnDrop] Supplies have been dropped near Chernogorks.
+[EOnBeforeDelete] Aircraft despawned @ <-1000.286560, 193.792938, 1166.375000>
+[~AirdropPlane] Aircraft destroyed.

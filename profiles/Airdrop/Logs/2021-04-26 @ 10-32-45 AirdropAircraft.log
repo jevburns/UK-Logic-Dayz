@@ -1,0 +1,12 @@
+[AirdropPlane] Aircraft created on 2021-04-26 @ 10-32-45
+[InitializeAircraft] Aircraft Initialized: Myshkino @ 1900/7600 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Myshkino. @ <1258.595093, 393.560547, 8954.234375>
+[EOnDrop] Zombie Spawned [1] ZmbF_MilkMaidOld_Beige @ <1847.317627, 282.875244, 7685.095215> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbF_HikerSkinny_Grey @ <1899.224243, 278.445343, 7640.400879> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbF_SurvivorNormal_Red @ <1871.103638, 283.303497, 7679.038086> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbF_SurvivorNormal_Blue @ <1871.344238, 279.416718, 7650.728027> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_MotobikerFat_Blue @ <1837.266357, 281.938782, 7679.798340> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 5 infected at <1868.414429, 431.764008, 7665.461914>.
+[EOnDrop] Supplies have been dropped near Myshkino.
+[EOnBeforeDelete] Aircraft despawned @ <5969.635254, 152.000610, -1000.690247>
+[~AirdropPlane] Aircraft destroyed.

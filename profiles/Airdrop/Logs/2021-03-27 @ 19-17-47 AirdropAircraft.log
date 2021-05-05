@@ -1,0 +1,32 @@
+[AirdropPlane] Aircraft created on 2021-03-27 @ 19-17-47
+[InitializeAircraft] Aircraft Initialized: Skalisty Island @ 13575/3055 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Skalisty Island. @ <13657.422852, 152.000610, 4552.112305>
+[EOnDrop] Zombie Spawned [1] ZmbM_FarmerFat_Green @ <13586.060547, 40.626312, 3138.139648> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_HunterOld_Spring @ <13597.000977, 41.865307, 3102.825195> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_FarmerFat_Beige @ <13569.159180, 38.618111, 3167.478027> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbF_VillagerOld_Red @ <13582.353516, 40.332245, 3144.940674> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_MotobikerFat_Black @ <13566.839844, 39.833443, 3162.902832> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbM_MotobikerFat_Black @ <13610.296875, 39.170834, 3121.106445> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbM_HunterOld_Autumn @ <13545.709961, 38.453758, 3117.551758> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbF_VillagerOld_Red @ <13566.561523, 36.984562, 3093.100586> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbM_HermitSkinny_Green @ <13593.163086, 40.893665, 3129.113525> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbM_HikerSkinny_Yellow @ <13569.791992, 38.183552, 3168.660645> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [11] ZmbM_HikerSkinny_Green @ <13580.533203, 39.115631, 3089.632080> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [12] ZmbM_FarmerFat_Green @ <13578.314453, 40.712677, 3142.759521> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [13] ZmbM_HunterOld_Autumn @ <13565.790039, 41.492943, 3114.333252> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [14] ZmbF_HikerSkinny_Green @ <13591.227539, 40.689140, 3132.635010> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [15] ZmbM_HermitSkinny_Green @ <13566.065430, 38.874397, 3169.509033> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [16] ZmbF_HikerSkinny_Red @ <13617.024414, 32.545078, 3144.212402> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [17] ZmbF_HikerSkinny_Blue @ <13622.446289, 36.544441, 3113.548584> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [18] ZmbM_FarmerFat_Brown @ <13570.039063, 39.582550, 3103.651123> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [19] ZmbM_MotobikerFat_Black @ <13622.212891, 33.658520, 3133.252930> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [20] ZmbF_VillagerOld_Green @ <13551.576172, 37.112282, 3108.728027> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [21] ZmbM_priestPopSkinny @ <13562.472656, 40.555889, 3148.014160> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [22] ZmbM_FarmerFat_Brown @ <13546.222656, 39.639004, 3150.007080> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [23] ZmbF_SurvivorNormal_White @ <13535.257813, 34.381493, 3131.735107> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [24] ZmbM_HunterOld_Autumn @ <13557.353516, 40.454376, 3145.324707> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [25] ZmbM_FarmerFat_Brown @ <13545.880859, 40.619869, 3159.693604> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Drop spawned with 25 infected at <13578.467773, 173.659302, 3136.304199>.
+[EOnDrop] Supplies have been dropped near Skalisty Island.
+[EOnBeforeDelete] Aircraft despawned @ <13347.725586, 152.000610, -1001.177429>
+[~AirdropPlane] Aircraft destroyed.

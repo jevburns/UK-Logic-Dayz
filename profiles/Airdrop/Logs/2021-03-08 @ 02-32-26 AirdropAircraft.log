@@ -1,0 +1,12 @@
+[AirdropPlane] Aircraft created on 2021-03-08 @ 02-32-26
+[InitializeAircraft] Aircraft Initialized: Stary Sobor @ 5823/7764 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Stary Sobor. @ <4643.927246, 431.824371, 6838.812988>
+[EOnDrop] Zombie Spawned [1] ZmbF_SurvivorNormal_Orange @ <5732.846680, 320.118073, 7728.900391> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbF_MilkMaidOld_Grey @ <5778.755859, 320.387543, 7729.069824> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Spawn failed for zombie [3] 'ZmbM_SurvivorDean_Blue', it does not exist in DayZ!
+[EOnDrop] Zombie Spawned [4] ZmbF_SurvivorNormal_Red @ <5768.590820, 320.667114, 7712.114746> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_HunterOld_Winter @ <5744.220703, 320.426514, 7729.686035> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Drop spawned with 5 infected at <5758.187988, 456.542999, 7712.588379>.
+[EOnDrop] Supplies have been dropped near Stary Sobor.
+[EOnBeforeDelete] Aircraft despawned @ <16360.771484, 259.981750, 16028.930664>
+[~AirdropPlane] Aircraft destroyed.

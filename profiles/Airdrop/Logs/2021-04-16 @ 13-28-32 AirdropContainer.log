@@ -1,0 +1,25 @@
+[InitializeContainer] Container created on 2021-04-16 @ 13-28-32
+[InitializeContainer] Winds: Vector <0.334606, 0.000000, -6.635900>, Speed 6.64433mps, Strength 0.1
+[AirdropContainerFall] Drop Type 'Medical', Container: 'AirdropContainer_Medical', Mode/Quantity/Iems: Random/20/37, Flare:  10%
+[AirdropContainerFall] Loot Spawned [1] MedicalScrubsHat_Blue @ <4563.214844, 339.001007, 10417.533203> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [2] KOD_M110_Tan @ <4562.587891, 339.001007, 10414.648438> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Spawn failed for item [3] 'MedicalScrubShirt_Green', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [4] SurgicalGloves_Green @ <4559.196289, 339.001007, 10412.642578> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [5] DisinfectantSpray @ <4558.227051, 339.001007, 10416.766602> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [6] AKM @ <4560.624023, 339.001007, 10413.827148> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [7] PainkillerTablets @ <4563.544922, 339.001007, 10417.431641> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [8] Rag @ <4562.028320, 339.001007, 10414.199219> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Spawn failed for item [9] 'MedicalScrubShirt_Blue', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [10] BandageDressing @ <4562.382324, 339.001007, 10414.760742> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Spawn failed for item [11] 'MedicalScrubShirt_White', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [12] BloodTestKit @ <4562.601563, 339.001007, 10417.658203> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [13] BloodBagEmpty @ <4563.134766, 339.001007, 10413.275391> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [14] WaterBottle @ <4561.553711, 339.001007, 10414.254883> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [15] BloodBagIV @ <4560.433594, 339.001007, 10413.067383> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [16] Rag @ <4559.381348, 339.001007, 10416.716797> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [17] SurgicalMask @ <4562.308105, 339.001007, 10416.147461> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [18] Heatpack @ <4557.800781, 339.001007, 10415.191406> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [19] Heatpack @ <4558.762695, 339.001007, 10418.351563> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [20] Morphine @ <4558.431152, 339.001007, 10415.662109> ... Lifespan: Set to 30 minutes.
+[AirdropContainerUnstuck] Container was unstuck.
+[~AirdropContainerBase] Container Destroyed on 2021-04-16 @ 13-53-31

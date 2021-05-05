@@ -1,0 +1,84 @@
+{
+    "m_ClanID": "rT9zZmcNq1A9Jncn",
+    "m_OwnersPlainID": "76561198421975055",
+    "m_ClanName": "Turkish Special Team",
+    "m_Prefix": "TST",
+    "m_BankAmount": 936,
+    "m_Members": [
+        {
+            "m_plainID": "76561198421975055",
+            "m_playername": "[TST] Tulcus",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 1,
+                "m_CanKick": 1,
+                "m_CanEdit": 1
+            }
+        },
+        {
+            "m_plainID": "76561198333106484",
+            "m_playername": "Thalassophile",
+            "m_permissions": {
+                "m_CanWithdraw": 0,
+                "m_CanDeposit": 0,
+                "m_CanInvite": 0,
+                "m_CanKick": 0,
+                "m_CanEdit": 0
+            }
+        },
+        {
+            "m_plainID": "76561198042235031",
+            "m_playername": "mgokay",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 0,
+                "m_CanKick": 0,
+                "m_CanEdit": 0
+            }
+        },
+        {
+            "m_plainID": "76561198175875361",
+            "m_playername": "[TST]*syanqar26",
+            "m_permissions": {
+                "m_CanWithdraw": 0,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 0,
+                "m_CanKick": 0,
+                "m_CanEdit": 0
+            }
+        },
+        {
+            "m_plainID": "76561198396489573",
+            "m_playername": "[TST] Commander Gokayen",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 0,
+                "m_CanKick": 0,
+                "m_CanEdit": 0
+            }
+        }
+    ],
+    "m_ClanLogs": [
+        "[TST] Tulcus deposited: 701",
+        "[TST] Tulcus deposited: 1000",
+        "[TST] Tulcus deposited: 10000",
+        "[TST] Tulcus deposited: 375",
+        "[TST] Tulcus deposited: 113434",
+        "[TST] Naz deposited: 66615",
+        "[TST] Naz withdrawed: 15000",
+        "[TST] Tulcus deposited: 6700",
+        "[TST] Naz deposited: 5000",
+        "[TST] Tulcus deposited: 34000",
+        "[TST] Commander Gokayen deposited: 150000",
+        "[TST] Tulcus withdrawed: 372825",
+        "[TST] Commander Gokayen deposited: 45539",
+        "[TST] Commander Gokayen deposited: 48000",
+        "[TST] Tulcus withdrawed: 45539",
+        "[TST] Tulcus withdrawed: 48000",
+        "[TST] Tulcus deposited: 686",
+        "[TST] Tulcus deposited: 250"
+    ]
+}

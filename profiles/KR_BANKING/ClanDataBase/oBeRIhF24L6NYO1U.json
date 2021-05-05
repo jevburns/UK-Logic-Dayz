@@ -1,0 +1,21 @@
+{
+    "m_ClanID": "oBeRIhF24L6NYO1U",
+    "m_OwnersPlainID": "76561198100717229",
+    "m_ClanName": "S.P.A.C",
+    "m_Prefix": "SPAC",
+    "m_BankAmount": 0,
+    "m_Members": [
+        {
+            "m_plainID": "76561198100717229",
+            "m_playername": "Sarah",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 1,
+                "m_CanKick": 1,
+                "m_CanEdit": 1
+            }
+        }
+    ],
+    "m_ClanLogs": []
+}

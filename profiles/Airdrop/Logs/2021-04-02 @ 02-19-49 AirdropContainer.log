@@ -1,0 +1,25 @@
+[InitializeContainer] Container created on 2021-04-02 @ 02-19-49
+[InitializeContainer] Winds: Vector <-0.643794, 0.000000, -6.168586>, Speed 6.20209mps, Strength 0.1
+[AirdropContainerFall] Drop Type 'Military West', Container: 'AirdropContainer_Military', Mode/Quantity/Iems: Random/20/46, Flare:  10%
+[AirdropContainerFall] Loot Spawned [1] MilitaryBoots_Brown @ <1893.086182, 177.039261, 5292.164063> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [2] AK101 @ <1897.302490, 176.968002, 5291.209473> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [3] Mag_STANAG_30Rnd @ <1894.556641, 176.654861, 5288.158203> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [4] WeaponCleaningKit @ <1895.646851, 176.614304, 5287.379883> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [5] M4_RISHndgrd @ <1894.044678, 176.732742, 5289.023926> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [6] CanOpener @ <1897.923218, 176.922623, 5290.594238> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [7] Binoculars @ <1896.559204, 176.843414, 5289.541016> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [8] KOD_M110_Tan @ <1894.023193, 177.063599, 5292.489746> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [9] USMCPants_Woodland @ <1896.527954, 176.857605, 5289.730957> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [10] PistolSuppressor @ <1892.802612, 177.056870, 5292.399414> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [11] UKAssVest_Olive @ <1893.052979, 176.947861, 5291.275391> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [12] TacticalGoggles @ <1892.139038, 176.863037, 5290.822754> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [13] AKM @ <1892.934570, 176.568710, 5287.929688> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [14] Rangefinder @ <1893.551392, 176.716522, 5289.043945> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [15] M4_RISHndgrd @ <1896.297852, 177.053513, 5292.354980> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [16] CombatKnife @ <1896.726440, 176.883957, 5290.083984> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [17] M9A1_Bayonet @ <1895.412842, 176.751831, 5288.738281> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [18] TacticalGloves_Green @ <1893.659546, 176.536194, 5287.316895> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [19] MilitaryBoots_Beige @ <1894.126465, 176.616333, 5287.957520> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [20] UKAssVest_Camo @ <1891.834717, 176.765533, 5290.053711> ... Lifespan: Set to 30 minutes.
+[AirdropContainerUnstuck] Container was unstuck.
+[~AirdropContainerBase] Container Destroyed on 2021-04-02 @ 02-44-49

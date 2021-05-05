@@ -1,0 +1,32 @@
+[AirdropPlane] Aircraft created on 2021-04-18 @ 11-33-15
+[InitializeAircraft] Aircraft Initialized: Skalisty Island @ 13575/3055 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Skalisty Island. @ <12500.239258, 152.000610, 2009.264160>
+[EOnDrop] Zombie Spawned [1] ZmbM_MotobikerFat_Beige @ <13465.282227, 4.462758, 2983.354004> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbF_SurvivorNormal_Blue @ <13508.125000, 10.913254, 2957.170410> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Spawn failed for zombie [3] 'ZmbM_SurvivorDean_Black', it does not exist in DayZ!
+[EOnDrop] Zombie Spawned [4] ZmbM_HunterOld_Winter @ <13477.008789, 6.403170, 3027.104004> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbF_VillagerOld_Green @ <13515.505859, 12.801407, 2972.442139> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbF_MilkMaidOld_Black @ <13470.746094, 5.450117, 2973.687256> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbM_HikerSkinny_Yellow @ <13510.923828, 11.251280, 2969.918213> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbM_priestPopSkinny @ <13502.184570, 13.303787, 2992.352051> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbF_SurvivorNormal_White @ <13508.471680, 10.861929, 2958.287598> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbM_HikerSkinny_Green @ <13485.383789, 7.151196, 3011.705566> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [11] ZmbM_HunterOld_Winter @ <13498.440430, 14.409911, 3027.023682> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [12] ZmbM_FarmerFat_Brown @ <13559.653320, 29.258020, 2984.421143> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [13] ZmbF_VillagerOld_Red @ <13513.938477, 11.460176, 2965.136475> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [14] ZmbM_HunterOld_Autumn @ <13538.010742, 23.123461, 2993.303955> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [15] ZmbM_HunterOld_Summer @ <13524.993164, 26.464672, 3035.781006> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [16] ZmbF_VillagerOld_White @ <13499.370117, 9.579923, 2973.331787> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [17] ZmbF_HikerSkinny_Green @ <13552.889648, 28.604176, 3001.762451> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [18] ZmbM_FarmerFat_Brown @ <13472.273438, 3.980157, 3013.077393> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [19] ZmbM_HunterOld_Winter @ <13495.870117, 11.797551, 3004.906006> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Spawn failed for zombie [20] 'ZmbM_SurvivorDean_Grey', it does not exist in DayZ!
+[EOnDrop] Zombie Spawned [21] ZmbF_HikerSkinny_Green @ <13523.091797, 16.426960, 2950.473633> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [22] ZmbM_HermitSkinny_Green @ <13534.400391, 25.591463, 3018.999268> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [23] ZmbF_VillagerOld_Red @ <13474.805664, 4.074196, 3007.626465> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [24] ZmbF_SurvivorNormal_White @ <13510.993164, 15.282023, 2989.004395> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [25] ZmbF_HikerSkinny_Red @ <13511.805664, 18.309614, 3010.956055> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Drop spawned with 25 infected at <13512.458008, 146.158585, 2993.961426>.
+[EOnDrop] Supplies have been dropped near Skalisty Island.
+[EOnBeforeDelete] Aircraft despawned @ <16361.051758, 152.000610, 5765.104004>
+[~AirdropPlane] Aircraft destroyed.

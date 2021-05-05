@@ -1,0 +1,17 @@
+[AirdropPlane] Aircraft created on 2021-04-29 @ 05-31-56
+[InitializeAircraft] Aircraft Initialized: Zelenogorks @ 1875/5210 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Zelenogorks. @ <2501.371094, 309.713470, 3847.062012>
+[EOnDrop] Zombie Spawned [1] ZmbF_MilkMaidOld_Black @ <1936.775757, 174.266068, 5166.723145> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Spawn failed for zombie [2] 'ZmbM_SurvivorDean_Grey', it does not exist in DayZ!
+[EOnDrop] Zombie Spawned [3] ZmbF_SurvivorNormal_White @ <1884.346558, 173.729996, 5138.179688> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_HermitSkinny_Green @ <1894.673462, 173.239838, 5169.017090> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbF_HikerSkinny_Grey @ <1899.801147, 173.575821, 5132.786621> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbF_VillagerOld_Green @ <1887.427002, 173.580276, 5182.773926> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbM_FarmerFat_Blue @ <1885.240967, 173.960602, 5195.990234> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbF_MilkMaidOld_Black @ <1908.975464, 173.892044, 5194.826660> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbF_SurvivorNormal_Red @ <1907.827026, 172.649979, 5119.036133> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbM_HunterOld_Spring @ <1912.548584, 173.620422, 5169.665039> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 10 infected at <1902.298218, 319.503998, 5151.241699>.
+[EOnDrop] Supplies have been dropped near Zelenogorks.
+[EOnBeforeDelete] Aircraft despawned @ <-1000.800354, 555.697815, 11470.553711>
+[~AirdropPlane] Aircraft destroyed.

@@ -1,0 +1,32 @@
+[AirdropPlane] Aircraft created on 2021-04-20 @ 01-27-09
+[InitializeAircraft] Aircraft Initialized: Skalisty Island @ 13575/3055 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Skalisty Island. @ <14203.447266, 152.000610, 1694.197876>
+[EOnDrop] Zombie Spawned [1] ZmbF_VillagerOld_Red @ <13639.346680, 44.685150, 2963.137207> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbF_VillagerOld_Blue @ <13642.813477, 42.316811, 3018.135254> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_priestPopSkinny @ <13621.181641, 44.205170, 2979.087646> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbF_SurvivorNormal_White @ <13612.206055, 44.054756, 2971.528076> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_HunterOld_Autumn @ <13630.814453, 44.467037, 2959.169189> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbM_HikerSkinny_Green @ <13607.780273, 43.684422, 2976.552734> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbF_SurvivorNormal_Orange @ <13575.327148, 41.888149, 2960.168457> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbM_HikerSkinny_Green @ <13577.653320, 37.572128, 2979.783447> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbM_VillagerOld_Green @ <13604.118164, 42.922955, 2988.772461> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbM_VillagerOld_Blue @ <13592.965820, 41.057961, 2984.234863> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [11] ZmbF_VillagerOld_White @ <13584.053711, 43.182178, 2947.604004> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [12] ZmbF_SurvivorNormal_Orange @ <13632.044922, 44.503338, 2959.086670> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [13] ZmbM_MotobikerFat_Black @ <13595.849609, 40.843948, 3002.198486> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [14] ZmbM_HikerSkinny_Blue @ <13634.234375, 44.465027, 2975.531982> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [15] ZmbF_MilkMaidOld_Grey @ <13599.073242, 43.050373, 2978.884521> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Spawn failed for zombie [16] 'ZmbM_SurvivorDean_Black', it does not exist in DayZ!
+[EOnDrop] Zombie Spawned [17] ZmbM_HikerSkinny_Blue @ <13574.956055, 33.728992, 3007.722900> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [18] ZmbF_VillagerOld_White @ <13604.629883, 43.541348, 2972.578857> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [19] ZmbF_HikerSkinny_Grey @ <13642.648438, 44.145168, 2989.960205> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [20] ZmbM_VillagerOld_Blue @ <13609.389648, 43.944004, 2960.329102> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [21] ZmbM_HermitSkinny_Black @ <13601.651367, 42.213451, 3005.452637> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [22] ZmbF_SurvivorNormal_Orange @ <13604.653320, 42.939247, 2993.861084> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [23] ZmbM_HermitSkinny_Black @ <13595.010742, 40.728348, 2994.807861> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [24] ZmbM_VillagerOld_Green @ <13580.644531, 40.465736, 2977.316406> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [25] ZmbM_MotobikerFat_Blue @ <13579.266602, 35.051369, 2992.967529> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Drop spawned with 25 infected at <13609.041016, 172.449097, 2983.455811>.
+[EOnDrop] Supplies have been dropped near Skalisty Island.
+[EOnBeforeDelete] Aircraft despawned @ <7441.622559, 508.347656, 16361.214844>
+[~AirdropPlane] Aircraft destroyed.

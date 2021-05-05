@@ -1,0 +1,25 @@
+[InitializeContainer] Container created on 2021-03-29 @ 18-44-23
+[InitializeContainer] Winds: Vector <9.985207, 0.000000, 8.304960>, Speed 12.9876mps, Strength 0.1
+[AirdropContainerFall] Drop Type 'Medical', Container: 'AirdropContainer_Medical', Mode/Quantity/Iems: Random/20/37, Flare:  10%
+[AirdropContainerFall] Loot Spawned [1] SurgicalMask @ <6519.042480, 305.894531, 7823.645508> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [2] MedicalScrubsHat_Blue @ <6516.389648, 305.953247, 7822.995605> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [3] Morphine @ <6516.783691, 305.641083, 7821.023926> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [4] SurgicalGloves_LightBlue @ <6517.723633, 305.357971, 7819.432129> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [5] PainkillerTablets @ <6519.339844, 304.995667, 7817.356934> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Spawn failed for item [6] 'MedicalScrubShirt_White', does not exist in DayZ!
+[AirdropContainerFall] Spawn failed for item [7] 'CharcolaTablets', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [8] Epinephrine @ <6518.375977, 305.196472, 7818.486816> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [9] SalineBag @ <6517.319824, 305.751251, 7822.061035> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [10] SurgicalGloves_Blue @ <6522.295898, 305.341431, 7820.844727> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [11] Morphine @ <6516.362305, 305.837463, 7822.210449> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [12] DisinfectantSpray @ <6518.638672, 305.812439, 7822.956543> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [13] BloodSyringe @ <6520.483398, 305.652679, 7822.491699> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [14] SurgicalGloves_Green @ <6521.556641, 305.384064, 7820.889648> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [15] Rag @ <6520.329590, 305.757568, 7823.149902> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [16] MedicalScrubsHat_Blue @ <6518.254395, 305.918518, 7823.544922> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [17] Morphine @ <6516.495605, 305.975037, 7823.183594> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Spawn failed for item [18] 'MedicalScrubShirt_Green', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [19] AKM @ <6516.922852, 305.645874, 7821.124023> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Spawn failed for item [20] 'MedicalScrubPants_White', does not exist in DayZ!
+[AirdropContainerUnstuck] Container was unstuck.
+[~AirdropContainerBase] Container Destroyed on 2021-03-29 @ 19-09-23

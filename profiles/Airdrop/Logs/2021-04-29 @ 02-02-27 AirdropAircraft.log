@@ -1,0 +1,17 @@
+[AirdropPlane] Aircraft created on 2021-04-29 @ 02-02-27
+[InitializeAircraft] Aircraft Initialized: Berezino @ 12450/9250 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Berezino. @ <11124.988281, 216.592850, 9950.319336>
+[EOnDrop] Zombie Spawned [1] ZmbM_FishermanOld_Grey @ <12374.263672, 24.872856, 9293.401367> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_HeavyIndustryWorker @ <12381.183594, 25.246258, 9279.523438> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_HandymanNormal_White @ <12349.390625, 26.723522, 9278.350586> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_ConstrWorkerNormal_Grey @ <12421.405273, 22.836615, 9262.833984> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_OffshoreWorker_Yellow @ <12410.183594, 22.673460, 9300.345703> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbM_FishermanOld_Green @ <12399.342773, 22.253399, 9321.444336> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbF_MechanicNormal_Orange @ <12410.417969, 23.607924, 9272.810547> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbM_OffshoreWorker_Yellow @ <12390.640625, 24.935471, 9273.684570> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbM_MechanicSkinny_Red @ <12379.036133, 25.521664, 9275.674805> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbM_MechanicSkinny_Red @ <12388.683594, 25.003336, 9275.106445> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 10 infected at <12389.898438, 167.711899, 9284.577148>.
+[EOnDrop] Supplies have been dropped near Berezino.
+[EOnBeforeDelete] Aircraft despawned @ <16360.453125, 152.000610, 7194.269531>
+[~AirdropPlane] Aircraft destroyed.

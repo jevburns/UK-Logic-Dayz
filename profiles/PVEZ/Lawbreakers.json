@@ -1,0 +1,32 @@
+[
+    {
+        "Id": "zibm8H4sM7yig_ZEU1RDMqhbf5DJ9_e23lgN5DqN-sY=",
+        "Recent_Character_Names": [
+            "Jev"
+        ],
+        "Murder_Count": 26,
+        "Latest_Murder_Time": {
+            "Year": 2021,
+            "Month": 5,
+            "Day": 4,
+            "Hour": 16,
+            "Minute": 23
+        },
+        "Is_Currently_Outlaw": 0
+    },
+    {
+        "Id": "SFoC8XRJiIMjdwEoriC1SfKDNNVakWAbWavK_21KxYM=",
+        "Recent_Character_Names": [
+            "Korwiin"
+        ],
+        "Murder_Count": 14,
+        "Latest_Murder_Time": {
+            "Year": 2021,
+            "Month": 5,
+            "Day": 2,
+            "Hour": 22,
+            "Minute": 3
+        },
+        "Is_Currently_Outlaw": 0
+    }
+]

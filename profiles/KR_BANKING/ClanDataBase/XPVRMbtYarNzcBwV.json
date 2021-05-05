@@ -1,0 +1,38 @@
+{
+    "m_ClanID": "XPVRMbtYarNzcBwV",
+    "m_OwnersPlainID": "76561198312217850",
+    "m_ClanName": "skunkblazergaming",
+    "m_Prefix": "SBG",
+    "m_BankAmount": 47434,
+    "m_Members": [
+        {
+            "m_plainID": "76561198312217850",
+            "m_playername": "Skunky B",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 1,
+                "m_CanKick": 1,
+                "m_CanEdit": 1
+            }
+        },
+        {
+            "m_plainID": "76561198328689163",
+            "m_playername": "KILLA-QUEEN",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 1,
+                "m_CanKick": 1,
+                "m_CanEdit": 1
+            }
+        }
+    ],
+    "m_ClanLogs": [
+        "Skunky B deposited: 12805",
+        "Skunky B withdrawed: 1000",
+        "KILLA-QUEEN deposited: 750",
+        "KILLA-QUEEN deposited: 31839",
+        "Skunky B deposited: 3040"
+    ]
+}

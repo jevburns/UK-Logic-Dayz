@@ -1,0 +1,25 @@
+[InitializeContainer] Container created on 2021-03-09 @ 16-07-36
+[InitializeContainer] Winds: Vector <11.082931, 0.000000, 0.341260>, Speed 11.0882mps, Strength 0.1
+[AirdropContainerFall] Drop Type 'Medical', Container: 'AirdropContainer_Medical', Mode/Quantity/Iems: Random/20/33, Flare:  10%
+[AirdropContainerFall] Loot Spawned [1] SurgicalGloves_Green @ <1954.707153, 174.187332, 5165.051758> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [2] DisinfectantSpray @ <1951.729248, 174.139206, 5166.606445> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [3] SurgicalMask @ <1955.237061, 174.190338, 5164.529297> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [4] WaterBottle @ <1954.797485, 174.220917, 5166.421387> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [5] SurgicalGloves_White @ <1951.923462, 174.176437, 5167.912598> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [6] BloodBagIV @ <1954.067871, 174.236740, 5167.921875> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [7] SalineBagIV @ <1951.348999, 174.070175, 5163.898926> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [8] MedicalScrubsHat_Blue @ <1955.078491, 174.242538, 5167.027832> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [9] SalineBagIV @ <1955.187378, 174.200500, 5165.039551> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [10] MedicalScrubsHat_Green @ <1952.842896, 174.214615, 5168.356445> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [11] SurgicalGloves_LightBlue @ <1950.543335, 174.069504, 5164.875000> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [12] SalineBagIV @ <1955.486328, 174.255524, 5167.097168> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Spawn failed for item [13] 'MedicalScrubShirt_Blue', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [14] TetracyclineAntibiotics @ <1953.889038, 174.193359, 5166.327637> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Spawn failed for item [15] 'MedicalScrubPants_Blue', does not exist in DayZ!
+[AirdropContainerFall] Spawn failed for item [16] 'MedicalScrubShirt_Green', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [17] SurgicalMask @ <1955.388062, 174.169586, 5163.427246> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [18] Epinephrine @ <1949.887329, 174.051300, 5164.834961> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Spawn failed for item [19] 'MedicalScrubShirt_White', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [20] DisinfectantSpray @ <1950.466553, 174.065903, 5164.802246> ... Lifespan: Set to 60 minutes.
+[AirdropContainerUnstuck] Container was unstuck.
+[~AirdropContainerBase] Container Destroyed on 2021-03-09 @ 16-22-36

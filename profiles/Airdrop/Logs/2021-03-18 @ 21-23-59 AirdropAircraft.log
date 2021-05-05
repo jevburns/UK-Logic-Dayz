@@ -1,0 +1,32 @@
+[AirdropPlane] Aircraft created on 2021-03-18 @ 21-23-59
+[InitializeAircraft] Aircraft Initialized: Veresnik @ 4000/7850 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Veresnik. @ <4963.823242, 412.945374, 6701.342285>
+[EOnDrop] Zombie Spawned [1] ZmbF_MilkMaidOld_Grey @ <4059.781982, 299.178070, 7816.621582> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_HunterOld_Winter @ <4065.867920, 298.536163, 7787.194336> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_FarmerFat_Beige @ <4054.555908, 297.407318, 7766.263672> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_MotobikerFat_Blue @ <4047.616943, 299.054138, 7830.204590> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_HunterOld_Winter @ <4036.829590, 297.831512, 7796.516602> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbM_HunterOld_Winter @ <4062.724365, 298.319214, 7784.113770> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbF_MilkMaidOld_Beige @ <4035.864258, 296.690094, 7761.742188> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbM_FarmerFat_Blue @ <4062.016602, 298.303436, 7784.356934> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbF_SurvivorNormal_Orange @ <4068.766113, 297.355347, 7751.245117> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbM_HermitSkinny_Black @ <4022.750244, 295.950165, 7748.913574> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [11] ZmbF_SurvivorNormal_Red @ <4058.327393, 297.981201, 7778.757324> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Spawn failed for zombie [12] 'ZmbM_SurvivorDean_Grey', it does not exist in DayZ!
+[EOnDrop] Zombie Spawned [13] ZmbM_HunterOld_Autumn @ <4086.190918, 300.399506, 7822.814453> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [14] ZmbM_HunterOld_Summer @ <4069.262939, 298.599640, 7785.629395> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [15] ZmbM_MotobikerFat_Beige @ <4036.305664, 298.688538, 7829.474121> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [16] ZmbF_SurvivorNormal_Red @ <4028.648193, 295.963654, 7745.236328> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [17] ZmbM_HunterOld_Autumn @ <4049.269287, 297.066620, 7761.239746> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [18] ZmbM_MotobikerFat_Blue @ <4033.243896, 297.737671, 7796.902832> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [19] ZmbF_MilkMaidOld_Black @ <4063.043457, 298.930725, 7802.804199> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [20] ZmbF_SurvivorNormal_Blue @ <4059.635498, 297.017181, 7750.062012> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [21] ZmbF_SurvivorNormal_Blue @ <4017.114990, 297.765503, 7813.384277> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [22] ZmbM_FarmerFat_Brown @ <4015.767578, 296.667114, 7776.767578> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [23] ZmbF_SurvivorNormal_Orange @ <4062.072754, 299.595428, 7830.579102> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [24] ZmbF_MilkMaidOld_Black @ <4071.485840, 298.969727, 7794.227539> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [25] ZmbM_VillagerOld_Blue @ <4056.043457, 298.330627, 7791.332031> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Drop spawned with 25 infected at <4051.541992, 438.881348, 7786.974609>.
+[EOnDrop] Supplies have been dropped near Veresnik.
+[EOnBeforeDelete] Aircraft despawned @ <-1000.434265, 525.112366, 13798.194336>
+[~AirdropPlane] Aircraft destroyed.

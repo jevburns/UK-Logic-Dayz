@@ -1,0 +1,12 @@
+[AirdropPlane] Aircraft created on 2021-04-30 @ 03-33-50
+[InitializeAircraft] Aircraft Initialized: Soverograd @ 8566/12755 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Soverograd. @ <7838.570801, 415.584076, 14066.328125>
+[EOnDrop] Spawn failed for zombie [1] 'ZmbM_JacketNormal_greenchecks', it does not exist in DayZ!
+[EOnDrop] Zombie Spawned [2] ZmbF_Clerk_Normal_White @ <8492.452148, 107.500175, 12825.033203> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbF_NurseFat @ <8549.936523, 105.474609, 12815.438477> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_ClerkFat_White @ <8558.001953, 106.234024, 12837.144531> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbF_ShortSkirt_stripes @ <8532.754883, 104.616737, 12781.268555> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 5 infected at <8532.350586, 263.950958, 12816.614258>.
+[EOnDrop] Supplies have been dropped near Soverograd.
+[EOnBeforeDelete] Aircraft despawned @ <16204.350586, 152.000610, -1001.474976>
+[~AirdropPlane] Aircraft destroyed.

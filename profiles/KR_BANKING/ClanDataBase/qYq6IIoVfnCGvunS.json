@@ -1,0 +1,76 @@
+{
+    "m_ClanID": "qYq6IIoVfnCGvunS",
+    "m_OwnersPlainID": "76561198162344833",
+    "m_ClanName": "Sish Kebab Salads",
+    "m_Prefix": "SKS",
+    "m_BankAmount": 34595,
+    "m_Members": [
+        {
+            "m_plainID": "76561198162344833",
+            "m_playername": "[SKS]Cpt.Kebab",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 1,
+                "m_CanKick": 1,
+                "m_CanEdit": 1
+            }
+        },
+        {
+            "m_plainID": "76561198065413312",
+            "m_playername": "Helmut Lootie",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 0,
+                "m_CanKick": 0,
+                "m_CanEdit": 0
+            }
+        },
+        {
+            "m_plainID": "76561198179214070",
+            "m_playername": "Survivor (2)",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 0,
+                "m_CanKick": 0,
+                "m_CanEdit": 0
+            }
+        },
+        {
+            "m_plainID": "76561198177852285",
+            "m_playername": "Percy Coles",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 0,
+                "m_CanKick": 0,
+                "m_CanEdit": 0
+            }
+        }
+    ],
+    "m_ClanLogs": [
+        "[SKS]Cpt.Kebab deposited: 142295",
+        "(SKS) Jordan deposited: 7000",
+        "(SKS) Jordan withdrawed: 20000",
+        "(SKS) Jordan deposited: 1227",
+        "(SKS) Jordan withdrawed: 11000",
+        "(SKS) Jordan deposited: 900",
+        "(SKS) Jordan deposited: 400000",
+        "(SKS) Jordan deposited: 100650",
+        "(SKS) Jordan deposited: 250",
+        "(SKS) Jordan withdrawed: 50000",
+        "(SKS) Jordan withdrawed: 400000",
+        "(SKS) Jordan withdrawed: 10000",
+        "Jordan withdrawed: 2000",
+        "Jordan withdrawed: 5200",
+        "[SKS] Jordan withdrawed: 515",
+        "[SKS] Jordan withdrawed: 640",
+        "Percy Coles deposited: 47600",
+        "[SKS]Cpt.Kebab withdrawed: 200000",
+        "[SKS]Cpt.Kebab deposited: 200000",
+        "[SKS]Cpt.Kebab withdrawed: 300000",
+        "[SKS]Cpt.Kebab withdrawed: 30000"
+    ]
+}

@@ -1,0 +1,25 @@
+[InitializeContainer] Container created on 2021-03-09 @ 02-50-27
+[InitializeContainer] Winds: Vector <8.427747, 0.000000, 10.651518>, Speed 13.5824mps, Strength 0.1
+[AirdropContainerFall] Drop Type 'Medical', Container: 'AirdropContainer_Medical', Mode/Quantity/Iems: Random/20/33, Flare:  10%
+[AirdropContainerFall] Spawn failed for item [1] 'MedicalScrubShirt_White', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [2] PainkillerTablets @ <5064.989258, 8.707312, 2540.938232> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [3] BandageDressing @ <5065.645996, 8.546956, 2538.496826> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Spawn failed for item [4] 'MedicalScrubPants_Blue', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [5] Rag @ <5065.113281, 8.465959, 2537.277100> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [6] DisinfectantSpray @ <5061.580078, 8.569545, 2539.294922> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [7] MedicalScrubsHat_Blue @ <5060.790039, 8.699418, 2541.160889> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [8] BloodTestKit @ <5064.157227, 8.464300, 2537.482910> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [9] Rag @ <5061.481934, 8.657143, 2540.717773> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [10] SurgicalGloves_LightBlue @ <5064.395996, 8.721959, 2541.387939> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [11] SurgicalGloves_Green @ <5063.843750, 8.679248, 2541.142090> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Spawn failed for item [12] 'MedicalScrubPants_Green', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [13] Heatpack @ <5064.288086, 8.454917, 2537.294678> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Spawn failed for item [14] 'MedicalScrubShirt_Blue', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [15] SurgicalGloves_Blue @ <5066.503906, 8.515428, 2537.761475> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [16] SalineBagIV @ <5064.661133, 8.452809, 2537.168213> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [17] PurificationTablets @ <5060.324707, 8.622701, 2539.706543> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [18] PainkillerTablets @ <5062.397461, 8.651085, 2540.962646> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [19] SurgicalGloves_Green @ <5066.195801, 8.789738, 2541.338623> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [20] SurgicalGloves_Blue @ <5065.620605, 8.537126, 2538.339111> ... Lifespan: Set to 60 minutes.
+[AirdropContainerUnstuck] Container was unstuck.
+[~AirdropContainerBase] Container Destroyed on 2021-03-09 @ 03-05-27

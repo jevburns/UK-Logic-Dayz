@@ -1,0 +1,37 @@
+[AirdropPlane] Aircraft created on 2021-04-17 @ 04-07-57
+[InitializeAircraft] Aircraft Initialized: Player Called @ 13502.7/3029.24 (false)
+[EOnBeforeDrop] The Aircraft is 1 Km from called location. @ <14993.184570, 152.291107, 3197.741699>
+[EOnDrop] Zombie Spawned [1] ZmbM_MechanicSkinny_Grey @ <13572.727539, 34.540737, 3043.660645> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_HikerSkinny_Yellow @ <13568.264648, 33.749466, 3046.509521> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [3] Animal_CanisLupus_White @ <13601.375977, 39.951229, 3019.472412> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_PolicemanSpecForce @ <13582.615234, 37.011192, 3053.088623> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbF_SurvivorNormal_Orange @ <13552.276367, 30.376062, 3032.836426> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [6] Animal_CanisLupus_Grey @ <13589.029297, 38.908001, 3065.274902> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbF_MechanicNormal_Beige @ <13593.991211, 38.847183, 3044.454346> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [8] Animal_CanisLupus_Grey @ <13587.958008, 37.362240, 3036.230225> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbM_PatrolNormal_Summer @ <13543.073242, 25.585257, 3001.177979> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbM_PatrolNormal_Summer @ <13580.151367, 36.418766, 3000.577148> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [11] Animal_CanisLupus_Grey @ <13576.894531, 34.139225, 3010.417725> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [12] ZmbM_HandymanNormal_White @ <13568.781250, 31.128933, 2995.438965> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [13] Animal_CanisLupus_Grey @ <13584.222656, 36.406536, 3032.115723> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [14] ZmbM_SoldierNormal @ <13573.340820, 35.997929, 3071.607666> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [15] ZmbM_PatrolNormal_Autumn @ <13549.899414, 30.015379, 3033.156006> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [16] ZmbM_JournalistSkinny @ <13561.109375, 32.149376, 3039.906494> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [17] ZmbM_PatrolNormal_Autumn @ <13563.056641, 31.994602, 3024.836914> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [18] Animal_CanisLupus_White @ <13590.846680, 37.591560, 3017.506348> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [19] ZmbF_ShortSkirt_green @ <13612.128906, 41.432034, 3021.120605> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [20] ZmbM_ConstrWorkerNormal_Green @ <13547.495117, 31.139975, 3079.778076> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [21] ZmbM_MechanicSkinny_Grey @ <13581.896484, 36.000404, 3035.691895> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [22] ZmbM_Jacket_blue @ <13576.807617, 35.915745, 3056.190918> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [23] ZmbF_Clerk_Normal_Green @ <13583.114258, 36.012184, 3020.354248> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [24] ZmbM_HunterOld_Autumn @ <13541.791992, 28.597284, 3030.370850> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [25] ZmbM_ParamedicNormal_Black @ <13546.196289, 29.829180, 3059.790039> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Spawn failed for zombie [26] 'ZmbM_SurvivorDean_Grey', does not exist in DayZ!
+[EOnDrop] Zombie Spawned [27] ZmbM_HandymanNormal_Blue @ <13579.115234, 35.294720, 3024.814697> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [28] ZmbM_VillagerOld_Blue @ <13585.087891, 36.620659, 3032.046875> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [29] Animal_CanisLupus_White @ <13599.384766, 41.758259, 3007.744385> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [30] ZmbM_PatrolNormal_Flat @ <13570.415039, 35.453934, 3073.246338> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Drop spawned with 30 infected at <13572.693359, 169.949753, 3037.095215>.
+[EOnDrop] Supplies have been dropped near the player's location.
+[EOnBeforeDelete] Aircraft despawned @ <-1000.229309, 215.168152, 1389.005371>
+[~AirdropPlane] Aircraft destroyed.

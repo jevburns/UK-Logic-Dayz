@@ -1,0 +1,25 @@
+[InitializeContainer] Container created on 2021-03-27 @ 00-11-18
+[InitializeContainer] Winds: Vector <0.001740, 0.000000, -6.500767>, Speed 6.50077mps, Strength 0.1
+[AirdropContainerFall] Drop Type 'Military West', Container: 'AirdropContainer_Military', Mode/Quantity/Iems: Random/20/46, Flare:  10%
+[AirdropContainerFall] Loot Spawned [1] AmmoBox_45ACP_25Rnd @ <12352.763672, 26.296780, 9273.130859> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [2] USMCJacket_Woodland @ <12355.279297, 26.142229, 9273.688477> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [3] MilitaryBoots_Brown @ <12352.441406, 26.327366, 9272.881836> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [4] FNX45 @ <12352.438477, 26.399021, 9271.574219> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [5] USMCJacket_Desert @ <12356.177734, 26.179054, 9272.203125> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [6] UKAssVest_Khaki @ <12357.602539, 26.167734, 9271.125000> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [7] MilitaryBoots_Beige @ <12356.334961, 26.153469, 9272.529297> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [8] M4A1 @ <12356.294922, 26.249197, 9270.814453> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [9] TacticalGloves_Beige @ <12353.001953, 26.274626, 9273.321289> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [10] MilitaryBoots_Brown @ <12357.729492, 26.159155, 9271.166992> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [11] Rangefinder @ <12351.167969, 26.387690, 9273.362305> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [12] Canteen @ <12356.922852, 26.236633, 9270.477539> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [13] AK101 @ <12352.224609, 26.276957, 9274.073242> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [14] PistolSuppressor @ <12352.938477, 26.376490, 9271.514648> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [15] UKAssVest_Camo @ <12357.076172, 26.115479, 9272.555664> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [16] UKAssVest_Black @ <12354.514648, 26.412632, 9269.314453> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [17] KOD_M16A4 @ <12353.469727, 26.234579, 9273.631836> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [18] Rangefinder @ <12355.747070, 26.291065, 9270.542969> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [19] UKAssVest_Camo @ <12357.043945, 26.182674, 9271.355469> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [20] TacticalGoggles @ <12354.641602, 26.415445, 9269.114258> ... Lifespan: Set to 30 minutes.
+[AirdropContainerUnstuck] Container was unstuck.
+[~AirdropContainerBase] Container Destroyed on 2021-03-27 @ 00-36-18

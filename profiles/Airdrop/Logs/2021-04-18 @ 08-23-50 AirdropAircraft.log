@@ -1,0 +1,27 @@
+[AirdropPlane] Aircraft created on 2021-04-18 @ 08-23-50
+[InitializeAircraft] Aircraft Initialized: Zelenogorks @ 1875/5210 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Zelenogorks. @ <2297.660889, 505.651550, 6648.961914>
+[EOnDrop] Zombie Spawned [1] ZmbM_FarmerFat_Green @ <1911.310547, 177.287231, 5300.350098> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_HunterOld_Autumn @ <1887.127686, 176.828140, 5287.319824> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_HunterOld_Winter @ <1927.659180, 177.102890, 5286.769531> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbF_VillagerOld_Blue @ <1908.335815, 177.129562, 5286.479980> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_HermitSkinny_Beige @ <1896.640869, 177.543900, 5292.239258> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbM_HunterOld_Autumn @ <1911.558105, 183.049332, 5340.715820> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbF_HikerSkinny_Green @ <1868.653442, 176.033737, 5278.565918> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Spawn failed for zombie [8] 'ZmbM_SurvivorDean_Grey', it does not exist in DayZ!
+[EOnDrop] Zombie Spawned [9] ZmbM_VillagerOld_White @ <1908.592407, 177.450073, 5296.081055> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbM_HermitSkinny_Black @ <1928.617432, 177.123367, 5280.036133> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [11] ZmbM_HikerSkinny_Green @ <1881.925171, 179.468887, 5319.976074> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [12] ZmbM_VillagerOld_White @ <1877.563477, 177.388474, 5294.883789> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [13] ZmbF_MilkMaidOld_Beige @ <1933.706299, 180.361313, 5320.842773> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [14] ZmbM_VillagerOld_Blue @ <1857.304810, 178.724792, 5301.668945> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [15] ZmbM_priestPopSkinny @ <1925.530396, 176.034088, 5266.792969> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [16] ZmbF_MilkMaidOld_Black @ <1926.577515, 177.100739, 5288.974121> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [17] ZmbM_VillagerOld_Blue @ <1882.535767, 178.693634, 5301.887695> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [18] ZmbM_FarmerFat_Beige @ <1880.713013, 178.818115, 5314.522461> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [19] ZmbM_HikerSkinny_Green @ <1905.086792, 177.674667, 5307.681641> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Spawn failed for zombie [20] 'ZmbM_SurvivorDean_Grey', it does not exist in DayZ!
+[EOnDrop] Drop spawned with 20 infected at <1902.201904, 340.098785, 5301.379883>.
+[EOnDrop] Supplies have been dropped near Zelenogorks.
+[EOnBeforeDelete] Aircraft despawned @ <52.473000, 152.000610, -1001.541321>
+[~AirdropPlane] Aircraft destroyed.

@@ -1,0 +1,21 @@
+{
+    "m_ClanID": "7N9x7JhHh7G2VA2k",
+    "m_OwnersPlainID": "76561198086725669",
+    "m_ClanName": "expanding-horizon-community",
+    "m_Prefix": "EHC",
+    "m_BankAmount": 0,
+    "m_Members": [
+        {
+            "m_plainID": "76561198086725669",
+            "m_playername": "[EHC] Schnukkibaby",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 1,
+                "m_CanKick": 1,
+                "m_CanEdit": 1
+            }
+        }
+    ],
+    "m_ClanLogs": []
+}

@@ -1,0 +1,22 @@
+[AirdropPlane] Aircraft created on 2021-04-09 @ 22-42-44
+[InitializeAircraft] Aircraft Initialized: Myshkino @ 1900/7600 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Myshkino. @ <3317.042969, 490.338531, 7112.125000>
+[EOnDrop] Zombie Spawned [1] ZmbF_SurvivorNormal_Orange @ <2027.660767, 300.771973, 7588.299805> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_FarmerFat_Green @ <1976.723877, 288.174622, 7584.897461> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_FarmerFat_Blue @ <1967.770508, 282.251343, 7554.643066> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_FarmerFat_Brown @ <1979.040894, 288.687805, 7584.242676> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_HunterOld_Summer @ <1976.702026, 283.223389, 7550.690430> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Spawn failed for zombie [6] 'ZmbM_SurvivorDean_Black', it does not exist in DayZ!
+[EOnDrop] Zombie Spawned [7] ZmbM_FarmerFat_Beige @ <1992.099976, 285.127441, 7545.744141> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbM_priestPopSkinny @ <1956.729858, 282.616302, 7577.846191> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbM_HermitSkinny_Red @ <1998.453979, 289.049133, 7559.942871> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbM_HermitSkinny_Black @ <1988.468506, 283.857758, 7539.004395> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [11] ZmbF_VillagerOld_Green @ <1968.128540, 280.582123, 7538.657715> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [12] ZmbF_HikerSkinny_Grey @ <1988.865601, 292.631775, 7591.096680> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [13] ZmbM_MotobikerFat_Black @ <1983.364990, 283.529724, 7543.982910> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [14] ZmbM_HermitSkinny_Beige @ <1973.978149, 285.717834, 7573.537109> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [15] ZmbM_MotobikerFat_Black @ <1980.238770, 283.443970, 7547.752441> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Drop spawned with 15 infected at <1982.076782, 445.766754, 7572.841797>.
+[EOnDrop] Supplies have been dropped near Myshkino.
+[EOnBeforeDelete] Aircraft despawned @ <-1001.363403, 358.705688, 8602.212891>
+[~AirdropPlane] Aircraft destroyed.

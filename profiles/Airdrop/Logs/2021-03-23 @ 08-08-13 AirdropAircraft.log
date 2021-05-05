@@ -1,0 +1,22 @@
+[AirdropPlane] Aircraft created on 2021-03-23 @ 08-08-13
+[InitializeAircraft] Aircraft Initialized: Myshkino @ 1900/7600 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Myshkino. @ <2628.053223, 429.343048, 8909.882813>
+[EOnDrop] Zombie Spawned [1] ZmbM_HikerSkinny_Yellow @ <1942.608643, 290.165070, 7682.641113> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_FarmerFat_Brown @ <1954.554321, 290.948425, 7672.625488> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbF_HikerSkinny_Grey @ <1968.060913, 288.265533, 7648.909668> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbF_SurvivorNormal_Blue @ <1962.694214, 296.158020, 7690.668457> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_VillagerOld_Blue @ <1929.740479, 285.547028, 7678.677734> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbF_SurvivorNormal_White @ <1893.479370, 283.911957, 7676.485840> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbM_HikerSkinny_Blue @ <1922.710083, 286.203827, 7694.816895> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbM_HunterOld_Spring @ <1928.463379, 284.369324, 7672.286621> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbM_MotobikerFat_Beige @ <1950.947754, 287.265961, 7657.095215> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbM_VillagerOld_Green @ <1942.328491, 289.576050, 7680.048828> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [11] ZmbF_VillagerOld_Red @ <1930.213013, 286.634460, 7683.555664> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [12] ZmbM_HunterOld_Spring @ <1913.685425, 279.025085, 7649.248047> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [13] ZmbF_VillagerOld_White @ <1922.295288, 281.752106, 7662.914551> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [14] ZmbF_SurvivorNormal_Orange @ <1934.679932, 292.269836, 7705.780762> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [15] ZmbM_FarmerFat_Brown @ <1927.556641, 284.765320, 7678.621094> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Drop spawned with 15 infected at <1939.749023, 454.350159, 7672.540527>.
+[EOnDrop] Supplies have been dropped near Myshkino.
+[EOnBeforeDelete] Aircraft despawned @ <-1000.893005, 230.172958, 2385.134277>
+[~AirdropPlane] Aircraft destroyed.

@@ -1,0 +1,12 @@
+[AirdropPlane] Aircraft created on 2021-05-03 @ 18-01-48
+[InitializeAircraft] Aircraft Initialized: Veresnik @ 4000/7850 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Veresnik. @ <5385.399414, 463.656494, 7279.614746>
+[EOnDrop] Zombie Spawned [1] ZmbM_HermitSkinny_Beige @ <4127.895508, 302.776672, 7827.566406> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Spawn failed for zombie [2] 'ZmbM_SurvivorDean_Grey', it does not exist in DayZ!
+[EOnDrop] Zombie Spawned [3] ZmbM_MotobikerFat_Beige @ <4105.082031, 301.695862, 7831.984375> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_VillagerOld_Green @ <4092.404053, 300.388885, 7813.736816> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_HikerSkinny_Green @ <4067.572510, 300.521545, 7855.418945> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 5 infected at <4085.088379, 444.393433, 7815.330078>.
+[EOnDrop] Supplies have been dropped near Veresnik.
+[EOnBeforeDelete] Aircraft despawned @ <-1000.199097, 452.641266, 9911.567383>
+[~AirdropPlane] Aircraft destroyed.

@@ -1,0 +1,25 @@
+[InitializeContainer] Container created on 2021-05-02 @ 12-38-57
+[InitializeContainer] Winds: Vector <9.064712, 0.000000, -3.851472>, Speed 9.849mps, Strength 0.1
+[AirdropContainerFall] Drop Type 'Military West', Container: 'RANDOM', Mode/Quantity/Iems: Random/20/40, Flare:  10%
+[AirdropContainerFall] Loot Spawned [1] AmmoBox_556x45_20Rnd @ <10060.107422, 43.830696, 2530.048340> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [2] USMCPants_Desert @ <10060.298828, 43.817005, 2529.697266> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [3] UKAssVest_Olive @ <10060.105469, 44.055157, 2525.741699> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [4] USMCPants_Woodland @ <10060.408203, 44.136345, 2524.035645> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [5] Battery9V @ <10058.084961, 44.193085, 2527.925293> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [6] UKAssVest_Camo @ <10058.226563, 44.316860, 2525.721191> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [7] Rangefinder @ <10060.704102, 43.775791, 2529.283691> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [8] Mag_STANAG_30Rnd @ <10059.047852, 44.025551, 2528.804443> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [9] AmmoBox_45ACP_25Rnd @ <10062.727539, 43.564198, 2527.430664> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [10] CanOpener @ <10062.701172, 43.648453, 2526.330811> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [11] Canteen @ <10058.313477, 44.116199, 2529.129883> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [12] UniversalLight @ <10059.458984, 43.925484, 2529.943359> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [13] Battery9V @ <10061.761719, 43.898628, 2524.712646> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [14] TacticalGloves_Black @ <10062.111328, 43.799171, 2525.402832> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [15] AmmoBox_556x45_20Rnd @ <10057.460938, 44.329391, 2527.058105> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [16] Mag_FNX45_15Rnd @ <10062.452148, 43.524040, 2529.469727> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [17] TacticalGloves_Beige @ <10060.363281, 44.081047, 2524.895752> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [18] Battery9V @ <10059.903320, 43.865734, 2529.875244> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [19] TacticalGloves_Black @ <10060.524414, 44.066078, 2524.792236> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [20] UKAssVest_Olive @ <10062.543945, 43.673820, 2526.285400> ... Lifespan: Set to 60 minutes.
+[AirdropContainerUnstuck] Container was unstuck.
+[~AirdropContainerBase] Container Destroyed on 2021-05-02 @ 13-00-02

@@ -1,0 +1,22 @@
+[AirdropPlane] Aircraft created on 2021-04-19 @ 01-26-41
+[InitializeAircraft] Aircraft Initialized: Myshkino @ 1900/7600 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Myshkino. @ <408.295471, 441.235596, 7443.819336>
+[EOnDrop] Zombie Spawned [1] ZmbM_HikerSkinny_Yellow @ <1826.840210, 278.722412, 7594.382324> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_MotobikerFat_Beige @ <1819.251343, 280.609955, 7583.491211> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_HunterOld_Spring @ <1809.921387, 282.682861, 7580.880371> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_HermitSkinny_Red @ <1810.633057, 282.520966, 7581.390625> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_HunterOld_Summer @ <1823.949219, 279.058197, 7600.885742> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbM_VillagerOld_Blue @ <1800.325684, 284.301636, 7590.294922> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbM_HermitSkinny_Beige @ <1803.719116, 280.158600, 7638.778320> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbM_HermitSkinny_Green @ <1848.512207, 274.014893, 7555.348145> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbF_VillagerOld_Green @ <1832.832153, 277.769623, 7565.284668> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbM_HunterOld_Winter @ <1808.504639, 282.918823, 7564.751465> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [11] ZmbF_MilkMaidOld_Beige @ <1843.272339, 275.488770, 7574.127441> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [12] ZmbM_HunterOld_Summer @ <1833.832764, 277.487488, 7615.736328> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [13] ZmbF_SurvivorNormal_Orange @ <1839.074463, 276.338654, 7555.942871> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [14] ZmbM_FarmerFat_Beige @ <1804.671875, 281.972961, 7612.563477> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Spawn failed for zombie [15] 'ZmbM_SurvivorDean_Black', it does not exist in DayZ!
+[EOnDrop] Drop spawned with 15 infected at <1818.522949, 420.897705, 7591.680664>.
+[EOnDrop] Supplies have been dropped near Myshkino.
+[EOnBeforeDelete] Aircraft despawned @ <16360.876953, 152.000610, 9116.362305>
+[~AirdropPlane] Aircraft destroyed.

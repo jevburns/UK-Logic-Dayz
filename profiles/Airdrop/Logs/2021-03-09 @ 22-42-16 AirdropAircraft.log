@@ -1,0 +1,17 @@
+[AirdropPlane] Aircraft created on 2021-03-09 @ 22-42-16
+[InitializeAircraft] Aircraft Initialized: Player Called @ 4997.32/7023.16 (false)
+[EOnBeforeDrop] The Aircraft is 1 Km from called location. @ <4633.899902, 472.551971, 8476.711914>
+[EOnDrop] Zombie Spawned [1] Animal_CanisLupus_Grey @ <4982.676758, 291.061188, 7098.429199> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] Animal_CanisLupus_White @ <4977.138184, 291.561584, 7100.330566> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbF_MechanicNormal_Green @ <4982.207520, 290.327576, 7086.487793> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_HermitSkinny_Black @ <4943.167480, 292.980621, 7064.817871> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbF_BlueCollarFat_Red @ <4993.731445, 289.869202, 7091.440918> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [6] Animal_CanisLupus_Grey @ <4955.828125, 291.511963, 7064.456055> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbM_CommercialPilotOld_Brown @ <4988.552734, 291.877106, 7114.378418> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbM_SoldierNormal @ <4961.341309, 293.610962, 7129.192383> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbF_MechanicNormal_Grey @ <4956.839355, 290.953369, 7059.046875> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbM_PatrolNormal_Autumn @ <4980.008789, 290.317291, 7083.719727> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 10 infected at <4980.052246, 446.885986, 7091.666992>.
+[EOnDrop] Supplies have been dropped near the player's location.
+[EOnBeforeDelete] Aircraft despawned @ <7002.704590, 152.000610, -1001.070374>
+[~AirdropPlane] Aircraft destroyed.

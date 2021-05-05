@@ -1,0 +1,12 @@
+[AirdropPlane] Aircraft created on 2021-03-11 @ 21-05-26
+[InitializeAircraft] Aircraft Initialized: Gorka @ 8775/9200 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Gorka. @ <7810.706543, 528.645142, 8051.978516>
+[EOnDrop] Zombie Spawned [1] Animal_CanisLupus_White @ <8702.016602, 388.827881, 9125.140625> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] Animal_CanisLupus_White @ <8718.837891, 387.008636, 9112.141602> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] Animal_CanisLupus_Grey @ <8748.981445, 383.664948, 9103.488281> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] Animal_CanisLupus_White @ <8745.581055, 383.762909, 9099.184570> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] Animal_CanisLupus_White @ <8760.145508, 383.862946, 9120.975586> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 5 infected at <8722.846680, 535.780945, 9137.923828>.
+[EOnDrop] Supplies have been dropped near Gorka.
+[EOnBeforeDelete] Aircraft despawned @ <14789.885742, 271.476105, 16360.134766>
+[~AirdropPlane] Aircraft destroyed.

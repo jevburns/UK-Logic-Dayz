@@ -1,0 +1,32 @@
+[AirdropPlane] Aircraft created on 2021-03-14 @ 02-26-58
+[InitializeAircraft] Aircraft Initialized: Soverograd @ 8566/12755 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Soverograd. @ <9967.648438, 305.109650, 13287.277344>
+[EOnDrop] Zombie Spawned [1] ZmbF_CitizenANormal_Blue @ <8680.910156, 105.505074, 12810.536133> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_CommercialPilotOld_Grey @ <8666.045898, 103.704460, 12758.619141> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_SkaterYoung_Brown @ <8639.433594, 105.459999, 12790.583008> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbF_ShortSkirt_beige @ <8641.752930, 105.459999, 12782.600586> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_ClerkFat_Grey @ <8647.944336, 105.459999, 12780.959961> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbF_SkaterYoung_Violet @ <8643.398438, 105.459999, 12802.914063> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbM_Jacket_greenchecks @ <8636.628906, 105.459999, 12793.348633> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbF_ShortSkirt_beige @ <8655.359375, 103.939163, 12741.636719> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbF_ShortSkirt_beige @ <8670.991211, 105.461319, 12800.021484> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbF_JournalistNormal_Green @ <8665.540039, 105.462143, 12779.282227> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [11] ZmbM_SkaterYoung_Grey @ <8613.666992, 105.107643, 12799.272461> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [12] ZmbF_ShortSkirt_stripes @ <8603.237305, 104.519676, 12789.813477> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [13] ZmbF_ParamedicNormal_Blue @ <8630.564453, 105.488510, 12813.967773> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [14] ZmbM_Jacket_grey @ <8622.890625, 105.450310, 12783.340820> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [15] ZmbM_CitizenASkinny_Brown @ <8612.109375, 104.556252, 12769.246094> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [16] ZmbM_Jacket_stripes @ <8641.277344, 105.459999, 12781.342773> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [17] ZmbF_JournalistNormal_Red @ <8640.307617, 105.459999, 12793.674805> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [18] ZmbM_CitizenASkinny_Brown @ <8618.061523, 104.685005, 12765.069336> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [19] ZmbF_SkaterYoung_Striped @ <8611.362305, 104.850761, 12796.224609> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [20] ZmbM_Jacket_black @ <8651.853516, 105.459999, 12784.672852> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [21] ZmbF_Clerk_Normal_Green @ <8635.783203, 104.500000, 12748.239258> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [22] ZmbF_JournalistNormal_Red @ <8637.452148, 105.207985, 12766.804688> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [23] ZmbM_CommercialPilotOld_Olive @ <8612.561523, 104.939087, 12790.066406> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [24] ZmbF_ShortSkirt_green @ <8651.041016, 105.459999, 12796.570313> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [25] ZmbM_JoggerSkinny_Green @ <8642.536133, 105.459999, 12782.811523> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 25 infected at <8647.332031, 245.784637, 12786.886719>.
+[EOnDrop] Supplies have been dropped near Soverograd.
+[EOnBeforeDelete] Aircraft despawned @ <-1001.255798, 400.785492, 9130.343750>
+[~AirdropPlane] Aircraft destroyed.

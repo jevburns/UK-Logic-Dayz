@@ -1,0 +1,12 @@
+[AirdropPlane] Aircraft created on 2021-04-25 @ 15-34-53
+[InitializeAircraft] Aircraft Initialized: Soverograd @ 8566/12755 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Soverograd. @ <7068.046387, 306.640747, 12819.115234>
+[EOnDrop] Zombie Spawned [1] ZmbM_PatrolNormal_Summer @ <8487.811523, 106.145348, 12790.897461> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_CitizenBFat_Red @ <8503.595703, 104.829117, 12765.375977> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_CommercialPilotOld_Brown @ <8514.534180, 104.645752, 12750.673828> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_CitizenASkinny_Red @ <8472.717773, 107.192635, 12794.744141> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbF_JournalistNormal_Blue @ <8479.112305, 106.311424, 12742.593750> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 5 infected at <8496.212891, 250.652466, 12759.053711>.
+[EOnDrop] Supplies have been dropped near Soverograd.
+[EOnBeforeDelete] Aircraft despawned @ <16361.369141, 152.000610, 12428.350586>
+[~AirdropPlane] Aircraft destroyed.

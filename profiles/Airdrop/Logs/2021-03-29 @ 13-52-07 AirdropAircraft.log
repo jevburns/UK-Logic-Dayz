@@ -1,0 +1,22 @@
+[AirdropPlane] Aircraft created on 2021-03-29 @ 13-52-07
+[InitializeAircraft] Aircraft Initialized: Myshkino @ 1900/7600 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Myshkino. @ <1875.310547, 428.430145, 9098.403320>
+[EOnDrop] Zombie Spawned [1] ZmbM_VillagerOld_Green @ <1889.994629, 283.010895, 7668.401855> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_HunterOld_Winter @ <1895.228271, 286.124390, 7694.375000> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_HermitSkinny_Green @ <1907.542603, 283.955078, 7682.062012> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbF_VillagerOld_White @ <1866.826294, 286.985352, 7723.146973> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbF_HikerSkinny_Green @ <1926.976074, 283.681122, 7670.246582> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbM_HunterOld_Summer @ <1900.270630, 289.709351, 7718.903320> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbM_FarmerFat_Green @ <1903.469971, 285.587280, 7692.684570> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbM_FarmerFat_Beige @ <1873.513916, 285.747894, 7700.599609> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbM_MotobikerFat_Blue @ <1874.803711, 282.569977, 7671.336426> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbM_HikerSkinny_Green @ <1932.765869, 292.245422, 7710.981445> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [11] ZmbM_HermitSkinny_Black @ <1909.377808, 288.624268, 7712.219238> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [12] ZmbM_HunterOld_Autumn @ <1915.518311, 287.318665, 7705.140625> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [13] ZmbF_SurvivorNormal_Blue @ <1889.524292, 283.847534, 7677.350586> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [14] ZmbF_SurvivorNormal_Red @ <1872.711670, 279.887115, 7652.891602> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Zombie Spawned [15] ZmbF_HikerSkinny_Red @ <1870.645386, 286.529510, 7711.946289> ... Lifespan:  Set to 30 minutes.
+[EOnDrop] Drop spawned with 15 infected at <1898.778931, 441.075134, 7688.515625>.
+[EOnDrop] Supplies have been dropped near Myshkino.
+[EOnBeforeDelete] Aircraft despawned @ <2043.409668, 152.000610, -1000.909119>
+[~AirdropPlane] Aircraft destroyed.

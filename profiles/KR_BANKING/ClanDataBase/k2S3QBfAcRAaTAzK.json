@@ -1,0 +1,43 @@
+{
+    "m_ClanID": "k2S3QBfAcRAaTAzK",
+    "m_OwnersPlainID": "76561198254602740",
+    "m_ClanName": "Misfits",
+    "m_Prefix": "MF",
+    "m_BankAmount": 0,
+    "m_Members": [
+        {
+            "m_plainID": "76561198254602740",
+            "m_playername": "[MF]Gh0sty",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 1,
+                "m_CanKick": 1,
+                "m_CanEdit": 1
+            }
+        },
+        {
+            "m_plainID": "76561198035432577",
+            "m_playername": "[MF]R@st@n@tor",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 0,
+                "m_CanKick": 0,
+                "m_CanEdit": 0
+            }
+        }
+    ],
+    "m_ClanLogs": [
+        "[MF]Gh0sty deposited: 7443",
+        "[MF]Gh0sty withdrawed: 7000",
+        "[MF]Gh0sty deposited: 1500",
+        "[MF]Gh0sty withdrawed: 1943",
+        "[MF]R@st@n@tor deposited: 100",
+        "[MF]R@st@n@tor deposited: 128",
+        "[MF]R@st@n@tor deposited: 500",
+        "[MF]R@st@n@tor deposited: 10000",
+        "[MF]R@st@n@tor deposited: 5000",
+        "[MF]R@st@n@tor withdrawed: 15728"
+    ]
+}

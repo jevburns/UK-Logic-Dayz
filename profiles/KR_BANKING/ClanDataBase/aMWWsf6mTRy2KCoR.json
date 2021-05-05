@@ -1,0 +1,87 @@
+{
+    "m_ClanID": "aMWWsf6mTRy2KCoR",
+    "m_OwnersPlainID": "76561199116927487",
+    "m_ClanName": "We Were Banjoed ",
+    "m_Prefix": "WWB",
+    "m_BankAmount": 416164,
+    "m_Members": [
+        {
+            "m_plainID": "76561199116927487",
+            "m_playername": "IRonic",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 1,
+                "m_CanKick": 1,
+                "m_CanEdit": 1
+            }
+        },
+        {
+            "m_plainID": "76561198067290448",
+            "m_playername": "CaptnJack",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 1,
+                "m_CanKick": 1,
+                "m_CanEdit": 1
+            }
+        },
+        {
+            "m_plainID": "76561197976576399",
+            "m_playername": "Kittykat",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 1,
+                "m_CanKick": 1,
+                "m_CanEdit": 1
+            }
+        },
+        {
+            "m_plainID": "76561198284652800",
+            "m_playername": "Mass19",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 0,
+                "m_CanKick": 0,
+                "m_CanEdit": 0
+            }
+        },
+        {
+            "m_plainID": "76561198248781076",
+            "m_playername": "NoExiiit",
+            "m_permissions": {
+                "m_CanWithdraw": 1,
+                "m_CanDeposit": 1,
+                "m_CanInvite": 0,
+                "m_CanKick": 0,
+                "m_CanEdit": 0
+            }
+        }
+    ],
+    "m_ClanLogs": [
+        "IRonic deposited: 42790",
+        "IRonic deposited: 12290",
+        "IRonic deposited: 13860",
+        "CaptnJack deposited: 87000",
+        "IRonic withdrawed: 2000",
+        "CaptnJack deposited: 4166",
+        "IRonic deposited: 2706",
+        "CaptnJack deposited: 49270",
+        "IRonic deposited: 4795",
+        "IRonic deposited: 10000",
+        "CaptnJack withdrawed: 50000",
+        "CaptnJack deposited: 29000",
+        "CaptnJack deposited: 64000",
+        "Mass19 deposited: 70835",
+        "IRonic deposited: 34500",
+        "IRonic deposited: 69480",
+        "IRonic deposited: 20000",
+        "IRonic withdrawed: 80000",
+        "CaptnJack deposited: 14030",
+        "CaptnJack withdrawed: 200000",
+        "CaptnJack deposited: 147995"
+    ]
+}

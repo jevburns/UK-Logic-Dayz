@@ -1,0 +1,25 @@
+[InitializeContainer] Container created on 2021-03-25 @ 20-36-21
+[InitializeContainer] Winds: Vector <0.921220, 0.000000, -6.822580>, Speed 6.88449mps, Strength 0.1
+[AirdropContainerFall] Drop Type 'Medical', Container: 'AirdropContainer_Medical', Mode/Quantity/Iems: Random/20/37, Flare:  10%
+[AirdropContainerFall] Spawn failed for item [1] 'MedicalScrubShirt_White', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [2] SurgicalGloves_LightBlue @ <13552.017578, 40.115078, 3121.337402> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [3] SurgicalMask @ <13554.561523, 40.161537, 3123.962158> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [4] DisinfectantAlcohol @ <13553.034180, 40.316257, 3121.612061> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [5] BloodSyringe @ <13552.976563, 39.677723, 3124.902832> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Spawn failed for item [6] 'MedicalScrubPants_Blue', does not exist in DayZ!
+[AirdropContainerFall] Spawn failed for item [7] 'MedicalScrubShirt_Blue', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [8] VitaminBottle @ <13550.659180, 39.708141, 3121.416504> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [9] TetracyclineAntibiotics @ <13549.226563, 39.163193, 3122.194824> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [10] TetracyclineAntibiotics @ <13551.441406, 40.221634, 3119.844482> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [11] BloodBagEmpty @ <13549.270508, 39.045826, 3122.666260> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [12] Epinephrine @ <13551.526367, 39.227829, 3125.182861> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [13] Heatpack @ <13550.538086, 39.059788, 3124.440918> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [14] TetracyclineAntibiotics @ <13555.328125, 40.152615, 3124.798584> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [15] BloodSyringe @ <13553.181641, 39.440117, 3126.355713> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [16] SalineBag @ <13554.416992, 40.000969, 3124.658691> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [17] Morphine @ <13553.664063, 40.279739, 3122.437988> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Spawn failed for item [18] 'CharcolaTablets', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [19] BloodTestKit @ <13550.218750, 38.733917, 3125.624756> ... Lifespan: Set to 30 minutes.
+[AirdropContainerFall] Loot Spawned [20] VitaminBottle @ <13553.299805, 39.629276, 3125.482422> ... Lifespan: Set to 30 minutes.
+[AirdropContainerUnstuck] Container was unstuck.
+[~AirdropContainerBase] Container Destroyed on 2021-03-25 @ 21-01-21

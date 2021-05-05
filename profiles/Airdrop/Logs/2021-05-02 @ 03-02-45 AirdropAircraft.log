@@ -1,0 +1,12 @@
+[AirdropPlane] Aircraft created on 2021-05-02 @ 03-02-45
+[InitializeAircraft] Aircraft Initialized: Myshkino @ 1900/7600 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Myshkino. @ <3390.545898, 471.388977, 7449.216309>
+[EOnDrop] Zombie Spawned [1] ZmbM_MotobikerFat_Black @ <2006.514771, 296.977753, 7594.074707> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Spawn failed for zombie [2] 'ZmbM_SurvivorDean_Blue', it does not exist in DayZ!
+[EOnDrop] Zombie Spawned [3] ZmbM_VillagerOld_White @ <2017.510620, 297.271637, 7573.676270> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_HunterOld_Summer @ <1988.607666, 294.590363, 7615.066895> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_HunterOld_Autumn @ <1963.978394, 281.022186, 7549.158203> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 5 infected at <1989.363159, 455.698761, 7591.081543>.
+[EOnDrop] Supplies have been dropped near Myshkino.
+[EOnBeforeDelete] Aircraft despawned @ <-1000.975464, 408.704315, 7893.856934>
+[~AirdropPlane] Aircraft destroyed.
